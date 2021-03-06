@@ -1,8 +1,0 @@
-Nút Begin và Exit hoạt động bình thường
-Còn phát sinh lỗi
---> IE.au3 T3.0-2 Warning from function _IECreate,  (Foreground Window Unlock Failed!)
-
-Nghi ngờ lỗi do mở hidden quá nhiều
-Cần dùng navigate để thay thế
-
-Chưa test trên máy win 7
