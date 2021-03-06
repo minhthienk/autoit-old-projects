@@ -1,0 +1,818 @@
+<year>2019<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2018<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2018<year> --- <make>Ford<make> --- <model>EcoSport<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2018<year> --- <make>Ford<make> --- <model>GT<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Shelby GT350<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2017<year> --- <make>Ford<make> --- <model>C-Max Energi<model>
+<year>2017<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2017<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2017<year> --- <make>Ford<make> --- <model>GT<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Shelby GT350<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2017<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2017<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2016<year> --- <make>Ford<make> --- <model>C-Max Energi<model>
+<year>2016<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2016<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2016<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Shelby GT350<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2016<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2016<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2015<year> --- <make>Ford<make> --- <model>C-Max Energi<model>
+<year>2015<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2015<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2015<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2015<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2015<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2014<year> --- <make>Ford<make> --- <model>C-Max Energi<model>
+<year>2014<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2014<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2014<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2014<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2014<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2014<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2014<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2014<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Focus BEV<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2014<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2014<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2014<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2014<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2014<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2014<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2014<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2013<year> --- <make>Ford<make> --- <model>C-Max<model>
+<year>2013<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2013<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2013<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2013<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Focus BEV<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2013<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2013<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2012<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2012<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2012<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Focus BEV<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2012<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2012<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2011<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2011<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2011<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2011<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2011<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2011<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2011<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2011<year> --- <make>Mercury<make> --- <model>Mariner Hybrid<model>
+<year>2011<year> --- <make>Mercury<make> --- <model>Milan<model>
+<year>2011<year> --- <make>Mercury<make> --- <model>Milan Hybrid<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2010<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2010<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2010<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2010<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2010<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2010<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2010<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2010<year> --- <make>Mercury<make> --- <model>Mariner Hybrid<model>
+<year>2010<year> --- <make>Mercury<make> --- <model>Milan<model>
+<year>2010<year> --- <make>Mercury<make> --- <model>Milan Hybrid<model>
+<year>2010<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2009<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2009<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2009<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2009<year> --- <make>Ford<make> --- <model>Taurus X<model>
+<year>2009<year> --- <make>Lincoln<make> --- <model>MKS<model>
+<year>2009<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2009<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2009<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2009<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2009<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2009<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2009<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2009<year> --- <make>Mercury<make> --- <model>Mariner Hybrid<model>
+<year>2009<year> --- <make>Mercury<make> --- <model>Milan<model>
+<year>2009<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2009<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2008<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2008<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-350<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2008<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2008<year> --- <make>Ford<make> --- <model>Taurus X<model>
+<year>2008<year> --- <make>Lincoln<make> --- <model>Mark LT<model>
+<year>2008<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2008<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2008<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2008<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2008<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2008<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2008<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2008<year> --- <make>Mercury<make> --- <model>Mariner Hybrid<model>
+<year>2008<year> --- <make>Mercury<make> --- <model>Milan<model>
+<year>2008<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2008<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2007<year> --- <make>Ford<make> --- <model>E-Series<model>
+<year>2007<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2007<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2007<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Five Hundred<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Freestar<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Freestyle<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2007<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2007<year> --- <make>Lincoln<make> --- <model>Mark LT<model>
+<year>2007<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2007<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2007<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2007<year> --- <make>Lincoln<make> --- <model>Navigator L<model>
+<year>2007<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Mariner Hybrid<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Milan<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Montego<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Monterey<model>
+<year>2007<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Econoline Stripped Chassis<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2006<year> --- <make>Ford<make> --- <model>E-Series<model>
+<year>2006<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2006<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2006<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Five Hundred<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Freestar<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Freestyle<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2006<year> --- <make>Ford<make> --- <model>GT<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2006<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2006<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2006<year> --- <make>Lincoln<make> --- <model>Mark LT<model>
+<year>2006<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2006<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2006<year> --- <make>Lincoln<make> --- <model>Zephyr<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Mariner Hybrid<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Milan<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Montego<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Monterey<model>
+<year>2006<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2005<year> --- <make>Ford<make> --- <model>E-Series<model>
+<year>2005<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2005<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Excursion<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-150 Heritage<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2005<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Five Hundred<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Freestar<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Freestyle<model>
+<year>2005<year> --- <make>Ford<make> --- <model>GT<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>2005<year> --- <make>Ford<make> --- <model>Thunderbird<model>
+<year>2005<year> --- <make>Lincoln<make> --- <model>Aviator<model>
+<year>2005<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2005<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2005<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Mariner<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Montego<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Monterey<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2005<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2004<year> --- <make>Ford<make> --- <model>E-Series<model>
+<year>2004<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2004<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Excursion<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-150 Heritage<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2004<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Freestar<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>2004<year> --- <make>Ford<make> --- <model>Thunderbird<model>
+<year>2004<year> --- <make>Lincoln<make> --- <model>Aviator<model>
+<year>2004<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2004<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2004<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2004<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2004<year> --- <make>Mercury<make> --- <model>Marauder<model>
+<year>2004<year> --- <make>Mercury<make> --- <model>Monterey<model>
+<year>2004<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2004<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2004<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2003<year> --- <make>Ford<make> --- <model>E-Series<model>
+<year>2003<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2003<year> --- <make>Ford<make> --- <model>E-Series Wagon<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Excursion<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Explorer Sport<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2003<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Thunderbird<model>
+<year>2003<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>2003<year> --- <make>Ford<make> --- <model>ZX2<model>
+<year>2003<year> --- <make>Lincoln<make> --- <model>Aviator<model>
+<year>2003<year> --- <make>Lincoln<make> --- <model>Blackwood<model>
+<year>2003<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2003<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2003<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2003<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2003<year> --- <make>Mercury<make> --- <model>Marauder<model>
+<year>2003<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2003<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2003<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Econoline Wagon<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>2002<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Excursion<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2002<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Think<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Thunderbird<model>
+<year>2002<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>2002<year> --- <make>Ford<make> --- <model>ZX2<model>
+<year>2002<year> --- <make>Lincoln<make> --- <model>Blackwood<model>
+<year>2002<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2002<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2002<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2002<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2002<year> --- <make>Mercury<make> --- <model>Cougar<model>
+<year>2002<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2002<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2002<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2002<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>2002<year> --- <make>Mercury<make> --- <model>Villager<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Econoline Wagon<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>2001<year> --- <make>Ford<make> --- <model>E-Series Van<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Excursion<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Explorer Sport Trac<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-450<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2001<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>2001<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>2001<year> --- <make>Ford<make> --- <model>ZX2<model>
+<year>2001<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2001<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2001<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2001<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2001<year> --- <make>Mercury<make> --- <model>Cougar<model>
+<year>2001<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2001<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2001<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2001<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>2001<year> --- <make>Mercury<make> --- <model>Villager<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Contour<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Econoline Wagon<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Excursion<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-450<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2000<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Focus Wagon<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>2000<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>2000<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2000<year> --- <make>Lincoln<make> --- <model>LS<model>
+<year>2000<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2000<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Cougar<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Mystique<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>2000<year> --- <make>Mercury<make> --- <model>Villager<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Club Wagon<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Contour<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Econoline Wagon<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Escort Wagon<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>1999<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>1999<year> --- <make>Ford<make> --- <model>F-250<model>
+<year>1999<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>1999<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>1999<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>1999<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>1999<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>1999<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>1999<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>1999<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Cougar<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Mystique<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Tracer<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Tracer Wagon<model>
+<year>1999<year> --- <make>Mercury<make> --- <model>Villager<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Club Wagon<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Contour<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Escort Wagon<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>1998<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>1998<year> --- <make>Ford<make> --- <model>F-250<model>
+<year>1998<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>1998<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>1998<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>1998<year> --- <make>Lincoln<make> --- <model>Mark VIII<model>
+<year>1998<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>1998<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Mystique<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Tracer<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Tracer Wagon<model>
+<year>1998<year> --- <make>Mercury<make> --- <model>Villager<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Aerostar<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Aspire<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Club Wagon<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Contour<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Escort Wagon<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>1997<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>1997<year> --- <make>Ford<make> --- <model>F-250<model>
+<year>1997<year> --- <make>Ford<make> --- <model>F-350<model>
+<year>1997<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Probe<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Thunderbird<model>
+<year>1997<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>1997<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>1997<year> --- <make>Lincoln<make> --- <model>Mark VIII<model>
+<year>1997<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Cougar<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Mountaineer<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Mystique<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Tracer<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Tracer Wagon<model>
+<year>1997<year> --- <make>Mercury<make> --- <model>Villager<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Aerostar<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Aspire<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Bronco<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Club Wagon<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Contour<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Crown Victoria<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Escort<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Escort Wagon<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>1996<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>1996<year> --- <make>Ford<make> --- <model>F-250<model>
+<year>1996<year> --- <make>Ford<make> --- <model>F-350<model>
+<year>1996<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Probe<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Taurus Wagon<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Thunderbird<model>
+<year>1996<year> --- <make>Ford<make> --- <model>Windstar<model>
+<year>1996<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>1996<year> --- <make>Lincoln<make> --- <model>Mark VIII<model>
+<year>1996<year> --- <make>Lincoln<make> --- <model>Town Car<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Cougar<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Grand Marquis<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Mystique<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Sable<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Sable Wagon<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Tracer<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Tracer Wagon<model>
+<year>1996<year> --- <make>Mercury<make> --- <model>Villager<model>

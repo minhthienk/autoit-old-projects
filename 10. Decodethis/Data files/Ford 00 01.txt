@@ -1,0 +1,1295 @@
+1996	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM97V
+1996	Lincoln	Mark VIII	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM91V
+1996	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNLM82W
+1996	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNLM83W
+1996	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNLM81W
+1997	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM97V
+1997	Lincoln	Mark VIII	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM91V
+1997	Lincoln	Mark VIII	LSC	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM92V
+1997	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNLM82W
+1997	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNLM81W
+1997	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNLM83W
+1998	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNFM97V
+1998	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM97V
+1998	Lincoln	Mark VIII	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNFM91V
+1998	Lincoln	Mark VIII	LSC	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNFM92V
+1998	Lincoln	Mark VIII	LSC	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM92V
+1998	Lincoln	Mark VIII	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNLM91V
+1998	Lincoln	Navigator	4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	5LMPU28L
+1998	Lincoln	Navigator	2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	5LMRU27L
+1998	Lincoln	Navigator	4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	5LMFU28L
+1998	Lincoln	Navigator	2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	5LMEU27L
+1998	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNFM81W
+1998	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNFM82W
+1998	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNFM83W
+1998	Lincoln	Town Car	Limousine	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1L1FM81W
+1998	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic	1LNLM83W
+1998	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic	1LNLM81W
+1998	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic	1LNLM82W
+1999	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNHM97V
+1999	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic	1LNFM97V
+1999	Lincoln	Navigator	4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	5LMPU28L
+1999	Lincoln	Navigator	4WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMPU28A
+1999	Lincoln	Navigator	2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	5LMRU27L
+1999	Lincoln	Navigator	2WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMRU27A
+1999	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM82W
+1999	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNFM82W
+1999	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNFM83W
+1999	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM83W
+1999	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM81W
+1999	Lincoln	Town Car	Limousine	 4.6L V8 SOHC 16V	4-Speed Automatic	1L1FM81W
+1999	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNFM81W
+2000	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNHM97V
+2000	Lincoln	LS	V8	 3.9L V8 DOHC 32V	5-Speed Automatic Overdrive	1LNHM87A
+2000	Lincoln	LS	V6 Automatic	 3.0L V6 DOHC 24V	5-Speed Automatic Overdrive	1LNHM86S
+2000	Lincoln	Navigator	4WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMFU28A
+2000	Lincoln	Navigator	4WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMPU28A
+2000	Lincoln	Navigator	2WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMEU27A
+2000	Lincoln	Navigator	2WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMRU27A
+2000	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM82W
+2000	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM81W
+2000	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM83W
+2000	Lincoln	Town Car	Limousine	 4.6L V8 SOHC 16V	4-Speed Automatic	1L1FM81W
+2000	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic	1LNFM82W
+2000	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic	1LNFM81W
+2001	Lincoln	Continental	Base	 4.6L V8 DOHC 32V	4-Speed Automatic Overdrive	1LNHM97V
+2001	Lincoln	LS	V8	 3.9L V8 DOHC 32V	5-Speed Automatic Overdrive	1LNHM87A
+2001	Lincoln	LS	V6 Automatic	 3.0L V6 DOHC 24V	5-Speed Automatic Overdrive	1LNHM86S
+2001	Lincoln	Navigator	4WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMFU28R
+2001	Lincoln	Navigator	2WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMEU27R
+2001	Lincoln	Navigator	2WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMEU27A
+2001	Lincoln	Navigator	4WD	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LMFU28A
+2001	Lincoln	Town Car	Signature	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM82W
+2001	Lincoln	Town Car	Executive	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM81W
+2001	Lincoln	Town Car	Cartier	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM83W
+2001	Lincoln	Town Car	Cartier L	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM85W
+2001	Lincoln	Town Car	Limousine	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1L1FM81W
+2001	Lincoln	Town Car	Executive L	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1LNHM84W
+1996	Mercury	Cougar	XR-7	 4.6L V8 OHV 12V	4-Speed Automatic Overdrive	1MELM62W
+1996	Mercury	Cougar	XR-7	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM624
+1996	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MELM75W
+1996	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MELM74W
+1996	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MELM756
+1996	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MELM746
+1996	Mercury	Mystique	GS	 2.0L L4 DOHC 16V		3MELM653
+1996	Mercury	Mystique	GS	 2.0L L4 DOHC 16V		1MELM653
+1996	Mercury	Mystique	GS	 2.5L V6 24V DOHC		3MELM65L
+1996	Mercury	Mystique	LS	 2.5L V6 24V DOHC		3MELM66L
+1996	Mercury	Mystique	GS	 2.5L V6 24V DOHC		1MELM65L
+1996	Mercury	Mystique	LS	 2.5L V6 24V DOHC		1MELM66L
+1996	Mercury	Mystique	LS	 2.0L L4 DOHC 16V		1MELM663
+1996	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM50U
+1996	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MELM53S
+1996	Mercury	Sable	G	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM51U
+1996	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM55U
+1996	Mercury	Sable	GS	 3.8L V6 DOHC 24V	4-Speed Automatic	1MELM504
+1996	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MELM58S
+1996	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM55U
+1996	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MELM58S
+1996	Mercury	Sable Wagon	GS	 3.8L V6 DOHC 24V	4-Speed Automatic	1MELM554
+1996	Mercury	Sable Wagon	GS	 3.0L V6 DOHC 24V	 4-Speed Automatic	1MELM55S
+1996	Mercury	Tracer	4-Door	 1.9L L4 SOHC 8V		3MESM10J
+1996	Mercury	Tracer	LTS 4-Door	 1.8L L4 DOHC 16V		3MESM148
+1996	Mercury	Tracer Wagon	Base	 1.9L L4 SOHC 8V		1MESM15J
+1996	Mercury	Tracer Wagon	Base	 1.9L L4 SOHC 8V		1MESM15J
+1996	Mercury	Villager	GS	 3.0L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2DV11W
+1997	Mercury	Cougar	XR-7	 4.6L V8 OHV 12V	4-Speed Automatic Overdrive	1MELM62W
+1997	Mercury	Cougar	XR-7	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM624
+1997	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MELM74W
+1997	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MELM75W
+1997	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic	2MECM75W
+1997	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2DU55P
+1997	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V	 4-Speed Automatic Overdrive	4M2DU52P
+1997	Mercury	Mystique	Base	 2.0L L4 DOHC 16V		1MELM653
+1997	Mercury	Mystique	Base	 2.5L V6 24V DOHC		1MELM65L
+1997	Mercury	Mystique	Base	 2.0L L4 DOHC 16V		3MELM653
+1997	Mercury	Mystique	LS	 2.5L V6 24V DOHC		1MELM66L
+1997	Mercury	Mystique	LS	 2.5L V6 24V DOHC		3MELM66L
+1997	Mercury	Mystique	Base	 2.5L V6 24V DOHC		3MELM65L
+1997	Mercury	Mystique	LS	 2.0L L4 DOHC 16V		1MELM663
+1997	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MELM53S
+1997	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM50U
+1997	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM55U
+1997	Mercury	Sable	GS	 3.0L V6 SOHC 24V	4-Speed Automatic	1MELM50S
+1997	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MELM58S
+1997	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MELM55U
+1997	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MELM58S
+1997	Mercury	Sable Wagon	GS	 3.8L V6 DOHC 24V	4-Speed Automatic	1MELM554
+1997	Mercury	Tracer	LS	 2.0L L4 SOHC 8V		1MELM13P
+1997	Mercury	Tracer	GS	 2.0L L4 SOHC 8V		1MELM10P
+1997	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		1MELM15P
+1997	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		3MELM15P
+1997	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		1MELM15P
+1997	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		3MELM15P
+1997	Mercury	Villager	GS	 3.0L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2DV111
+1998	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM74W
+1998	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM75W
+1998	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic	2MELM75W
+1998	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2ZU55P
+1998	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2ZU54E
+1998	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2ZU52P
+1998	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2ZU52E
+1998	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2DU55P
+1998	Mercury	Mystique	Base	 2.0L L4 DOHC 16V		1MELM653
+1998	Mercury	Mystique	LS	 2.5L V6 24V DOHC		1MELM66L
+1998	Mercury	Mystique	LS	 2.0L L4 DOHC 16V		1MEFM663
+1998	Mercury	Mystique	Base	 2.0L L4 DOHC 16V		1MEFM653
+1998	Mercury	Mystique	Base	 2.0L L4 DOHC 16V		3MELM653
+1998	Mercury	Mystique	LS	 2.5L V6 24V DOHC		1MEFM66L
+1998	Mercury	Mystique	LS	 2.5L V6 24V DOHC		3MEFM66L
+1998	Mercury	Mystique	LS	 2.5L V6 24V DOHC		3MELM66L
+1998	Mercury	Mystique	Base	 2.0L L4 DOHC 16V		3MEFM653
+1998	Mercury	Mystique	LS	  2.0L L4 DOHC 16V		1MELM663
+1998	Mercury	Mystique	GS	 2.5L V6 24V DOHC		1MELM65L
+1998	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM50U
+1998	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM53S
+1998	Mercury	Sable	GS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM50S
+1998	Mercury	Sable Wagon	GS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM58S
+1998	Mercury	Sable Wagon	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM55U
+1998	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM55S
+1998	Mercury	Sable Wagon	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM55U
+1998	Mercury	Sable Wagon	GS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM58S
+1998	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM55S
+1998	Mercury	Tracer	GS	 2.0L L4 SOHC 8V		1MEFM10P
+1998	Mercury	Tracer	LS	 2.0L L4 SOHC 8V		1MEFM13P
+1998	Mercury	Tracer	GS	 2.0L L4 SOHC 8V		1MELM10P
+1998	Mercury	Tracer	LS	 2.0L L4 SOHC 8V		1MELM13P
+1998	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		3MEFM15P
+1998	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		3MEFM15P
+1998	Mercury	Villager	GS	 3.0L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2ZV111
+1999	Mercury	Cougar	V6	 2.5L V6 DOHC 24V		1ZWFT61L
+1999	Mercury	Cougar	V6	 2.5L V6 DOHC 24V		1ZWHT61L
+1999	Mercury	Cougar	Base	 2.0L L4 DOHC 16V	5-Speed Manual Overdrive	1ZWHT603
+1999	Mercury	Cougar	Base	 2.0L L4 DOHC 16V	5-Speed Manual Overdrive	1ZWFT603
+1999	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM74W
+1999	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM75W
+1999	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2ZU54E
+1999	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2ZU52E
+1999	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2ZU52P
+1999	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2ZU55P
+1999	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2DU52P
+1999	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2DU54E
+1999	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2DU55P
+1999	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2DU52E
+1999	Mercury	Mystique	LS	 2.5L V6 DOHC 24V		1MEFM66L
+1999	Mercury	Mystique	GS	 2.0L L4 DOHC 16V		1MEFM653
+1999	Mercury	Mystique	LS	 2.5L V6 DOHC 24V		3MEBM66L
+1999	Mercury	Mystique	LS	 2.5L V6 DOHC 24V		3MEFM66L
+1999	Mercury	Mystique	GS	 2.0L L4 DOHC 16V		3MEFM653
+1999	Mercury	Mystique	LS	 2.0L L4 DOHC 16V		1MEFM663
+1999	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM53S
+1999	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM50U
+1999	Mercury	Sable	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM53U
+1999	Mercury	Sable	GS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM50S
+1999	Mercury	Sable Wagon	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM58U
+1999	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM58S
+1999	Mercury	Sable Wagon	LS	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM58S
+1999	Mercury	Sable Wagon	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM58U
+1999	Mercury	Tracer	LS	 2.0L L4 SOHC 8V		1MEFM13P
+1999	Mercury	Tracer	GS	 2.0L L4 SOHC 8V		1MEFM10P
+1999	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		3MEFM15P
+1999	Mercury	Tracer Wagon	Base	 2.0L L4 SOHC 8V		3MEFM15P
+1999	Mercury	Villager	Base	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2XV11T
+2000	Mercury	Cougar	V6	 2.5L V6 DOHC 24V		1ZWHT61L
+2000	Mercury	Cougar	V6	 2.5L V6 DOHC 24V		1ZWFT61L
+2000	Mercury	Cougar	Base	 2.0L L4 DOHC 16V	5-Speed Manual Overdrive	1ZWFT603
+2000	Mercury	Cougar	Base	 2.0L L4 DOHC 16V	5-Speed Manual Overdrive	1ZWHT603
+2000	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM75W
+2000	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM74W
+2000	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2ZU86P
+2000	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2DU76E
+2000	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2DU66E
+2000	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2DU86P
+2000	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2ZU66P
+2000	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2ZU76E
+2000	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2DU66P
+2000	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2ZU66E
+2000	Mercury	Mystique	LS	 2.5L V6 DOHC 24V		1MEFM66L
+2000	Mercury	Mystique	GS	 2.0L L4 DOHC 16V		1MEFM653
+2000	Mercury	Mystique	GS	 2.0L L4 DOHC 16V		3MEFM653
+2000	Mercury	Mystique	LS	 2.5L V6 DOHC 24V		3MEFM66L
+2000	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM53S
+2000	Mercury	Sable	LS Premium	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM55S
+2000	Mercury	Sable	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM53U
+2000	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM50U
+2000	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM58U
+2000	Mercury	Sable Wagon	LS Premium	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM59S
+2000	Mercury	Sable Wagon	LS Premium	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM59S
+2000	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM58U
+2002	Lincoln	Blackwood	Luxury Utility Vehicle	 5.4L V8 DOHC 32V	4-Speed Automatic Overdrive	5LTEW05A
+2000	Mercury	Villager	Base	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2XV11T
+2000	Mercury	Villager	Sport	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2XV12T
+2000	Mercury	Villager	Estate	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2XV14T
+2001	Mercury	Cougar	V6	 2.5L V6 DOHC 24V		1ZWHT61L
+2001	Mercury	Cougar	V6	 2.5L V6 DOHC 24V		1ZWFT61L
+2001	Mercury	Cougar	Base	 2.0L L4 DOHC 16V	5-Speed Manual Overdrive	1ZWFT603
+2001	Mercury	Cougar	Base	 2.0L L4 DOHC 16V	5-Speed Manual Overdrive	1ZWHT603
+2001	Mercury	Grand Marquis	LS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM75W
+2001	Mercury	Grand Marquis	GS	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2MEFM74W
+2001	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2ZU86P
+2001	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2DU66E
+2001	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2ZU66P
+2001	Mercury	Mountaineer	AWD	 5.0L V8 OHV 16V	4-Speed Automatic Overdrive	4M2DU86P
+2001	Mercury	Mountaineer	2WD	 5.0L V8 OHV 16V		4M2DU66P
+2001	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2ZU76E
+2001	Mercury	Mountaineer	4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	4M2DU76E
+2001	Mercury	Mountaineer	2WD	 4.0L V6 SOHC 12V		4M2ZU66E
+2001	Mercury	Sable	LS Premium	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEHM55S
+2001	Mercury	Sable	LS Premium	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM55S
+2001	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM50U
+2001	Mercury	Sable	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM53U
+2001	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEFM53S
+2001	Mercury	Sable	LS	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1MEFM532
+2001	Mercury	Sable	LS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEHM53U
+2001	Mercury	Sable Wagon	LS Premium	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEHM59S
+2001	Mercury	Sable	LS	 3.0L V6 SOHC 24V	4-Speed Automatic Overdrive	1MEHM53S
+2001	Mercury	Sable	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEHM50U
+2001	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEHM58U
+2001	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM58U
+2001	Mercury	Sable Wagon	LS Premium	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM59S
+2001	Mercury	Sable Wagon	LS Premium	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEHM59S
+2001	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEFM58U
+2001	Mercury	Sable Wagon	LS Premium	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1MEFM59S
+2001	Mercury	Sable Wagon	GS	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1MEHM58U
+2001	Mercury	Villager	Base	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2ZV11T
+2001	Mercury	Villager	Sport	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2ZV12T
+2001	Mercury	Villager	Estate	 3.3L V6 SOHC 12V	4-Speed Automatic Overdrive	4M2ZV14T
+2000	Ford	Contour	Sport	 2.5L V6 DOHC 24V		1FAFP66L
+2000	Ford	Contour	Sport	 2.0L L4 DOHC 16V		1FAFP663
+2000	Ford	Contour	Sport	 2.0L L4 DOHC 16V		3FAFP663
+2000	Ford	Contour	Sport	 2.0L L4 DOHC 16V		1FAFP66Z
+2000	Ford	Contour	Sport	 2.5L V6 DOHC 24V		3FAFP66L
+2000	Ford	Contour	SVT	 2.5L V6 DOHC 24V	5-Speed Manual Overdrive	1FAFP68G
+2000	Ford	Contour	Sport	 2.0L L4 DOHC 16V		3FAFP66Z
+2000	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP71W
+2000	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP74W
+2000	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP73W
+2000	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP719
+2000	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP72W
+2000	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP729
+2000	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP749
+2000	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP739
+2000	Ford	Econoline	E450	 5.4L V8 SOHC 16V		1FCLE49L
+2000	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDWE35S
+2000	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDXE45S
+2000	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14W
+2000	Ford	Econoline	E150	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTRE142
+2000	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTNE242
+2000	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14W
+2000	Ford	Econoline	E-450 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL		1FDXE45F
+2000	Ford	Econoline	E250	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTVE24M
+2000	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FBSS31L
+2000	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNE24L
+2000	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDWE35L
+2000	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14L
+2000	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDWE35F
+2000	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNS24L
+2000	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSE34L
+2000	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSE35F
+2000	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSS34L
+2000	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDPE24L
+2000	Ford	Econoline	E250 Extended	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTNS242
+2000	Ford	Econoline	E350 Extended	 6.8L V10 SOHC 20V	4-Speed Automatic	1FBSS31S
+2000	Ford	Econoline	E-350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDSE34L
+2000	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSE34F
+2000	Ford	Econoline	E350 Super Duty Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSS34F
+2000	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic	1FDNE272
+2000	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE45F
+2000	Ford	Econoline	E150	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FDRE142
+2000	Ford	Econoline	E350 Super Duty Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSS34F
+2000	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDNS24L
+2000	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14L
+2000	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSS34L
+2000	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FCJE39L
+2000	Ford	Econoline	E350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDSS34S
+2000	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDSE35S
+2000	Ford	Econoline	E-350 Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+2000	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSE35L
+2000	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPE242
+2000	Ford	Econoline	E350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSS34S
+2000	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSE34S
+2000	Ford	Econoline	E-350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic	1FDSE34F
+2000	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V		1FCKE39L
+2000	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDPS24L
+2000	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic	1FDSE34S
+2000	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTSS34M
+2000	Ford	Econoline	E250 Super Duty	 4.2L V6 SOHC 12V		1FCHE292
+2000	Ford	Econoline	E-450	 6.8L V10 SOHC		1FCLE49S
+2000	Ford	Econoline	E250 Extended	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPS242
+2000	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTSE34M
+2000	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDNE24L
+2000	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic	1FTVE242
+2000	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBNE31L
+2000	Ford	Econoline Wagon	E-150 XL	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11L
+2000	Ford	Econoline Wagon	E-150 XL	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11W
+2000	Ford	Econoline Wagon	E-150 XL	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FMRE112
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNE31L
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBNE31M
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNE31S
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBNE31S
+2000	Ford	Econoline	E350 Extended	 6.8L V10 SOHC 20V	4-Speed Automatic	1FBSS31S
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNE31F
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FMNE31M
+2000	Ford	Econoline Wagon	E-350 XL Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBNE31F
+2000	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FBSS31L
+2000	Ford	Econoline	E-350 Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+2000	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+2000	Ford	Escort	ZX2	 2.0L L4 DOHC 16V		3FAKP113
+2000	Ford	Escort	Sedan	 2.0L L4 SOHC 8V		3FAFP13P
+2000	Ford	Excursion	Limited 4WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMSU43F
+2000	Ford	Excursion	Limited 4WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU43S
+2000	Ford	Excursion	Limited 2WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU42S
+2000	Ford	Excursion	XLT 4WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU41S
+2000	Ford	Excursion	Limited 2WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNU42F
+2000	Ford	Excursion	XLT 4WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMSU41F
+2000	Ford	Excursion	XLT 2WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU40S
+2000	Ford	Excursion	XLT 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU40L
+2000	Ford	Excursion	XLT 2WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNU40F
+2000	Ford	Excursion	Limited 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU42L
+2000	Ford	Excursion	Limited 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU43L
+2000	Ford	Excursion	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU41L
+2000	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU18L
+2000	Ford	Expedition	XLT 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU156
+2000	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU17L
+2000	Ford	Expedition	XLT 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU166
+2000	Ford	Expedition	XLT 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU15L
+2000	Ford	Expedition	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU16L
+2000	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMFU18L
+2000	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU176
+2000	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU17L
+2000	Ford	Expedition	XLT 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU15L
+2000	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU176
+2000	Ford	Expedition	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMFU16L
+2000	Ford	Expedition	XLT 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU156
+2000	Ford	Expedition	XLT 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU166
+2000	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic	1FMEU18L
+2000	Ford	Expedition	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic	1FMRU16L
+2000	Ford	Explorer	XLS 2WD	 4.0L V6 SOHC 12V		1FMDU62X
+2000	Ford	Explorer	Sport 2-Door 2WD	 4.0L V6 SOHC 16V		1FMYU60E
+2000	Ford	Explorer	XLS 2WD	 4.0L V6 SOHC 12V		1FMZU62X
+2000	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 16V		1FMZU64E
+2000	Ford	Explorer	XLT 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU73E
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 16V		1FMYU70E
+2000	Ford	Explorer	XLT 2WD	 4.0L V6 SOHC 16V		1FMZU63E
+2000	Ford	Explorer	XLT AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU83P
+2000	Ford	Explorer	Eddie Bauer 2WD	 4.9L V8 OHV 16V		1FMZU64P
+2000	Ford	Explorer	XLT AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU83P
+2000	Ford	Explorer	Limited AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU85P
+2000	Ford	Explorer	XLS 4WD	 4.0L V6 SOHC 12V		1FMDU72X
+2000	Ford	Explorer	Sport 2-Door 2WD	 4.0L V6 SOHC 12V		1FMYU60X
+2000	Ford	Explorer	Limited 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU75E
+2000	Ford	Explorer	XLT 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FMZU73X
+2000	Ford	Explorer	Eddie Bauer AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU84P
+2000	Ford	Explorer	XLT 2WD	 4.9L V8 OHV 16V		1FMZU63P
+2000	Ford	Explorer	XLT 2WD	 4.0L V6 SOHC 12V		1FMZU63X
+2000	Ford	Explorer	XL 4WD	 4.0L V6 SOHC 12V		1FMDU71X
+2000	Ford	Explorer	Limited AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU85P
+2000	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU74E
+2000	Ford	Explorer	XLS 4WD	 4.0L V6 SOHC 12V		1FMZU72X
+2000	Ford	Explorer	XLT 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU73E
+2000	Ford	Explorer	XL 4WD	 4.0L V6 SOHC 12V		1FMZU71X
+2000	Ford	Explorer	XLS 4WD	 4.0L V6 SOHC 16V		1FMZU72E
+2000	Ford	Explorer	Limited 2WD	 4.9L V8 OHV 16V		1FMDU65P
+2000	Ford	Explorer	Limited 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU75E
+2000	Ford	Explorer	Eddie Bauer AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU84P
+2000	Ford	Explorer	XL 2WD	 4.0L V6 SOHC 12V		1FMZU61X
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 12V		1FMYU70X
+2000	Ford	Explorer	Sport 2-Door 2WD	 4.0L V6 SOHC 16V		1FMCU60E
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 16V		1FMZU70E
+2000	Ford	Explorer	XLS 2WD	 4.0L V6 SOHC 16V		1FMZU62E
+2000	Ford	Explorer	Limited 2WD	 4.0L V6 SOHC 16V		1FMDU65E
+2000	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU74E
+2000	Ford	Explorer	Postal	 4.0L V6 SOHC 16V FFV		1FCMU69K
+2000	Ford	Explorer	XLT 2WD	 4.0L V6 SOHC 12V		1FMDU63X
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 16V		1FMDU70E
+2000	Ford	Explorer	Limited 2WD	 4.9L V8 OHV 16V		1FMZU65P
+2000	Ford	Explorer	XL 4WD	 4.0L V6 SOHC 16V		1FMZU71E
+2000	Ford	Explorer	XLT 2WD	 4.0L V6 SOHC 16V		1FMDU63E
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 16V		1FMCU70E
+2000	Ford	Explorer	XLS 4WD	 4.0L V6 SOHC 16V		1FMDU72E
+2000	Ford	Explorer	Eddie Bauer 2WD	 4.9L V8 OHV 16V		1FMDU64P
+2000	Ford	Explorer	XLT 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FMDU73X
+2000	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 16V		1FMDU64E
+2000	Ford	Explorer	XLT 2WD	 4.9L V8 OHV 16V		1FMDU63P
+2000	Ford	Explorer	XL 4WD	 4.0L V6 SOHC 16V		1FMDU71E
+2000	Ford	Explorer	XL 2WD	 4.0L V6 SOHC 12V		1FMDU61X
+2000	Ford	Explorer	Limited 2WD	 4.0L V6 SOHC 16V		1FMZU65E
+2000	Ford	Explorer	Sport 2-Door 2WD	 4.0L V6 SOHC 12V		1FMCU60X
+2000	Ford	Explorer	XL 2WD	 4.0L V6 SOHC 16V		1FMZU61E
+2000	Ford	Explorer	XLS 2WD	 4.0L V6 SOHC 16V		1FMDU62E
+2000	Ford	Explorer	XL 2WD	 4.0L V6 SOHC 16V		1FMDU61E
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 12V		1FMDU70X
+2000	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 12V		1FMCU70X
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRX17W
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX18W
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRX17W
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		1FTZF172
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRX17L
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		3FTZF172
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX18L
+2000	Ford	F-150	XLT SuperCab Short Bed 2WD	 4.2L V6 OHV 12V		1FTZX172
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRF17L
+2000	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX07W
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTPF18Z
+2000	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX07L
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX18W
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		1FTZF182
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTRF18W
+2000	Ford	F-150	SVT Lightning	 5.4L V8 SOHC 16V SUPERCHARGER	4-Speed Automatic Overdrive	2FTZF073
+2000	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX07L
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTPF17L
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRF18L
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		2FTZF182
+2000	Ford	F-150	XL SuperCab Flareside 2WD	 4.2L V6 OHV 12V		1FTZX072
+2000	Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX08L
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTPX17Z
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX18L
+2000	Ford	F-150	 Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX08L
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRF17W
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		2FTZX172
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRF17Z
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRF17W
+2000	Ford	F-150	XL Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V		2FTZF082
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPX18L
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPX18L
+2000	Ford	F-150	WS Reg. Cab Short Bed 2WD	 4.6L V8 SOHC 16V		3FTEF17W
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTPF17Z
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTPF17M
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRX17L
+2000	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX07W
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTPF18L
+2000	Ford	F-150	XLT Reg. Cab Short Bed 2WD	 4.2L V6 OHV 12V		2FTZF172
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		3FTRF17W
+2000	Ford	F-150	XL Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		1FTZF072
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTPX17L
+2000	Ford	F-150	XL SuperCab Flareside 2WD	 4.2L V6 OHV 12V		2FTZX072
+2000	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX08W
+2000	Ford	F-150	XL Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		2FTZF072
+2000	Ford	F-150	XL Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V		1FTRF07L
+2000	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX08W
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTRF18W
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTPF17L
+2000	Ford	F-150	XL Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		2FTRF08W
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRF18L
+2000	Ford	F-150	XL Reg. Cab Flareside 4WD	 5.4L V8 SOHC 16V		2FTRF08L
+2000	Ford	F-150	XL Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		1FTRF07W
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRF18Z
+2000	Ford	F-150	XL Reg. Cab Flareside 4WD	 5.4L V8 SOHC 16V		1FTRF08L
+2000	Ford	F-150	WS Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRF17L
+2000	Ford	F-150	XL Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V		1FTZF082
+2000	Ford	F-150	WS Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTPF18L
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTPX17L
+2000	Ford	F-150	XLT Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		2FTRF07W
+2000	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTPX18Z
+2000	Ford	F-150	XL Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		1FTRF08W
+2000	Ford	F-150	WS Reg. Cab Short Bed 2WD	 5.4L V8 SOHC 16V		1FTZF17Z
+2000	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTRX172
+2000	Ford	F-150	WS SuperCab Short Bed 2WD	 5.4L V8 SOHC 16V		2FTZX17Z
+2000	Ford	F-150	XLT Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V		2FTRF07L
+2000	Ford	F-150	XLT SuperCab Short Bed 2WD	 4.2L V6 OHV 12V		2FTRX172
+2000	Ford	F-150	Lariat SuperCab Short Bed 2WD	 4.2L V6 OHV 12V		1FTPX172
+2000	Ford	F-150	XL Reg. Cab Short Bed 4WD	 4.2L V6 OHV 12V		1FTRF182
+2000	Ford	F-150	XLT SuperCab Short Bed 2WD	 4.6L V8 SOHC 16V		1FTZX17W
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNW20F
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTNW21S
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTNW21S
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNW20F
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTNF20L
+2000	Ford	 F-250 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNW21F
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		3FTNX20L
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNX21F
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTNX21S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNX20F
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FTNF21L
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTNW20S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTNX21L
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDNX20L
+2000	Ford	 F-250 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNX20F
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTNX20L
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNW21F
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNX21F
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTNW21L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		3FTNF20L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		1FDNF20S
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTNW20L
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		3FTNW21L
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		3FTNW20L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNF20F
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNF21F
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FDNF21L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FDNF20L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FDNF20F
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		1FTNF21S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTNX20S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTNX20S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTNX21S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNX21F
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNX20F
+2000	Ford	F-250 SD	Lariat SuperCab Short Bed 4WD	 5.4L V8 SOHC 16V		1FDNX21L
+2000	Ford	F-250 SD	XL Crew Cab Short Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNW20F
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		3FTNX21L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNF20F
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		1FTNF20S
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTNW20S
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDNX20S
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNF20F
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNF21F
+2000	Ford	F-250 SD	XL Reg. Cab 4WD	 6.8L V10 SOHC 20V		1FDNF21S
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		3FDNF20S
+2000	Ford	F-250 SD	XL SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		3FDNX20L
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		3FTNF21L
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		3FDNF20L
+2000	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FDNX21S
+2000	Ford	F-250 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		3FTNF21S
+2000	Ford	F-250 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		3FTNF20S
+2000	Ford	F-250 SD	XLT Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNF21F
+2000	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDNW20S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSW31F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSF30F
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSX30F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWW33F
+2000	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX37F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWW32F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		1FTSF30S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTSW31S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FDSX35L
+2000	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWX33F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW36F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWF36F
+2000	Ford	F-350 SD	 Lariat Reg. Cab 4WD DRW	 5.4L V8 SOHC 16V		1FDWF37L
+2000	Ford	F-350 SD	XL SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSX31F
+2000	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWX32F
+2000	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FTWX32S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTSW31S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTSW31L
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FDSX35S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTSX31S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		1FDWF36L
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDWF36S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 6.8L V10 SOHC 20V		1FDWW36S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWF37F
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSF31F
+2000	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FDWX36S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FDSF35L
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 6.8L V10 SOHC 20V		1FTWW33S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTSX31S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSW35F
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTSX31L
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FTSF31L
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX34F
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDWF37S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSW34F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF34F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSW30F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 6.8L V10 SOHC 20V		1FTWW32S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTSF30L
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTSW30S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSW31F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSW30F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW37F
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		3FTSF31S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTSW30L
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		3FTSW31L
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDSW34L
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTSX30S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		1FTSF31S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSF31F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FTWF32S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSF30F
+2000	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX36F
+2000	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 6.8L V10 SOHC 20V		1FDWX37S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDSX34S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDSX34L
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWF32F
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWF33F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FDSF34L
+2000	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 6.8L V10 SOHC 20V		1FTWX33S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		1FDSF34S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF35F
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX35F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		1FTWF32L
+2000	Ford	F-350 SD	XL Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDWF36Z
+2000	Ford	F-350 SD	XLT Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FEWF36F
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC		3FDWF36S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDWF36F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW32F
+2000	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FDWX32S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSX31F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 6.8L V10 SOHC 20V		1FDWW37S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		3FDWF37S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		3FDKF36L
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDSW34S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 6.8L V10 SOHC 20V		1FDWW32S
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		3FTSW30L
+2000	Ford	F-350 SD	XL SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX33F
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDWF37F
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTSW30S
+2000	Ford	F-350 SD	XL Crew Cab Short Bed 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW33F
+2000	Ford	F-350 SD	XL SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTSX30L
+2000	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 5.4L V8 SOHC 16V		1FTWX32L
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		1FDSF35S
+2000	Ford	F-350 SD	XLT Reg. Cab 2WD	 6.8L V10 SOHC 20V		3FTSF30S
+2000	Ford	F-350 SD	XL Reg. Cab 2WD DRW	 6.8L V10 SOHC		3FEWF36S
+2000	Ford	F-350 SD	XL Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDWF33S
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSX30F
+2000	Ford	F-350 SD	XL Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		3FEKF36L
+2000	Ford	F-350 SD	XL Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		1FTWF33S
+2000	Ford	F-350 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		3FTSF30L
+2000	Ford	F-350 SD	 Lariat SuperCab 2WD DRW	 5.4L V8 SOHC 16V		1FDWX32L
+2000	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FDSW35S
+2000	Ford	F-350 SD	 XLT SuperCab 4WD DRW	 5.4L V8 SOHC 16V		1FTWX33L
+2000	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTSX30S
+2000	Ford	F-350 SD	XL Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDWF32S
+2000	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 5.4L V8 SOHC 16V		1FTWF33L
+2000	Ford	F-350 SD	XL Reg. Cab 4WD	 5.4L V8 SOHC 16V		3FTSF31L
+2000	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 TURBO DIESEL		1FDXF46F
+2000	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDXF46S
+2000	Ford	F-450 SD	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXF47F
+2000	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC		3FDXF46S
+2000	Ford	F-450 SD	Crew Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXW47F
+2000	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDXF46F
+2000	Ford	F-450 SD	Crew Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXW46F
+2000	Ford	F-450 SD	Crew Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDXW46S
+2000	Ford	F-450 SD	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXF47S
+2000	Ford	F-450 SD	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDXF47F
+2000	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC 16V		3FEXF46S
+2000	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FEXF46F
+2000	Ford	F-450 SD	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXW47S
+2000	Ford	F-450 SD	Regular Cab 4WD DRW	 6.8L V10		3FDXF47S
+2000	Ford	F-450 SD	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXF47Z
+2000	Ford	F-450 SD	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXW47Z
+2000	Ford	F-550	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAF56F
+2000	Ford	F-550	Crew Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAW56F
+2000	Ford	F-550	Regular Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDAF56S
+2000	Ford	F-550	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAF57F
+2000	Ford	F-550	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDAF57F
+2000	Ford	F-550	Crew Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAW57F
+2000	Ford	F-550	Regular Cab DRW 4WD	 6.8L V10 SOHC		1FDAF57Z
+2000	Ford	F-550	Crew Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDAW56S
+2000	Ford	F-550	Regular Cab 2WD DRW	 7.3L V8 TURBO DIESEL		3FDAF56F
+2000	Ford	F-550	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDAF57S
+2000	Ford	F-550	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDAW57S
+2000	Ford	F-550	Regular Cab DRW 2WD	 6.8L V10 SOHC		1FDAF56Z
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF654
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDWF652
+2000	Ford	F-650	Crew Cab 2WD DRW	 6.0L V8 DIESEL		3FDNW65Y
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDNF65A
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF658
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDNF655
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FENF653
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDNF656
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDWF655
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDNF652
+2000	Ford	F-650	SuperCab 2WD DRW	 7.3L V8 DIESEL		3FDNX656
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDNF65H
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF651
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF653
+2000	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDNW65H
+2000	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDNW652
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDWF65H
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF65Y
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDWF654
+2000	Ford	F-650	SuperCab 2WD DRW	 5.9L L6 DIESEL		3FDNX654
+2000	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX65H
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FENF65A
+2000	Ford	F-650	SuperCab 2WD DRW	 5.9L L6 DIESEL		3FDNX65Y
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FENF65H
+2000	Ford	F-650	SuperCab 2WD DRW	 7.3L V8 DIESEL		3FDNX655
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FENF654
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDWF653
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 OHV 16V DIESEL		3FDWF656
+2000	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDNW653
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDWW65H
+2000	Ford	F-650	Crew Cab 2WD DRW	 7.3L V8 OHV 16V DIESEL		3FDNW655
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FEWF65A
+2000	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDWW652
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDWF658
+2000	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX65A
+2000	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FENW653
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDWF65A
+2000	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDWX65H
+2000	Ford	F-650	Crew Cab 2WD DRW	 7.3L V8 DIESEL		3FDNW656
+2000	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDNW654
+2000	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FEWF654
+2000	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FENW65H
+2000	Ford	F-650	Crew Cab RWD DRW	 7.2L L6 DIESEL		3FDNW65A
+2000	Ford	F-650	SuperCab 2WD DRW	 7.3L V8 DIESEL		3FDWX656
+2000	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX652
+2000	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX653
+2000	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDWW656
+2000	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDWX652
+2000	Ford	F-650	SuperCab 2WD DRW	 5.9L L6 DIESEL		3FDWX65Y
+2000	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDWW654
+2000	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDNW658
+2000	Ford	Focus	LX	 2.0L L4 SOHC 8V		1FAFP33P
+2000	Ford	Focus	SE	 2.0L L4 SOHC 8V		1FAFP34P
+2000	Ford	Focus	SE	 2.0L L4 DOHC 16V		1FAFP343
+2000	Ford	Focus	ZTS	 2.0L L4 DOHC 16V		1FAFP383
+2000	Ford	Focus	ZX3	 2.0L L4 DOHC 16V		3FAFP313
+2000	Ford	Focus	ZX3	 2.0L L4 DOHC 16V		3FAHP313
+2000	Ford	Focus	SE	 2.0L L4 DOHC 16V		1FAHP343
+2000	Ford	Focus	ZTS	 2.0L L4 DOHC 16V		1FAHP383
+2000	Ford	Focus	SE	 2.0L L4 SOHC 8V		1FAHP34P
+2000	Ford	Focus	LX	 2.0L L4 SOHC 8V		1FAHP33P
+2000	Ford	Focus	LX	 2.0L L4 SOHC 8V		1FABP33P
+2000	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V	4-Speed Automatic Overdrive	1FAHP363
+2000	Ford	Focus Wagon	SE	 2.0L L4 SOHC 8V	4-Speed Automatic Overdrive	1FAHP36P
+2000	Ford	Focus Wagon	SE	 2.0L L4 SOHC 8V	4-Speed Automatic Overdrive	1FAFP36P
+2000	Ford	Focus	ECO	 2.0L L4 DOHC 16V	6-Speed Manual	3FAFP303
+2000	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V	4-Speed Automatic Overdrive	1FAFP363
+2000	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V	4-Speed Automatic Overdrive	1FAFP363
+2000	Ford	Focus Wagon	SE	 2.0L L4 SOHC 8V	4-Speed Automatic Overdrive	1FAFP36P
+2000	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V	4-Speed Automatic Overdrive	1FAHP363
+2000	Ford	Focus Wagon	SE	 2.0L L4 SOHC 8V	4-Speed Automatic Overdrive	1FAHP36P
+2000	Ford	Mustang	Convertible	 3.8L V6 OHV 12V		1FAFP444
+2000	Ford	Mustang	Coupe	 3.8L V6 OHV 12V		1FAFP404
+2000	Ford	Mustang	GT Coupe	 4.6L V8 SOHC 16V		1FAFP42X
+2000	Ford	Mustang	GT Convertible	 4.6L V8 SOHC 16V		1FAFP45X
+2000	Ford	Mustang	Cobra Coupe	 5.4L V8 DOHC 32V	5-Speed Manual	1FAFP47H
+2000	Ford	Mustang	Cobra Convertible	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP46V
+2000	Ford	Ranger	XL SuperCab 4WD	 4.0L V6 OHV 12V		1FTZR15X
+2000	Ford	Ranger	XL SuperCab 2WD	 4.0L V6 OHV 12V		1FTYR14X
+2000	Ford	Ranger	XL Long Bed 2WD	 4.0L V6 OHV 12V		1FTYR10X
+2000	Ford	Ranger	XL Long Bed 2WD	 2.5L L4 SOHC 8V		1FTYR10C
+2000	Ford	Ranger	XL Long Bed 2WD	 3.0L V6 OHV 12V FFV		1FTYR10V
+2000	Ford	Ranger	XL SuperCab 4WD	 3.0L V6 OHV 12V FFV		1FTZR15V
+2000	Ford	Ranger	XL SuperCab 2WD	 3.0L V6 OHV 12V FFV		1FTYR14V
+2000	Ford	Ranger	XL SuperCab 2WD	 2.5L L4 SOHC 8V		1FTYR14C
+2000	Ford	Ranger	XL Long Bed 2WD	 3.0L V6 OHV 12V		1FTYR10U
+2000	Ford	Ranger	XL Long Bed 4WD	 3.0L V6 OHV 12V FFV		1FTYR11V
+2000	Ford	Ranger	XL SuperCab 2WD	 3.0L V6 OHV 12V		1FTYR14U
+2000	Ford	Ranger	XL Long Bed 4WD	 4.0L V6 OHV 12V		1FTYR11X
+2000	Ford	Ranger	XL Long Bed 4WD	 4.0L V6 OHV 12V		1FTZR11X
+2000	Ford	Ranger	XL Long Bed 4WD	 3.0L V6 OHV 12V FFV		1FTZR11V
+2000	Ford	Ranger	Regular Cab 2WD	 ELECTRIC MOTOR		1FTZR081
+2000	Ford	Ranger	Regular Cab 2WD	 ELECTRIC MOTOR		1FTZR087
+2000	Ford	Ranger	XL SuperCab 2WD	 3.0L V6 OHV 12V FFV		1FTZR14V
+2000	Ford	Taurus	SE SVG	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP55U
+2000	Ford	Taurus	SE SVG	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP552
+2000	Ford	Taurus	SE SVG	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP55S
+2000	Ford	Taurus	SE Comfort	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP56S
+2000	Ford	Taurus	SE	 3.8L V6	4-Speed Automatic	1FAFP534
+2000	Ford	Taurus	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP532
+2000	Ford	Taurus	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP53U
+2000	Ford	Taurus	LX	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP522
+2000	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP52U
+2000	Ford	Taurus	SE	 3.0L V6 DOHC 24V	4-Speed Automatic	1FAFP53S
+2000	Ford	Taurus	SE Comfort	 3.0L V6 OHV 12V	4-Speed Automatic	1FAFP56U
+2000	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP58U
+2000	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP582
+2000	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP58S
+2000	Ford	Taurus	LX	 3.0L V6 DOHC 24V	4-Speed Automatic	1FAFP52S
+2001	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP74W
+2001	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP71W
+2001	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP719
+2001	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP72W
+2001	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP73W
+2001	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP729
+2001	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP739
+2001	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP749
+2001	Ford	Econoline	E250	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTNE24M
+2001	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNE24L
+2001	Ford	Econoline	E350 Super Duty Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSS34F
+2001	Ford	Econoline	E150	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTRE142
+2001	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDWE35F
+2001	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDXE45S
+2001	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14W
+2001	Ford	Econoline	E-350 Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBSS31S
+2001	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSS34L
+2001	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31L
+2001	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTNE242
+2001	Ford	Econoline	E-450 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL		1FDXE45F
+2001	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDWE35S
+2001	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSE34L
+2001	Ford	Econoline	E150	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FDRE142
+2001	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14W
+2001	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSE34F
+2001	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDWE35L
+2001	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14L
+2001	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE45F
+2001	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSE35L
+2001	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNS24L
+2001	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSE35F
+2001	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14L
+2001	Ford	Econoline	E250 Extended	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTNS242
+2001	Ford	Econoline	E-350 Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+2001	Ford	Econoline	E250 Extended	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPS242
+2001	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDSE35S
+2001	Ford	Econoline	E250 Super Duty	 4.2L V6 SOHC 12V		1FCHE292
+2001	Ford	Econoline	E350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSS34S
+2001	Ford	Econoline	E-350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic	1FDSE34F
+2001	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FCJE39L
+2001	Ford	Econoline	E-450	 6.8L V10 SOHC		1FCLE49S
+2001	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDNS24L
+2001	Ford	Econoline	E450	 5.4L V8 SOHC 16V		1FCLE49L
+2001	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDPE24L
+2001	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSE34S
+2001	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDPS24L
+2001	Ford	Econoline	E450	 5.4L V8 SOHC CNG		1FDXE45M
+2001	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V		1FCKE39L
+2001	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTSS34M
+2001	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDNE24L
+2001	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPE242
+2001	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic	1FTSE34M
+2001	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+2001	Ford	Econoline	E250	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTVE24M
+2001	Ford	Econoline	E-350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDSE34L
+2001	Ford	Econoline	E-350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic	1FDSE34S
+2001	Ford	Econoline Wagon	E-150 XL	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FMRE112
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBNE31F
+2001	Ford	Econoline Wagon	E-150 XL	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11L
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBNE31L
+2001	Ford	Econoline Wagon	E-150 XL	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11W
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNE31L
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNE31F
+2001	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31L
+2001	Ford	Econoline	E-350 Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBSS31S
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBNE31M
+2001	Ford	Econoline	E-350 Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBNE31S
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FMNE31M
+2001	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+2001	Ford	Econoline Wagon	E-350 XL Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNE31S
+2001	Ford	Escape	XLT 4WD	 3.0L V6 DOHC 24V		1FMCU041
+2001	Ford	Escape	XLT 4WD	 3.0L V6 DOHC 24V		1FMYU041
+2001	Ford	Escape	XLT 2WD	 3.0L V6 DOHC 24V		1FMYU031
+2001	Ford	Escape	XLS 4WD	 2.0L L4 DOHC 16V		1FMYU02B
+2001	Ford	Escape	XLS 2WD	 3.0L V6 DOHC 24V		1FMYU011
+2001	Ford	Escape	XLS 4WD	 3.0L V6 DOHC 24V		1FMYU021
+2001	Ford	Escape	XLT 2WD	 3.0L V6 DOHC 24V		1FMCU031
+2001	Ford	Escape	XLS 4WD	 3.0L V6 DOHC 24V		1FMCU021
+2001	Ford	Escape	XLS 2WD	 2.0L L4 DOHC 16V		1FMYU01B
+2001	Ford	Escape	XLS 2WD	 3.0L V6 DOHC 24V		1FMCU011
+2001	Ford	Escape	XLS 2WD	 2.0L L4 DOHC 16V		1FMUU01B
+2001	Ford	Escape	XLT 2WD	 2.0L L4 DOHC 16V		1FMBU03B
+2001	Ford	Escape	XLT 4WD	 2.0L L4 DOHC 16V		1FMYU04B
+2001	Ford	Escape	XLT 2WD	 2.0L L4 DOHC 16V		1FMUU03B
+2001	Ford	Escape	XLS 4WD	 2.0L L4 DOHC 16V		1FMCU02B
+2001	Ford	Escape	XLT 2WD	 2.0L L4 DOHC 16V		1FMYU03B
+2001	Ford	Escape	XLS 2WD	 2.0L L4 DOHC 16V		1FMCU01B
+2001	Ford	Escape	XLT 2WD	 2.0L L4 DOHC 16V		1FMCU03B
+2001	Ford	Escape	XLT 4WD	 2.0L L4 DOHC 16V		1FMCU04B
+2001	Ford	Escape	XLT 2WD	 3.0L V6 DOHC 24V		1FMUU031
+2001	Ford	Escort	Sedan	 2.0L L4 SOHC 8V		3FAFP13P
+2001	Ford	ZX2	Coupe	 2.0L L4 DOHC 16V		3FAFP113
+2001	Ford	Escort	Sedan	 2.0L L4 SOHC 8V		1FAFP13P
+2001	Ford	E-Series Van	E-350 Super Duty Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic	1FDSS34F
+2001	Ford	E-Series Van	E-350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic	1FDSS34S
+2001	Ford	E-Series Van	E-350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDSS34L
+2001	Ford	Excursion	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU41L
+2001	Ford	Excursion	Limited 4WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU43S
+2001	Ford	Excursion	Limited 4WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMSU43F
+2001	Ford	Excursion	XLT 4WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU41S
+2001	Ford	Excursion	Limited 2WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU42S
+2001	Ford	Excursion	XLT 2WD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNU40S
+2001	Ford	Excursion	Limited 2WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNU42F
+2001	Ford	Excursion	XLT 4WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMSU41F
+2001	Ford	Excursion	XLT 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU40L
+2001	Ford	Excursion	Limited 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU43L
+2001	Ford	Excursion	Limited 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNU42L
+2001	Ford	Excursion	XLT 2WD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNU40F
+2001	Ford	Expedition	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU16L
+2001	Ford	Expedition	XLT 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU15L
+2001	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU17L
+2001	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU17L
+2001	Ford	Expedition	XLT 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU15L
+2001	Ford	Expedition	XLT 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU15W
+2001	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU17W
+2001	Ford	Expedition	XLT 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU16W
+2001	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU18L
+2001	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMFU18L
+2001	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU17W
+2001	Ford	Expedition	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMFU16L
+2001	Ford	Expedition	XLT 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU15W
+2001	Ford	Expedition	XLT 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU16W
+2001	Ford	Expedition	XLT 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic	1FMEU16L
+2001	Ford	Explorer	Sport 2WD	 4.0L V6 SOHC 16V		1FMYU60E
+2001	Ford	Explorer	XLT AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU83P
+2001	Ford	Explorer	XLS 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU72E
+2001	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU74E
+2001	Ford	Explorer	Eddie Bauer AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU84P
+2001	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 16V		1FMYU70E
+2001	Ford	Explorer	XLT 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU73E
+2001	Ford	Explorer	XLT 2WD	 4.9L V8 OHV 16V		1FMZU63P
+2001	Ford	Explorer	XLT 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU73E
+2001	Ford	Explorer	XLS 2WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU62E
+2001	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 16V		1FMCU70E
+2001	Ford	Explorer	Eddie Bauer 2WD	 4.9L V8 OHV 16V		1FMDU64P
+2001	Ford	Explorer	Eddie Bauer 2WD	 4.9L V8 OHV 16V		1FMZU64P
+2001	Ford	Explorer	XLT 2WD	 4.0L V6 SOHC 16V		1FMZU63E
+2001	Ford	Explorer	-	 4.0L V6 SOHC 16V FFV		1FCMU69K
+2001	Ford	Explorer	Sport 2WD	 4.0L V6 SOHC 16V		1FMCU60E
+2001	Ford	Explorer	Eddie Bauer AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU84P
+2001	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU74E
+2001	Ford	Explorer	Limited AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU85P
+2001	Ford	Explorer	XLS 2WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU62E
+2001	Ford	Explorer	Limited 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU75E
+2001	Ford	Explorer	Limited 2WD	 4.0L V6 SOHC 16V		1FMZU65E
+2001	Ford	Explorer	XLT AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU83P
+2001	Ford	Explorer	Limited 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMZU75E
+2001	Ford	Explorer	Limited 2WD	 4.9L V8 OHV 16V		1FMZU65P
+2001	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 16V		1FMZU64E
+2001	Ford	Explorer	Postal	 4.0L V6 SOHC 16V FFV		1FCMU79K
+2001	Ford	Explorer	Limited AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU85P
+2001	Ford	Explorer	Limited 2WD	 4.0L V6 SOHC 16V		1FMDU65E
+2001	Ford	Explorer	XLT 2WD	 4.0L V6 SOHC 16V		1FMDU63E
+2001	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 16V		1FMDU64E
+2001	Ford	Explorer	XLS 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU72E
+2001	Ford	Explorer	XLT 2WD	 4.9L V8 OHV 16V		1FMDU63P
+2001	Ford	Explorer	Limited 2WD	 4.9L V8 OHV 16V		1FMDU65P
+2001	Ford	Explorer Sport Trac	4WD	 4.0L V6 SOHC 12V		1FMZU77E
+2001	Ford	Explorer Sport Trac	2WD	 4.0L V6 SOHC 12V		1FMZU67E
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRX17W
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRX18L
+2001	Ford	F-150	King Ranch SuperCrew 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRW08L
+2001	Ford	F-150	 XL Long Bed 2WD	 4.2L V6 OHV 12V		1FTZF172
+2001	Ford	F-150	 XL Long Bed 4WD	 4.6L V8 SOHC 16V		1FTRF18W
+2001	Ford	F-150	SVT Lightning 2WD	 5.4L V8 SOHC 16V SUPERCHARGER	4-Speed Automatic Overdrive	2FTZF073
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTRX18W
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTPX18L
+2001	Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX08L
+2001	Ford	F-150	Harley-Davidson Edition SuperCrew 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRW07L
+2001	Ford	F-150	XL Long Bed 4WD	 5.4L V8 SOHC 16V		1FTPF18L
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRX17L
+2001	Ford	F-150	King Ranch SuperCrew 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRW07W
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTZX172
+2001	Ford	F-150	XL Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRF17W
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		2FTZX172
+2001	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX07W
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRX18L
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRX17L
+2001	Ford	F-150	King Ranch SuperCrew 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRW076
+2001	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX07L
+2001	Ford	F-150	XL Flareside 4WD	 4.2L V6 OHV 12V		1FTZF082
+2001	Ford	F-150	XL SuperCab Flareside 2WD	 4.2L V6 OHV 12V		1FTZX072
+2001	Ford	F-150	XL Flareside 4WD	 5.4L V8 SOHC 16V		2FTRF08L
+2001	Ford	F-150	Lariat SuperCrew 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRW08W
+2001	Ford	F-150	XL SuperCab Flareside 2WD	 4.2L V6 OHV 12V		2FTZX072
+2001	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX07W
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRX17W
+2001	Ford	F-150	XL Long Bed 4WD	 4.2L V6 OHV 12V		1FTZF182
+2001	Ford	F-150	Lariat SuperCrew 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRW086
+2001	Ford	F-150	XL Long Bed 2WD	 4.2L V6 OHV 12V		2FTZF172
+2001	Ford	F-150	XL Flareside 2WD	 4.2L V6 OHV 12V		1FTZF072
+2001	Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX08L
+2001	Ford	F-150	XL Long Bed 2WD	 5.4L V8 SOHC 16V	 	2FTPF17L
+2001	Ford	F-150	XL Long Bed 2WD	 4.6L V8 SOHC 16V		3FTEF17W
+2001	Ford	F-150	XL Long Bed 4WD	 5.4L V8 SOHC 16V	 	1FTRF18L
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTRX18W
+2001	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX07L
+2001	Ford	F-150	XL Flareside 2WD	 5.4L V8 SOHC 16V		2FTRF07L
+2001	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX08W
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTPX17L
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTPX18Z
+2001	Ford	F-150	XL Long Bed 2WD	 5.4L V8 SOHC 16V		1FTPF17L
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTPX17Z
+2001	Ford	F-150	XL Flareside 2WD	 4.2L V6 OHV 12V		2FTZF072
+2001	Ford	F-150	XL Long Bed 2WD	 4.6L V8 SOHC 16V		3FTRF17W
+2001	Ford	F-150	 XL Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRF17W
+2001	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTPX18L
+2001	Ford	F-150	XL Long Bed 4WD	 4.2L V6 OHV 12V		2FTZF182
+2001	Ford	F-150	XL Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRF18L
+2001	Ford	F-150	XL Long Bed 4WD	 4.6L V8 SOHC 16V		2FTRF18W
+2001	Ford	F-150	XL Flareside 4WD	 4.6L V8 SOHC 16V		2FTRF08W
+2001	Ford	F-150	XL Short Bed 2WD	 4.2L V6 OHV 12V		3FTDF172
+2001	Ford	F-150	XL Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRF17L
+2001	Ford	F-150	 XL Long Bed 2WD	 5.4L V8 SOHC 16V		1FTPF17M
+2001	Ford	F-150	XL Flareside 4WD	 4.2L V6 OHV 12V		2FTZF082
+2001	Ford	F-150	XL Long Bed 2WD	 4.2L V6 OHV 12V	 	3FTZF172
+2001	Ford	F-150	XL Short Bed 4WD	 5.4L V8 SOHC 16V		2FTPF18Z
+2001	Ford	F-150	XL Flareside 4WD	 4.6L V8 SOHC 16V		1FTRF08W
+2001	Ford	F-150	XL Long Bed 4WD	 5.4L V8 SOHC 16V		2FTPF18L
+2001	Ford	F-150	XL Long Bed 2WD	 5.4L V8 SOHC 16V	 	2FTPF17Z
+2001	Ford	F-150	XL Flareside 2WD	 4.6L V8 SOHC 16V		1FTRF07W
+2001	Ford	F-150	XL Flareside 4WD	 5.4L V8 SOHC 16V		1FTRF08L
+2001	Ford	F-150	XL Long Bed 4WD	 4.2L V6 OHV 12V		3FTZF182
+2001	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTPX17L
+2001	Ford	F-150	XL Flareside 2WD	 4.6L V8 SOHC 16V		2FTRF07W
+2001	Ford	F-150	XL SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTRX172
+2001	Ford	F-150	XL Flareside 2WD	 5.4L V8 SOHC 16V		1FTRF07L
+2001	Ford	F-150	XL Long Bed 4WD	 4.6L V8 SOHC 16V		3FTRF18W
+2001	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX08W
+2001	Ford	F-150	XL Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRF17Z
+2001	Ford	F-150	XL Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRF17L
+2001	Ford	F-150	Harley-Davidson SuperCrew 2WD	 5.4L V8 SOHC 16V SUPERCHARGER	4-Speed Automatic	1FTRW073
+2001	Ford	F-150	XLT SuperCab Short Bed 2WD	 4.6L V8 SOHC 16V		1FTZX17W
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNW20F
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNX20F
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTNW20L
+2001	Ford	F-250 SD	XL 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNF20F
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTNX21L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNX21F
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNW21F
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTNW21L
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNW20F
+2001	Ford	F-250 SD	XL 4WD	 5.4L V8 SOHC 16V		1FTNF21L
+2001	Ford	F-250 SD	XL 2WD	 5.4L V8 SOHC 16V		1FTNF20L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTNX20L
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTNW21S
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTNW21S
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTNX20S
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTNX21S
+2001	Ford	F-250 SD	Lariat Crew Cab Short Bed 2WD	 5.4L V8 SOHC 16V		3FTNW20L
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNW21F
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		3FTNX20L
+2001	Ford	F-250 SD	XL 2WD	  7.3L V8 OHV 16V TURBO DIESEL		1FDNF20F
+2001	Ford	F-250 SD	XL 4WD	 6.8L V10 SOHC 20V		1FTNF21S
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		3FTNW21L
+2001	Ford	F-250 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNF21F
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTNW20S
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTNW20S
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNX20F
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		3FTNX21L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNX21F
+2001	Ford	F-250 SD	XL 2WD	 5.4L V8 SOHC 16V		1FDNF20L
+2001	Ford	F-250 SD	XL 4WD	 5.4L V8 SOHC 16V		3FTNF21L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FDNX21L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTNX21S
+2001	Ford	F-250 SD	XL 2WD	 6.8L V10 SOHC 20V		1FTNF20S
+2001	Ford	F-250 SD	XL 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNF20F
+2001	Ford	F-250 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNF21F
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTNX20F
+2001	Ford	F-250 SD	XL 2WD	 6.8L V10 SOHC		1FDNF20S
+2001	Ford	F-250 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNF21F
+2001	Ford	F-250 SD	XL 2WD	 5.4L V8 SOHC 16V		3FTNF20L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTNX20S
+2001	Ford	F-250 SD	XL 4WD	 5.4L V8 SOHC 16V		1FDNF21L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNX21F
+2001	Ford	F-250 SD	Lariat SuperCab Short Bed 4WD	 6.8L V10 SOHC 20V		1FDNX21S
+2001	Ford	F-250 SD	XL SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDNX20L
+2001	Ford	F-250 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDNX20S
+2001	Ford	F-250 SD	XL 4WD	 6.8L V10 SOHC 20V		1FDNF21S
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FDNW21L
+2001	Ford	F-250 SD	XLT Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDNW20L
+2001	Ford	F-250 SD	XL Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FDNW21S
+2001	Ford	F-250 SD	XL 2WD	 6.8L V10 SOHC 20V		3FTNF20S
+2001	Ford	F-250 SD	XL Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDNW20S
+2001	Ford	F-250 SD	XL 4WD	 6.8L V10 SOHC 20V		3FTNF21S
+2001	Ford	F-250 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNW20F
+2001	Ford	F-350 SD	XL 4WD	 5.4L V8 SOHC 16V		1FTSF31L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWW32F
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSX31F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSW31F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWW33F
+2001	Ford	F-350 SD	XL 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWF37F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 6.8L V10 SOHC 20V		1FDWW37S
+2001	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWX32F
+2001	Ford	F-350 SD	XL 2WD	 6.8L V10 SOHC 20V		1FDSF34S
+2001	Ford	F-350 SD	XL 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF34F
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTSX31S
+2001	Ford	F-350 SD	XL 2WD DRW	 6.8L V10 SOHC 20V		1FDWF36S
+2001	Ford	F-350 SD	XL 4WD DRW	 5.4L V8 SOHC 16V		1FDWF37L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSW31F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW37F
+2001	Ford	F-350 SD	XL 2WD DRW	 5.4L V8 SOHC 16V		1FDWF36L
+2001	Ford	F-350 SD	XL 4WD DRW	 6.8L V10 SOHC 20V		1FDWF37S
+2001	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWX33F
+2001	Ford	F-350 SD	XL 4WD	 6.8L V10 SOHC 20V		1FTSF31S
+2001	Ford	F-350 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSF31F
+2001	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX37F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FTSW31S
+2001	Ford	F-350 SD	XL 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWF36F
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTSX30S
+2001	Ford	F-350 SD	XL 2WD	 5.4L V8 SOHC 16V		1FDSF34L
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDSX34L
+2001	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FDWX36S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTSW30L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW36F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FTSW30S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSW34F
+2001	Ford	F-350 SD	XL 2WD	 5.4L V8 SOHC 16V		1FTSF30L
+2001	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 6.8L V10 SOHC 20V		1FTWX33S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 6.8L V10 SOHC 20V		1FTWW32S
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSX30F
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTSX30L
+2001	Ford	F-350 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF35F
+2001	Ford	F-350 SD	XL 4WD	 5.4L V8 SOHC 16V		1FDSF35L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD DRW	 6.8L V10 SOHC 20V		1FTWW33S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSW30F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD DRW	 6.8L V10 SOHC 20V		1FDWW36S
+2001	Ford	F-350 SD	XL Crew Cab Short Bed 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW32F
+2001	Ford	F-350 SD	XL 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF30F
+ 2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		3FTSX31L
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTSX31S
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTSX30S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTSW31L
+2001	Ford	F-350 SD	XL SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX36F
+2001	Ford	F-350 SD	XL 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSF30F
+2001	Ford	F-350 SD	XLT Crew Cab Short Bed 4WD	 5.4L V8 SOHC 16V		3FTSW31L
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX34F
+2001	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FTWX32S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		3FTSW31S
+2001	Ford	F-350 SD	XL 4WD	 6.8L V10 SOHC 20V		1FDSF35S
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTSX31L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSW35F
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSX30F
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSX31F
+2001	Ford	F-350 SD	XL 2WD	 5.4L V8 SOHC 16V		3FTSF30L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FDSW34L
+2001	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 6.8L V10 SOHC 20V		1FDWX37S
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX35F
+2001	Ford	F-350 SD	XL 2WD DRW	 5.4L V8 SOHC 16V		1FTWF32L
+2001	Ford	F-350 SD	XL 2WD DRW	 6.8L V10 SOHC 20V		1FTWF32S
+2001	Ford	F-350 SD	XL 4WD	 6.8L V10 SOHC 20V		3FTSF31S
+2001	Ford	F-350 SD	Lariat SuperCab Long Bed 4WD	 6.8L V10 SOHC 20V		1FDSX35S
+2001	Ford	F-350 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSF31F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		3FTSW30S
+2001	Ford	F-350 SD	XL 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWF32F
+2001	Ford	F-350 SD	Lariat SuperCab 4WD DRW	 5.4L V8 SOHC 16V		1FTWX33L
+2001	Ford	F-350 SD	XL 2WD	 5.4L V8 SOHC 16V		1FDSF30L
+2001	Ford	F-350 SD	XL 2WD DRW	 6.8L V10 SOHC 20V		1FDWF36Z
+2001	Ford	F-350 SD	XL 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWF33F
+2001	Ford	F-350 SD	XL 4WD	 5.4L V8 SOHC 16V		3FTSF31L
+2001	Ford	F-350 SD	Lariat SuperCab Short Bed 2WD	 6.8L V10 SOHC 20V		1FDSX34S
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSW30F
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FDSW35L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 2WD	 5.4L V8 SOHC 16V		3FTSW30L
+2001	Ford	F-350 SD	XL 2WD	 6.8L V10 SOHC 20V		1FDSF30S
+2001	Ford	F-350 SD	XL Crew Cab Long Bed 2WD	 6.8L V10 SOHC 20V		1FDSW34S
+2001	Ford	F-350 SD	XL 2WD DRW	 5.4L V8 SOHC 16V		3FDKF36L
+2001	Ford	F-350 SD	XLT SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FDSX35L
+2001	Ford	F-350 SD	XL SuperCab Short Bed 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX31F
+2001	Ford	F-350 SD	XLT 4WD DRW	 6.8L V10 SOHC 20V		1FDWF37Z
+2001	Ford	F-350 SD	XL 2WD	 7.3L V8 OHV 16V TURBO DIESEL		3FTSF30F
+2001	Ford	F-350 SD	XL 2WD	 6.8L V10 SOHC 20V		1FTSF30S
+2001	Ford	F-350 SD	XL 4WD DRW	 5.4L V8 SOHC 16V		1FTWF33L
+2001	Ford	F-350 SD	XL 4WD DRW	 6.8L V10 SOHC 20V		1FTWF33S
+2001	Ford	F-350 SD	XL Crew Cab Long Bed DRW 2WD	 6.8L V10 LPG		1FDWW36Z
+2001	Ford	F-350 SD	XL SuperCab Short Bed 2WD	 6.8L V10 SOHC 20V		1FDSX30S
+2001	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 5.4L V8 SOHC 16V		1FTWX32L
+2001	Ford	F-350 SD	XL 2WD	 6.8L V10 SOHC 20V		3FTSF30S
+2001	Ford	F-350 SD	XL Crew Cab Short Bed 2WD DRW	 6.8L V10 SOHC 20V		1FDWW32S
+2001	Ford	F-350 SD	XL 2WD DRW	 5.4L V8 SOHC 16V		3FEKF36L
+2001	Ford	F-350 SD	Lariat Crew Cab Long Bed 4WD	 6.8L V10 SOHC 20V		1FDSW35S
+2001	Ford	F-350 SD	XL SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX33F
+2001	Ford	F-350 SD	XLT Crew Cab Long Bed 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW33F
+2001	Ford	F-350 SD	XL SuperCab 2WD DRW	 5.4L V8 SOHC 16V		1FDWX32L
+2001	Ford	F-350 SD	XL SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FDSX31L
+2001	Ford	F-350 SD	XL 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF31F
+2001	Ford	F-350 SD	XL 4WD	 5.4L V8 SOHC 16V		1FDSF31L
+2001	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FDWX32S
+2001	Ford	F-350 SD	XLT SuperCab Short Bed 2WD	 5.4L V8 SOHC 16V		3FTSX30L
+2001	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXF46F
+2001	Ford	F-450 SD	Crew Cab 2WD DRW	 7.3L V8 16V OHV TURBO DIESEL		1FDXW46F
+2001	Ford	F-450 SD	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXF47F
+2001	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDXF46S
+2001	Ford	F-450 SD	Crew Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXW47F
+2001	Ford	F-450 SD	Crew Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDXW46S
+2001	Ford	F-450 SD	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXF47S
+2001	Ford	F-450 SD	Regular Cab DRW 2WD	 6.8L V10 SOHC		1FDXF46Z
+2001	Ford	F-450 SD	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXW47S
+2001	Ford	F-450 SD	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXW47Z
+2001	Ford	F-450 SD	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXF47Z
+2001	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC		3FDXF46S
+2001	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDXF46F
+2001	Ford	F-550	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAF56F
+2001	Ford	F-550	Regular Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDAF56S
+2001	Ford	F-550	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAF57F
+2001	Ford	F-550	Crew Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAW56F
+2001	Ford	F-550	Crew Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAW57F
+2001	Ford	F-550	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDAF57S
+2001	Ford	F-550	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDAW57S
+2001	Ford	F-550	Regular Cab DRW 2WD	 6.8L V10 SOHC		1FDAF56Z
+2001	Ford	F-550	Crew Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDAW56S
+2001	Ford	F-550	Regular Cab 2WD DRW	 6.0L V8 OHV 32V TURBO DIESEL		1FDAF56P
+2001	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF65Y
+2001	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF654
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDNF655
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDNF65A
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDNF652
+2001	Ford	F-650	SuperCab 2WD DRW	 5.9L L6 DIESEL		3FDNX65Y
+2001	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF658
+2001	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDNW677
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDWF652
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDWF65H
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.2L L6 DIESEL		3FDNF65H
+2001	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDNF651
+2001	Ford	F-650	SuperCab 2WD DRW	 7.3L V8 DIESEL		3FDNX655
+2001	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDNW654
+2001	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX65H
+2001	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDWF658
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDNF656
+2001	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDWW65Y
+2001	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX652
+2001	Ford	F-650	Regular Cab 2WD DRW	 5.9L L6 DIESEL		3FDWF654
+2001	Ford	F-650	Crew Cab 2WD DRW	 5.9L L6 DIESEL		3FDNW658
+2001	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDNX65A
+2001	Ford	F-650	SuperCab 2WD DRW	 7.3L V8 DIESEL		3FDNX656
+2001	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDNW652
+2001	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDWW652
+2001	Ford	F-650	Regular Cab 2WD DRW	 6.8L V10		3FDWF65Y
+2001	Ford	F-650	Regular Cab 2WD DRW	 7.3L V8 DIESEL		3FDWF655
+2001	Ford	F-650	Crew Cab RWD DRW	 7.2L L6 DIESEL		3FDNW65A
+2001	Ford	F-650	Crew Cab 2WD DRW	 7.3L V8 OHV 16V DIESEL		3FDNW655
+2001	Ford	F-650	Crew Cab 2WD DRW	 6.0L V8 DIESEL		3FDNW65Y
+2001	Ford	F-650	Crew Cab 2WD DRW	 7.2L L6 DIESEL		3FDNW65H
+2001	Ford	F-650	SuperCab 2WD DRW	 7.2L L6 DIESEL		3FDWX65H
+2001	Ford	F-650	SuperCab 2WD DRW	 5.9L L6 DIESEL		3FDNX658
+2001	Ford	Focus	LX	 2.0L L4 SOHC 8V		1FAFP33P
+2001	Ford	Focus	ZX3	 2.0L L4 DOHC 16V		3FAFP313
+2001	Ford	Focus	SE	 2.0L L4 DOHC 16V		1FAHP343
+2001	Ford	Focus	SE	 2.0L L4 DOHC 16V		1FAFP343
+2001	Ford	Focus	ZX3	 2.0L L4 DOHC 16V		3FAHP313
+2001	Ford	Focus	ZTS	 2.0L L4 DOHC 16V		1FAFP383
+2001	Ford	Focus	SE	 2.0L L4 SOHC 8V		1FAFP34P
+2001	Ford	Focus	ZTS	 2.0L L4 DOHC 16V		1FAHP383
+2001	Ford	Focus	ZTS	 2.0L L4 DOHC 16V		1FABP383
+2001	Ford	Focus	LX	 2.0L L4 DOHC 16V		1FABP333
+2001	Ford	Focus	SE	 2.0L L4 SOHC 8V		1FAHP34P
+2001	Ford	Focus	LX	 2.0L L4 SOHC 8V		1FAHP33P
+2001	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V		1FAHP363
+2001	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V		1FAFP363
+2001	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V		1FAFP363
+2001	Ford	Focus Wagon	SE	 2.0L L4 SOHC 8V		1FAFP36P
+2001	Ford	Focus Wagon	SE	 2.0L L4 DOHC 16V		1FAHP363
+2001	Ford	Focus Wagon	SE	 2.0L L4 SOHC 8V		1FAHP36P
+2001	Ford	Mustang	Deluxe Convertible	 3.8L V6 OHV 12V		1FAFP444
+2001	Ford	Mustang	Coupe	 3.8L V6 OHV 12V		1FAFP404
+2001	Ford	Mustang	Bullitt GT	 4.6L V8 SOHC 16V	5-Speed Manual Overdrive	1FAFP42X
+2001	Ford	Mustang	Cobra Convertible	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP46V
+2001	Ford	Mustang	Cobra Coupe	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP47V
+2001	Ford	Mustang	GT Deluxe Convertible	 4.6L V8 SOHC 16V		1FAFP45X
+2001	Ford	Ranger	XL 2.3 2WD	 2.3L L4 SOHC 8V		1FTYR10D
+2001	Ford	Ranger	Edge Plus SuperCab 4.0 2WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FTYR14E
+2001	Ford	Ranger	Edge Plus SuperCab 4.0 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FTZR15E
+2001	Ford	Ranger	Edge Plus SuperCab 3.0 2WD	 3.0L V6 OHV 12V	5-Speed Automatic Overdrive	1FTYR14U
+2001	Ford	Ranger	Edge 3.0 2WD	 3.0L V6 OHV 12V		1FTYR10U
+2001	Ford	 Ranger	Edge Plus SuperCab 3.0 2WD	 3.0L V6 OHV 12V FFV	5-Speed Automatic Overdrive	1FTYR14V
+2001	Ford	Ranger	XL 2.5 2WD	 2.5L L4 SOHC 8V		1FTYR10C
+2001	Ford	Ranger	Edge SuperCab 3.0 4WD	 3.0L V6 OHV 12V		1FTZR15U
+2001	Ford	Ranger	Edge Plus 4.0 Flareside 2WD	 4.0L V6 SOHC 12V		1FTYR10E
+2001	Ford	Ranger	Edge Plus SuperCab 4.0 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FTYR15E
+2001	Ford	Ranger	Edge Plus 4.0 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FTYR11E
+2001	Ford	Ranger	XL SuperCab 3.0 2WD	 2.3L L4 SOHC 8V		1FTYR14D
+2001	Ford	Ranger	Edge Plus 3.0 4WD	 3.0L V6 OHV 12V	5-Speed Automatic	1FTYR11U
+2001	Ford	Ranger	Edge Plus 4.0 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FTZR11E
+2001	Ford	Ranger	Edge SuperCab 3.0 4WD	 3.0L V6 OHV 12V		1FTYR15U
+2001	Ford	Ranger	Regular Cab 2WD	 ELECTRIC MOTOR		1FTZR087
+2001	Ford	Taurus	SES	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP55U
+2001	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP52U
+2001	Ford	Taurus	SES	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP552
+2001	Ford	Taurus	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP53U
+2001	Ford	Taurus	SEL	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP56S
+2001	Ford	Taurus	SES	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP55S
+2001	Ford	Taurus	SEL	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAHP56S
+2001	Ford	Taurus	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAHP53U
+2001	Ford	Taurus	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP532
+2001	Ford	Taurus	SES	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAHP55U
+2001	Ford	Taurus	LX	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP522
+2001	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAHP52U
+2001	Ford	Taurus	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAHP532
+2001	Ford	Taurus	SE	 3.0L V6 DOHC 24V	4-Speed Automatic	1FAFP53S
+2001	Ford	Taurus	SE	 3.8L V6	4-Speed Automatic	1FAFP534
+2001	Ford	Taurus	SES	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAHP55S
+2001	Ford	Taurus	SEL	 3.0L V6 OHV 12V	4-Speed Automatic	1FAFP56U
+2001	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAHP58S
+2001	Ford	Taurus	SE	 3.0L V6 DOHC 24V	4-Speed Automatic	1FAHP53S
+2001	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP582
+2001	Ford	Taurus	SES	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAHP552
+2001	Ford	Taurus	LX	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAHP522
+2001	Ford	Taurus	SEL	 3.0L V6 OHV 12V	4-Speed Automatic	1FAHP56U
+2001	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP58U
+2001	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP58S
+2001	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAHP582
+2001	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAHP58U

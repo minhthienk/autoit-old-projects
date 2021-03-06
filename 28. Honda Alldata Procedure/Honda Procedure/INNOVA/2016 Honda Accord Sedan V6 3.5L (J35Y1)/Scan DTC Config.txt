@@ -1,0 +1,16 @@
+This config file is to save System Strings, Part Strings and Search Strings
+for the tool to get all DTC links of the vehicle:
+Model Year Link: http://repair.alldata.com/alldata/navigation/treedisplay.action?nonStandardId=0&iTypeId=0&vehicleId=55409&openUrl=&fromJs=false&componentId=0&#ygtvlabelel1159
+
+<<<-- SYSTEM STRINGS -->>>
+1 *** Engine Mount Control Unit >> DTC Advanced Diagnostics (J35Y1)
+2 *** Engine Mount Control Unit >> DTC Troubleshooting (V6- A/T)
+
+<<<-- PART STRINGS -->>>
+
+<<<-- SEARCH STRINGS -->>>
+[0][0]P0AB6 >> Engine Mount Control Unit >> DTC Advanced Diagnostics (J35Y1)
+[1][0]P0AB6 >> Engine Mount Control Unit >> DTC Troubleshooting (V6- A/T)
+[2][0]P0AB7 >> Engine Mount Control Unit >> DTC Advanced Diagnostics (J35Y1)
+[3][0]P0AB7 >> Engine Mount Control Unit >> DTC Troubleshooting (V6- A/T)
+Last Saved: 2

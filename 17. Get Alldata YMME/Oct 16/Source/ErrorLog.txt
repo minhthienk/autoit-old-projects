@@ -1,0 +1,37 @@
+
+
+=====================================================================================
+COM Error!
+          err.description is : 	
+          err.windescription : 	Bad variable type.
+          err.number is      : 	80020008
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	1876
+          err.source is      : 	
+          err.helpfile is	 : 	
+          err.helpcontext is : 	
+          link when error    : 	
+
+=====================================================================================
+COM Error!
+          err.description is : 	
+          err.windescription : 	Bad variable type.
+          err.number is      : 	80020008
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	1876
+          err.source is      : 	
+          err.helpfile is	 : 	
+          err.helpcontext is : 	
+          link when error    : 	
+
+=====================================================================================
+COM Error!
+          err.description is : 	
+          err.windescription : 	Bad variable type.
+          err.number is      : 	80020008
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	1876
+          err.source is      : 	
+          err.helpfile is	 : 	
+          err.helpcontext is : 	
+          link when error    : 	

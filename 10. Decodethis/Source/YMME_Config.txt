@@ -1,0 +1,2358 @@
+<year>2021<year> --- <make>Blue Bird<make> --- <model>All American/All Canadian<model>
+<year>2021<year> --- <make>Blue Bird<make> --- <model>BB Conventional<model>
+<year>2021<year> --- <make>Blue Bird<make> --- <model>School/Transit Bus<model>
+<year>2021<year> --- <make>Blue Bird<make> --- <model>Vision<model>
+<year>2021<year> --- <make>Freightliner<make> --- <model>B2 Bus<model>
+<year>2021<year> --- <make>International<make> --- <model>3000<model>
+<year>2020<year> --- <make>Acura<make> --- <model>ILX<model>
+<year>2020<year> --- <make>Acura<make> --- <model>MDX<model>
+<year>2020<year> --- <make>Acura<make> --- <model>RDX<model>
+<year>2020<year> --- <make>Acura<make> --- <model>RLX<model>
+<year>2020<year> --- <make>Acura<make> --- <model>TLX<model>
+<year>2020<year> --- <make>Alfa Romeo<make> --- <model>Giulia<model>
+<year>2020<year> --- <make>Aston Martin<make> --- <model>DB11<model>
+<year>2020<year> --- <make>Aston Martin<make> --- <model>Vantage<model>
+<year>2020<year> --- <make>Audi<make> --- <model>A3<model>
+<year>2020<year> --- <make>Audi<make> --- <model>A6<model>
+<year>2020<year> --- <make>Audi<make> --- <model>A7<model>
+<year>2020<year> --- <make>Audi<make> --- <model>A8<model>
+<year>2020<year> --- <make>Audi<make> --- <model>Q3<model>
+<year>2020<year> --- <make>Audi<make> --- <model>Q5<model>
+<year>2020<year> --- <make>Audi<make> --- <model>Q8<model>
+<year>2020<year> --- <make>Audi<make> --- <model>R8<model>
+<year>2020<year> --- <make>Audi<make> --- <model>S3<model>
+<year>2020<year> --- <make>Audi<make> --- <model>SQ5<model>
+<year>2020<year> --- <make>Audi<make> --- <model>TT<model>
+<year>2020<year> --- <make>Audi<make> --- <model>TTS<model>
+<year>2020<year> --- <make>Audi<make> --- <model>Unknown<model>
+<year>2020<year> --- <make>Autocar<make> --- <model>LLC XSPotter Off<model>
+<year>2020<year> --- <make>Autocar<make> --- <model>Xpeditor<model>
+<year>2020<year> --- <make>Bentley<make> --- <model>Bentayga<model>
+<year>2020<year> --- <make>Blue Bird<make> --- <model>All American/All Canadian<model>
+<year>2020<year> --- <make>Blue Bird<make> --- <model>BB Conventional<model>
+<year>2020<year> --- <make>Blue Bird<make> --- <model>School/Transit Bus<model>
+<year>2020<year> --- <make>Blue Bird<make> --- <model>Vision<model>
+<year>2020<year> --- <make>BMW<make> --- <model>2-Series<model>
+<year>2020<year> --- <make>BMW<make> --- <model>3-Series<model>
+<year>2020<year> --- <make>BMW<make> --- <model>4-Series<model>
+<year>2020<year> --- <make>BMW<make> --- <model>4-Series Gran Coupe<model>
+<year>2020<year> --- <make>BMW<make> --- <model>5-Series<model>
+<year>2020<year> --- <make>BMW<make> --- <model>7-Series<model>
+<year>2020<year> --- <make>BMW<make> --- <model>8-Series<model>
+<year>2020<year> --- <make>BMW<make> --- <model>8-Series Gran Coupe<model>
+<year>2020<year> --- <make>BMW<make> --- <model>Alpina B7<model>
+<year>2020<year> --- <make>BMW<make> --- <model>M2<model>
+<year>2020<year> --- <make>BMW<make> --- <model>M4<model>
+<year>2020<year> --- <make>BMW<make> --- <model>M5<model>
+<year>2020<year> --- <make>BMW<make> --- <model>R nineT<model>
+<year>2020<year> --- <make>BMW<make> --- <model>S1000 R<model>
+<year>2020<year> --- <make>BMW<make> --- <model>Unknown<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X1<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X2<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X3<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X3 M<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X4<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X4 M<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X5<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X6<model>
+<year>2020<year> --- <make>BMW<make> --- <model>X7<model>
+<year>2020<year> --- <make>BMW<make> --- <model>Z4<model>
+<year>2020<year> --- <make>Buick<make> --- <model>Enclave<model>
+<year>2020<year> --- <make>Buick<make> --- <model>Encore<model>
+<year>2020<year> --- <make>Buick<make> --- <model>Encore GX<model>
+<year>2020<year> --- <make>Buick<make> --- <model>Envision<model>
+<year>2020<year> --- <make>Cadillac<make> --- <model>CT5<model>
+<year>2020<year> --- <make>Cadillac<make> --- <model>CT6<model>
+<year>2020<year> --- <make>Cadillac<make> --- <model>Escalade<model>
+<year>2020<year> --- <make>Cadillac<make> --- <model>XT4<model>
+<year>2020<year> --- <make>Cadillac<make> --- <model>XT5<model>
+<year>2020<year> --- <make>Cadillac<make> --- <model>XT6<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Commander Max 1000R Limited<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Defender HD5<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Defender HD8<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Defender Max DPS HD8<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Defender Max XT HD8<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max Turbo<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Maverick X3 Turbo<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander 1000R X MR<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander 800 X MR<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander 850 DPS<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander 850 XT<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander L 450<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander L 570<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander L 570 X MR<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander Max 450<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander Max 570 XT<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander Max 650 XT<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Outlander Max 850 XT<model>
+<year>2020<year> --- <make>Can-Am<make> --- <model>Renegade 800R DPS<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Blazer<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Bolt EV<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Camaro<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Colorado<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Corvette<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Equinox<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Express<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Impala<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Malibu<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Silverado 1500<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Silverado 2500HD<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Silverado 3500HD<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Sonic<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Spark<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Suburban<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Tahoe<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Traverse<model>
+<year>2020<year> --- <make>Chevrolet<make> --- <model>Trax<model>
+<year>2020<year> --- <make>Chevrolet Trucks<make> --- <model>4500XD<model>
+<year>2020<year> --- <make>Chevrolet Trucks<make> --- <model>5500HD<model>
+<year>2020<year> --- <make>Chevrolet Trucks<make> --- <model>5500XD<model>
+<year>2020<year> --- <make>Chrysler<make> --- <model>300<model>
+<year>2020<year> --- <make>Chrysler<make> --- <model>Pacifica<model>
+<year>2020<year> --- <make>Chrysler<make> --- <model>Pacifica Hybrid<model>
+<year>2020<year> --- <make>Chrysler<make> --- <model>Voyager<model>
+<year>2020<year> --- <make>Dodge<make> --- <model>Challenger<model>
+<year>2020<year> --- <make>Dodge<make> --- <model>Charger<model>
+<year>2020<year> --- <make>Dodge<make> --- <model>Durango<model>
+<year>2020<year> --- <make>Dodge<make> --- <model>Grand Caravan<model>
+<year>2020<year> --- <make>Ducati<make> --- <model>Monster 821<model>
+<year>2020<year> --- <make>Ferrari<make> --- <model>812 Superfast<model>
+<year>2020<year> --- <make>Ferrari<make> --- <model>GTC4Lusso<model>
+<year>2020<year> --- <make>Ferrari<make> --- <model>Portofino<model>
+<year>2020<year> --- <make>Ford<make> --- <model>EcoSport<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Escape Hybrid<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Explorer Hybrid<model>
+<year>2020<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2020<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2020<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2020<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2020<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Shelby GT350<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Shelby GT500<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2020<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>108SD<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>114SD<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>B2 Bus<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Cascadia<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Cascadia 113<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Cascadia 116<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Cascadia 125<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Cascadia 126<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Cascadia 132<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Columbia 120<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>Coronado 122<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M2<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M2 106<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M2 106 Medium Duty<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M2 112<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M2 112 Medium Duty<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M2 Medium Duty 106<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>M Line Walk-in Van<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>S2 106<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>SD<model>
+<year>2020<year> --- <make>Freightliner<make> --- <model>X-Line Motorhome<model>
+<year>2020<year> --- <make>Genesis<make> --- <model>G70<model>
+<year>2020<year> --- <make>Genesis<make> --- <model>G80<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Acadia<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Canyon<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Savana<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Sierra 1500<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Sierra 2500HD<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Sierra 3500HD<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Terrain<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Yukon<model>
+<year>2020<year> --- <make>GMC<make> --- <model>Yukon XL<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLDE<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLDE<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHC<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHCS<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHR<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHTCUTG<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHTKSE<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHTPI<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHX<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLHXS<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLTHTK<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLTRX<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FLTRXS<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FXBB<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FXBB<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FXBRS<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FXFBS Fat Bob 114<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>FXLR<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>Unknown<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>XL1200 NS<model>
+<year>2020<year> --- <make>Harley-Davidson<make> --- <model>XL883N<model>
+<year>2020<year> --- <make>Hino<make> --- <model>155<model>
+<year>2020<year> --- <make>Hino<make> --- <model>195<model>
+<year>2020<year> --- <make>Hino<make> --- <model>268<model>
+<year>2020<year> --- <make>Hino<make> --- <model>268A<model>
+<year>2020<year> --- <make>Hino<make> --- <model>308<model>
+<year>2020<year> --- <make>Hino<make> --- <model>338<model>
+<year>2020<year> --- <make>Hino<make> --- <model>358<model>
+<year>2020<year> --- <make>Hino<make> --- <model>710<model>
+<year>2020<year> --- <make>Hino<make> --- <model>740<model>
+<year>2020<year> --- <make>Hino<make> --- <model>XJC720<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Accord<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Accord Hybrid<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Civic<model>
+<year>2020<year> --- <make>Honda<make> --- <model>CRF250R<model>
+<year>2020<year> --- <make>Honda<make> --- <model>CRF450R<model>
+<year>2020<year> --- <make>Honda<make> --- <model>CR-V<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Fit<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Grom<model>
+<year>2020<year> --- <make>Honda<make> --- <model>HR-V<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Insight<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Odyssey<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Passport<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Pilot<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Ridgeline<model>
+<year>2020<year> --- <make>Honda<make> --- <model>SXS1000M5<model>
+<year>2020<year> --- <make>Honda<make> --- <model>SXS500M<model>
+<year>2020<year> --- <make>Honda<make> --- <model>SXS700M2<model>
+<year>2020<year> --- <make>Honda<make> --- <model>SXS700M4<model>
+<year>2020<year> --- <make>Honda<make> --- <model>TRX250TM<model>
+<year>2020<year> --- <make>Honda<make> --- <model>TRX250X<model>
+<year>2020<year> --- <make>Honda<make> --- <model>TRX420FA<model>
+<year>2020<year> --- <make>Honda<make> --- <model>TRX420FM<model>
+<year>2020<year> --- <make>Honda<make> --- <model>TRX500FA<model>
+<year>2020<year> --- <make>Honda<make> --- <model>TRX500FM<model>
+<year>2020<year> --- <make>Honda<make> --- <model>Unknown<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>FC 250<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>FE350<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>TC 125<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>TC 50<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>TC 85<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>TE 125<model>
+<year>2020<year> --- <make>Husqvarna<make> --- <model>TE 300<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Accent<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Elantra<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Elantra GT<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Ioniq Hybrid<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Kona<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Kona EV<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>NEXO<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Palisade<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Santa Fe<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Sonata<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Tucson<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Veloster<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Veloster N<model>
+<year>2020<year> --- <make>Hyundai<make> --- <model>Venue<model>
+<year>2020<year> --- <make>Infiniti<make> --- <model>Q50<model>
+<year>2020<year> --- <make>Infiniti<make> --- <model>Q60<model>
+<year>2020<year> --- <make>Infiniti<make> --- <model>QX50<model>
+<year>2020<year> --- <make>Infiniti<make> --- <model>QX60<model>
+<year>2020<year> --- <make>Infiniti<make> --- <model>QX80<model>
+<year>2020<year> --- <make>International<make> --- <model>3000<model>
+<year>2020<year> --- <make>International<make> --- <model>4300<model>
+<year>2020<year> --- <make>International<make> --- <model>DuraStar 4300<model>
+<year>2020<year> --- <make>International<make> --- <model>HV507<model>
+<year>2020<year> --- <make>International<make> --- <model>HV513<model>
+<year>2020<year> --- <make>International<make> --- <model>HV607<model>
+<year>2020<year> --- <make>International<make> --- <model>HV613<model>
+<year>2020<year> --- <make>International<make> --- <model>HX520<model>
+<year>2020<year> --- <make>International<make> --- <model>HX620<model>
+<year>2020<year> --- <make>International<make> --- <model>Loanstar<model>
+<year>2020<year> --- <make>International<make> --- <model>LT625<model>
+<year>2020<year> --- <make>International<make> --- <model>LT62A<model>
+<year>2020<year> --- <make>International<make> --- <model>LT62F<model>
+<year>2020<year> --- <make>International<make> --- <model>MV607<model>
+<year>2020<year> --- <make>International<make> --- <model>Prostar<model>
+<year>2020<year> --- <make>International<make> --- <model>RF027<model>
+<year>2020<year> --- <make>International<make> --- <model>RH613<model>
+<year>2020<year> --- <make>International<make> --- <model>WorkStar 7600<model>
+<year>2020<year> --- <make>Isuzu<make> --- <model>NPR<model>
+<year>2020<year> --- <make>Isuzu<make> --- <model>NQR<model>
+<year>2020<year> --- <make>Jaguar<make> --- <model>E-Pace<model>
+<year>2020<year> --- <make>Jaguar<make> --- <model>F-Pace<model>
+<year>2020<year> --- <make>Jaguar<make> --- <model>F-Type<model>
+<year>2020<year> --- <make>Jaguar<make> --- <model>I-Pace<model>
+<year>2020<year> --- <make>Jaguar<make> --- <model>XE<model>
+<year>2020<year> --- <make>Jaguar<make> --- <model>XF-Series<model>
+<year>2020<year> --- <make>Jeep<make> --- <model>Cherokee<model>
+<year>2020<year> --- <make>Jeep<make> --- <model>Compass<model>
+<year>2020<year> --- <make>Jeep<make> --- <model>Gladiator<model>
+<year>2020<year> --- <make>Jeep<make> --- <model>Grand Cherokee<model>
+<year>2020<year> --- <make>Jeep<make> --- <model>Renegade<model>
+<year>2020<year> --- <make>Jeep<make> --- <model>Wrangler<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>BR125 J<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>EX400<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KAF1000-B<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KAF400-J<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KAF620RF<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KLE300-C<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KLX110-C<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KLX110-D<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KLX140-B<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KLX140 C<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KLX250 SJ<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KX100<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KX450F<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>KX85-C<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>MULE PRO-FXT<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>Teryx<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>Unknown<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>VN900-D<model>
+<year>2020<year> --- <make>Kawasaki<make> --- <model>ZX1400J<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>310<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>K300<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T300<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T370<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T3 Series<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T400<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T600<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T680<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T800<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>T880<model>
+<year>2020<year> --- <make>Kenworth<make> --- <model>W900<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Forte<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Forte 5-Door<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Optima<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Optima Hybrid<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Rio<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Rio5<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Sedona<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Sorento<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Soul<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Soul EV<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Sportage<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Stinger<model>
+<year>2020<year> --- <make>Kia<make> --- <model>Telluride<model>
+<year>2020<year> --- <make>KTM<make> --- <model>250 XC<model>
+<year>2020<year> --- <make>KTM<make> --- <model>250 XC-W<model>
+<year>2020<year> --- <make>KTM<make> --- <model>300 XC-W<model>
+<year>2020<year> --- <make>KTM<make> --- <model>350 XCF-W<model>
+<year>2020<year> --- <make>KTM<make> --- <model>450 XC<model>
+<year>2020<year> --- <make>KTM<make> --- <model>65 SX<model>
+<year>2020<year> --- <make>KTM<make> --- <model>Closed Course Competition<model>
+<year>2020<year> --- <make>KTM<make> --- <model>Enduro<model>
+<year>2020<year> --- <make>KYMCO<make> --- <model>Utility ATV<model>
+<year>2020<year> --- <make>Lamborghini<make> --- <model>Urus<model>
+<year>2020<year> --- <make>Land Rover<make> --- <model>Discovery<model>
+<year>2020<year> --- <make>Land Rover<make> --- <model>Discovery Sport<model>
+<year>2020<year> --- <make>Land Rover<make> --- <model>Range Rover<model>
+<year>2020<year> --- <make>Land Rover<make> --- <model>Range Rover Evoque<model>
+<year>2020<year> --- <make>Land Rover<make> --- <model>Range Rover Sport<model>
+<year>2020<year> --- <make>Land Rover<make> --- <model>Range Rover Velar<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>ES 300h<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>ES 350<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>GS<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>GX 460<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>IS<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>LC 500<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>LS 500<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>LX 570<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>NX 200t<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>NX 300<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>NX 300h<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>RC F<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>RX 350<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>RX 350L<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>RX 450h<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>RX 450hL<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>UX 200<model>
+<year>2020<year> --- <make>Lexus<make> --- <model>UX 250h<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>Aviator<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>Corsair<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>Nautilus<model>
+<year>2020<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2020<year> --- <make>Mack<make> --- <model>Anthem<model>
+<year>2020<year> --- <make>Mack<make> --- <model>Granite<model>
+<year>2020<year> --- <make>Mack<make> --- <model>LR<model>
+<year>2020<year> --- <make>Mack<make> --- <model>Pinnacle<model>
+<year>2020<year> --- <make>Mack<make> --- <model>Terrapro<model>
+<year>2020<year> --- <make>Maserati<make> --- <model>Ghibli<model>
+<year>2020<year> --- <make>Maserati<make> --- <model>Levante<model>
+<year>2020<year> --- <make>Maserati<make> --- <model>Quattroporte<model>
+<year>2020<year> --- <make>Mazda<make> --- <model>CX-3<model>
+<year>2020<year> --- <make>Mazda<make> --- <model>CX-30<model>
+<year>2020<year> --- <make>Mazda<make> --- <model>CX-5<model>
+<year>2020<year> --- <make>Mazda<make> --- <model>CX-9<model>
+<year>2020<year> --- <make>Mazda<make> --- <model>MAZDA3<model>
+<year>2020<year> --- <make>Mazda<make> --- <model>MAZDA6<model>
+<year>2020<year> --- <make>McLaren<make> --- <model>570s<model>
+<year>2020<year> --- <make>McLaren<make> --- <model>600LT Spider<model>
+<year>2020<year> --- <make>McLaren<make> --- <model>720s<model>
+<year>2020<year> --- <make>McLaren<make> --- <model>Senna<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>A-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>AMG GT<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>C-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>CLA-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>CLS-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>E-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>E-Class Wagon<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>G-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>GLA-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>GLC-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>GLE-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>GLS-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>Maybach<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>Metris<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>S-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>SLC-Class<model>
+<year>2020<year> --- <make>Mercedes-Benz<make> --- <model>SL-Class<model>
+<year>2020<year> --- <make>Mini<make> --- <model>Clubman<model>
+<year>2020<year> --- <make>Mini<make> --- <model>Cooper<model>
+<year>2020<year> --- <make>Mini<make> --- <model>Countryman<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>Eclipse Cross<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>Mirage<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>Mirage G4<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>Outlander<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>Outlander PHEV<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>Outlander Sport<model>
+<year>2020<year> --- <make>Mitsubishi<make> --- <model>RVR<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Altima<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Armada<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>GT-R<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Kicks<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Maxima<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Murano<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>NV200<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>NV Cargo<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>NV Passenger<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Pathfinder<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Rogue<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Rogue Sport<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Versa<model>
+<year>2020<year> --- <make>Nissan<make> --- <model>Z<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>220<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>337<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>348<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>365<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>367<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>375<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>377<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>386<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>389<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>520<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>567<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>579<model>
+<year>2020<year> --- <make>Peterbilt<make> --- <model>COE 220<model>
+<year>2020<year> --- <make>Pierce<make> --- <model>Arrow XT<model>
+<year>2020<year> --- <make>Porsche<make> --- <model>911<model>
+<year>2020<year> --- <make>Porsche<make> --- <model>Cayenne<model>
+<year>2020<year> --- <make>Porsche<make> --- <model>Macan<model>
+<year>2020<year> --- <make>Porsche<make> --- <model>Panamera<model>
+<year>2020<year> --- <make>Prevost<make> --- <model>Bus<model>
+<year>2020<year> --- <make>RAM<make> --- <model>1500<model>
+<year>2020<year> --- <make>RAM<make> --- <model>1500 Classic<model>
+<year>2020<year> --- <make>RAM<make> --- <model>2500<model>
+<year>2020<year> --- <make>RAM<make> --- <model>3500<model>
+<year>2020<year> --- <make>RAM<make> --- <model>4500<model>
+<year>2020<year> --- <make>RAM<make> --- <model>5500<model>
+<year>2020<year> --- <make>RAM<make> --- <model>Promaster<model>
+<year>2020<year> --- <make>RAM<make> --- <model>ProMaster City<model>
+<year>2020<year> --- <make>Spartan<make> --- <model>Motorhome<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>Ascent<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>BRZ<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>Crosstrek<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>Forester<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>Impreza<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>Legacy<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>Outback<model>
+<year>2020<year> --- <make>Subaru<make> --- <model>WRX<model>
+<year>2020<year> --- <make>Suzuki<make> --- <model>Unknown<model>
+<year>2020<year> --- <make>Tesla<make> --- <model>Model 3<model>
+<year>2020<year> --- <make>Tesla<make> --- <model>Model S<model>
+<year>2020<year> --- <make>Tesla<make> --- <model>Model X<model>
+<year>2020<year> --- <make>Thomas<make> --- <model>School Bus<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>4Runner<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>86<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Avalon<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Avalon Hybrid<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Camry<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Camry Hybrid<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>C-HR<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Corolla<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>GR Supra<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Highlander<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Land Cruiser<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Prius<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Prius Prime<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>RAV4<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>RAV4 Hybrid<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Sequoia<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Sienna<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Tacoma<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Tundra<model>
+<year>2020<year> --- <make>Toyota<make> --- <model>Yaris<model>
+<year>2020<year> --- <make>Triumph<make> --- <model>Bonneville T120<model>
+<year>2020<year> --- <make>Vespa<make> --- <model>Sprint 150<model>
+<year>2020<year> --- <make>Volkswagen<make> --- <model>e-Golf<model>
+<year>2020<year> --- <make>Volkswagen<make> --- <model>Golf<model>
+<year>2020<year> --- <make>Volkswagen<make> --- <model>Jetta<model>
+<year>2020<year> --- <make>Volkswagen<make> --- <model>Passat<model>
+<year>2020<year> --- <make>Volkswagen<make> --- <model>Tiguan<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>S60<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>S90<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>V60<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>V60 Cross Country<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>V90<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>V90 Cross Country<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>VHD<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>VNL<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>VNR<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>XC40<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>XC60<model>
+<year>2020<year> --- <make>Volvo<make> --- <model>XC90<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4700<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4700SB<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4700SF<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4700 SF<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4800 SB<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4900 EX<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4900FA<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4900 FA<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4900SA<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>4900 SA<model>
+<year>2020<year> --- <make>Western Star Trucks<make> --- <model>5700<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>PW50<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>XT250<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>XT250C<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>YZ125<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>YZ250<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>YZ250F<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>YZ250X<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>YZ85<model>
+<year>2020<year> --- <make>Yamaha<make> --- <model>YZF-R6C<model>
+<year>2019<year> --- <make>Acura<make> --- <model>ILX<model>
+<year>2019<year> --- <make>Acura<make> --- <model>MDX<model>
+<year>2019<year> --- <make>Acura<make> --- <model>NSX<model>
+<year>2019<year> --- <make>Acura<make> --- <model>RDX<model>
+<year>2019<year> --- <make>Acura<make> --- <model>RLX<model>
+<year>2019<year> --- <make>Acura<make> --- <model>TLX<model>
+<year>2019<year> --- <make>Alfa Romeo<make> --- <model>4C<model>
+<year>2019<year> --- <make>Alfa Romeo<make> --- <model>Giulia<model>
+<year>2019<year> --- <make>Alfa Romeo<make> --- <model>Stelvio<model>
+<year>2019<year> --- <make>Aprilla<make> --- <model>RSV4 RR<model>
+<year>2019<year> --- <make>Aprilla<make> --- <model>Tuono V4 1100 RR<model>
+<year>2019<year> --- <make>Arctic Cat<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Aston Martin<make> --- <model>DB11<model>
+<year>2019<year> --- <make>Aston Martin<make> --- <model>Vantage<model>
+<year>2019<year> --- <make>Audi<make> --- <model>A3<model>
+<year>2019<year> --- <make>Audi<make> --- <model>A4<model>
+<year>2019<year> --- <make>Audi<make> --- <model>A5<model>
+<year>2019<year> --- <make>Audi<make> --- <model>A6<model>
+<year>2019<year> --- <make>Audi<make> --- <model>A7<model>
+<year>2019<year> --- <make>Audi<make> --- <model>A8<model>
+<year>2019<year> --- <make>Audi<make> --- <model>allroad<model>
+<year>2019<year> --- <make>Audi<make> --- <model>e-tron<model>
+<year>2019<year> --- <make>Audi<make> --- <model>Q3<model>
+<year>2019<year> --- <make>Audi<make> --- <model>Q5<model>
+<year>2019<year> --- <make>Audi<make> --- <model>Q7<model>
+<year>2019<year> --- <make>Audi<make> --- <model>Q8<model>
+<year>2019<year> --- <make>Audi<make> --- <model>RS3<model>
+<year>2019<year> --- <make>Audi<make> --- <model>RS5<model>
+<year>2019<year> --- <make>Audi<make> --- <model>S3<model>
+<year>2019<year> --- <make>Audi<make> --- <model>S4<model>
+<year>2019<year> --- <make>Audi<make> --- <model>S5<model>
+<year>2019<year> --- <make>Audi<make> --- <model>SQ5<model>
+<year>2019<year> --- <make>Audi<make> --- <model>TT<model>
+<year>2019<year> --- <make>Audi<make> --- <model>TT RS<model>
+<year>2019<year> --- <make>Audi<make> --- <model>TTS<model>
+<year>2019<year> --- <make>Audi<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Autocar<make> --- <model>LLC Xpeditor<model>
+<year>2019<year> --- <make>Autocar<make> --- <model>LLC XSPotter Off<model>
+<year>2019<year> --- <make>Autocar<make> --- <model>Xpeditor<model>
+<year>2019<year> --- <make>Bentley<make> --- <model>Bentayga<model>
+<year>2019<year> --- <make>Blue Bird<make> --- <model>All American/All Canadian<model>
+<year>2019<year> --- <make>Blue Bird<make> --- <model>BB Conventional<model>
+<year>2019<year> --- <make>Blue Bird<make> --- <model>School/Transit Bus<model>
+<year>2019<year> --- <make>Blue Bird<make> --- <model>Vision<model>
+<year>2019<year> --- <make>BMW<make> --- <model>2-Series<model>
+<year>2019<year> --- <make>BMW<make> --- <model>3-Series<model>
+<year>2019<year> --- <make>BMW<make> --- <model>3-Series Gran Turismo<model>
+<year>2019<year> --- <make>BMW<make> --- <model>3-Series Sport Wagon<model>
+<year>2019<year> --- <make>BMW<make> --- <model>4-Series<model>
+<year>2019<year> --- <make>BMW<make> --- <model>4-Series Gran Coupe<model>
+<year>2019<year> --- <make>BMW<make> --- <model>5-Series<model>
+<year>2019<year> --- <make>BMW<make> --- <model>6-Series Gran Coupe<model>
+<year>2019<year> --- <make>BMW<make> --- <model>6-Series Gran Turismo<model>
+<year>2019<year> --- <make>BMW<make> --- <model>7-Series<model>
+<year>2019<year> --- <make>BMW<make> --- <model>8-Series<model>
+<year>2019<year> --- <make>BMW<make> --- <model>ALPINA B6 Gran Coupe<model>
+<year>2019<year> --- <make>BMW<make> --- <model>Alpina B7<model>
+<year>2019<year> --- <make>BMW<make> --- <model>C650GT<model>
+<year>2019<year> --- <make>BMW<make> --- <model>i3<model>
+<year>2019<year> --- <make>BMW<make> --- <model>i8<model>
+<year>2019<year> --- <make>BMW<make> --- <model>K1600 B<model>
+<year>2019<year> --- <make>BMW<make> --- <model>K1600GT<model>
+<year>2019<year> --- <make>BMW<make> --- <model>M2<model>
+<year>2019<year> --- <make>BMW<make> --- <model>M4<model>
+<year>2019<year> --- <make>BMW<make> --- <model>M5<model>
+<year>2019<year> --- <make>BMW<make> --- <model>M6<model>
+<year>2019<year> --- <make>BMW<make> --- <model>R nineT<model>
+<year>2019<year> --- <make>BMW<make> --- <model>S1000 R<model>
+<year>2019<year> --- <make>BMW<make> --- <model>S1000RR<model>
+<year>2019<year> --- <make>BMW<make> --- <model>S1000XR<model>
+<year>2019<year> --- <make>BMW<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X1<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X2<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X3<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X4<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X5<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X6<model>
+<year>2019<year> --- <make>BMW<make> --- <model>X7<model>
+<year>2019<year> --- <make>BMW<make> --- <model>Z4<model>
+<year>2019<year> --- <make>Buick<make> --- <model>Cascada<model>
+<year>2019<year> --- <make>Buick<make> --- <model>Enclave<model>
+<year>2019<year> --- <make>Buick<make> --- <model>Encore<model>
+<year>2019<year> --- <make>Buick<make> --- <model>Envision<model>
+<year>2019<year> --- <make>Buick<make> --- <model>LaCrosse<model>
+<year>2019<year> --- <make>Buick<make> --- <model>Regal<model>
+<year>2019<year> --- <make>Buick<make> --- <model>Regal TourX<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>ATS<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>ATS-V<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>CT6<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>CTS<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>CTS-V<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>Escalade<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>XT4<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>XT5<model>
+<year>2019<year> --- <make>Cadillac<make> --- <model>XTS<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Commander 800 DPS<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Commander Max 1000R Limited<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Commander Max XT 1000R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Commander XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender HD5<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender HD8<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max DPS HD10<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max DPS HD8<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max Lonestar HD<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max X MR HD10<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max XT Cab HD10<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max XT HD10<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender Max XT HD8<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender XT Cab HD10<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender XT HD10<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Defender XT HD8<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick Max X DS Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick Sportl DPS 1000R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick Trail 1000-DPS<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max Turbo<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max X RS Turbo<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 Turbo<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 X DS Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 X MR Turbo<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 X MR Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 X RC Turbo<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 X RC Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Maverick X3 X RS Turbo R<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Mossy Oak<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 1000R X MR<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 1000R XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 450<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 570<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 570 X MR<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 650<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 650 X MR<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 650 XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 850 X MR<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander 850 XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander L 450<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander L 570<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 1000R XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 450<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 570<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 570 DPS<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 570 XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 650 XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max 850 XT<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Outlander Max L 570<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Renegade 1000R X MR<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Renegade 570<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Renegade 570R X MR<model>
+<year>2019<year> --- <make>Can-Am<make> --- <model>Renegade 800R DPS<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Blazer<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Bolt EV<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Camaro<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Chassis 3500<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Chassis 4500<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Colorado<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Corvette<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Cruze<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Equinox<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Express<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Impala<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Malibu<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Silverado 1500<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Silverado 2500HD<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Silverado 3500HD<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Silverado Medium Duty<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Sonic<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Spark<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Suburban<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Tahoe<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Traverse<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Trax<model>
+<year>2019<year> --- <make>Chevrolet<make> --- <model>Volt<model>
+<year>2019<year> --- <make>Chevrolet Trucks<make> --- <model>4500XD<model>
+<year>2019<year> --- <make>Chevrolet Trucks<make> --- <model>5500HD<model>
+<year>2019<year> --- <make>Chevrolet Trucks<make> --- <model>5500XD<model>
+<year>2019<year> --- <make>Chrysler<make> --- <model>300<model>
+<year>2019<year> --- <make>Chrysler<make> --- <model>Pacifica<model>
+<year>2019<year> --- <make>Chrysler<make> --- <model>Pacifica Hybrid<model>
+<year>2019<year> --- <make>Dodge<make> --- <model>Challenger<model>
+<year>2019<year> --- <make>Dodge<make> --- <model>Charger<model>
+<year>2019<year> --- <make>Dodge<make> --- <model>Durango<model>
+<year>2019<year> --- <make>Dodge<make> --- <model>Grand Caravan<model>
+<year>2019<year> --- <make>Dodge<make> --- <model>Journey<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Monster 1200<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Monster 1200 R<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Monster 821<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Multistrada 1260<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Multistrada 950<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Panigale 959<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>Panigale V4<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>SuperSport<model>
+<year>2019<year> --- <make>Ducati<make> --- <model>X Diavel<model>
+<year>2019<year> --- <make>Ferrari<make> --- <model>488<model>
+<year>2019<year> --- <make>Ferrari<make> --- <model>812 Superfast<model>
+<year>2019<year> --- <make>Ferrari<make> --- <model>GTC4Lusso<model>
+<year>2019<year> --- <make>Ferrari<make> --- <model>Portofino<model>
+<year>2019<year> --- <make>Ferrari<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Fiat<make> --- <model>500<model>
+<year>2019<year> --- <make>Fiat<make> --- <model>500e<model>
+<year>2019<year> --- <make>Fiat<make> --- <model>500L<model>
+<year>2019<year> --- <make>Fiat<make> --- <model>500x<model>
+<year>2019<year> --- <make>Fiat<make> --- <model>Spider 124<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2019<year> --- <make>Ford<make> --- <model>EcoSport<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2019<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2019<year> --- <make>Ford<make> --- <model>GT<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Ranger<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Shelby GT350<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Stripped Chassis<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Stripped Chassis Motorhome<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2019<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2019<year> --- <make>Freigh3ALHCYCStliner<make> --- <model>M2 106<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>108SD<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>114SD<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>B2 Bus<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Cascadia<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Cascadia 113<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Cascadia 116<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Cascadia 125<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Cascadia 126<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Cascadia 132<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Columbia 120<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Coronado<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Coronado 122<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2 106<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2 106 Heavy Duty<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2 106 Medium Duty<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2 112<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2 112 Medium Duty<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M2 Medium Duty 106<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>M Line Walk-in Van<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>S2 106<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>SD<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Sprinter<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Freightliner<make> --- <model>X-Line Motorhome<model>
+<year>2019<year> --- <make>GEM<make> --- <model>E4<model>
+<year>2019<year> --- <make>GEM<make> --- <model>E4 S<model>
+<year>2019<year> --- <make>Genesis<make> --- <model>G70<model>
+<year>2019<year> --- <make>Genesis<make> --- <model>G80<model>
+<year>2019<year> --- <make>Genesis<make> --- <model>G90<model>
+<year>2019<year> --- <make>Gillig<make> --- <model>Low Floor<model>
+<year>2019<year> --- <make>Gillig<make> --- <model>Transit Bus<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Acadia<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Canyon<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Savana<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Sierra 1500<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Sierra 2500HD<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Sierra 3500HD<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Terrain<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Yukon<model>
+<year>2019<year> --- <make>GMC<make> --- <model>Yukon XL<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLDE<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLFB Fatboy<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLFBS<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHC<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHR<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHRXS<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHT<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHTCUTG<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHTKL<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHTPI<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHX<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLHXSE CVO Street Glide<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLSB Sport Glide<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLSL<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLSL Softail Slim<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLTHTK<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLTRU<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLTRX<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FLTRXS<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>Forty-eight<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FXBB<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FXBR<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FXBR Breakout<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FXBRS<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FXFB Fat Bob<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>FXLR<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>Iron883<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XG750<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XG750A Street Rod<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XL1200C<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XL1200 CX<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XL1200X<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XL1200 XS<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XL883L<model>
+<year>2019<year> --- <make>Harley-Davidson<make> --- <model>XL883N<model>
+<year>2019<year> --- <make>Hino<make> --- <model>155<model>
+<year>2019<year> --- <make>Hino<make> --- <model>195<model>
+<year>2019<year> --- <make>Hino<make> --- <model>268<model>
+<year>2019<year> --- <make>Hino<make> --- <model>268A<model>
+<year>2019<year> --- <make>Hino<make> --- <model>308<model>
+<year>2019<year> --- <make>Hino<make> --- <model>338<model>
+<year>2019<year> --- <make>Hino<make> --- <model>358<model>
+<year>2019<year> --- <make>Hino<make> --- <model>710<model>
+<year>2019<year> --- <make>Hino<make> --- <model>720<model>
+<year>2019<year> --- <make>Hino<make> --- <model>740<model>
+<year>2019<year> --- <make>Hino<make> --- <model>XJC700<model>
+<year>2019<year> --- <make>Hino<make> --- <model>XJC720<model>
+<year>2019<year> --- <make>Holden<make> --- <model>Acadia<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Accord<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Accord Hybrid<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CB1000<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CBR300R<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CBR600RR<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Civic<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Clarity<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CMX300<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CMX300 A<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CMX500<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CMX500 A<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CRF1000<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CRF150R<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CRF150RB<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CRF250 L/RL<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CRF250R<model>
+<year>2019<year> --- <make>Honda<make> --- <model>CR-V<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Fit<model>
+<year>2019<year> --- <make>Honda<make> --- <model>GL1800<model>
+<year>2019<year> --- <make>Honda<make> --- <model>GL1800-D<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Grom<model>
+<year>2019<year> --- <make>Honda<make> --- <model>HR-V<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Insight<model>
+<year>2019<year> --- <make>Honda<make> --- <model>NC750 XD<model>
+<year>2019<year> --- <make>Honda<make> --- <model>NCW50<model>
+<year>2019<year> --- <make>Honda<make> --- <model>NPS50<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Odyssey<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Passport<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Pilot<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Ridgeline<model>
+<year>2019<year> --- <make>Honda<make> --- <model>SXS1000M3<model>
+<year>2019<year> --- <make>Honda<make> --- <model>SXS1000M5<model>
+<year>2019<year> --- <make>Honda<make> --- <model>SXS1000 S2R<model>
+<year>2019<year> --- <make>Honda<make> --- <model>SXS500M<model>
+<year>2019<year> --- <make>Honda<make> --- <model>SXS700M2<model>
+<year>2019<year> --- <make>Honda<make> --- <model>SXS700M4<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX250TE<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX250TM<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX250X<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX420FA<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX420FE<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX420FM<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX420TM<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX500FA<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX500FE<model>
+<year>2019<year> --- <make>Honda<make> --- <model>TRX500FM<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Honda<make> --- <model>VT1300CX<model>
+<year>2019<year> --- <make>Honda<make> --- <model>VT750C<model>
+<year>2019<year> --- <make>Honda<make> --- <model>VT750C2B<model>
+<year>2019<year> --- <make>Honda<make> --- <model>VT750CA<model>
+<year>2019<year> --- <make>Honda<make> --- <model>XR650L<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Z125 M<model>
+<year>2019<year> --- <make>Honda<make> --- <model>Z125 MA<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>Enduro 701<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FC 250<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FC 450<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FC 450/FS 450<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FE250<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FE350<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FE501<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>Four-stroke<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>FX 350<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>Super Moto 701<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>Svartpilen 401<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TC 125<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TC 250<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TC 50<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TC 85<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TE 125<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TE 250<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>TX 300<model>
+<year>2019<year> --- <make>Husqvarna<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Accent<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Elantra<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Elantra GT<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Ioniq Electric<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Ioniq Hybrid<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Kona<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Kona EV<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Santa Fe<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Santa Fe XL<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Sonata<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Sonata Hybrid<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Sonata Plug-In<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Tucson<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Veloster<model>
+<year>2019<year> --- <make>Hyundai<make> --- <model>Veloster N<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>Q50<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>Q60<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>Q70<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>QX30<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>QX50<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>QX60<model>
+<year>2019<year> --- <make>Infiniti<make> --- <model>QX80<model>
+<year>2019<year> --- <make>International<make> --- <model>3000<model>
+<year>2019<year> --- <make>International<make> --- <model>4300<model>
+<year>2019<year> --- <make>International<make> --- <model>4300 LP<model>
+<year>2019<year> --- <make>International<make> --- <model>4400<model>
+<year>2019<year> --- <make>International<make> --- <model>7300<model>
+<year>2019<year> --- <make>International<make> --- <model>7400<model>
+<year>2019<year> --- <make>International<make> --- <model>7500<model>
+<year>2019<year> --- <make>International<make> --- <model>7600<model>
+<year>2019<year> --- <make>International<make> --- <model>CV515<model>
+<year>2019<year> --- <make>International<make> --- <model>DuraStar 4300<model>
+<year>2019<year> --- <make>International<make> --- <model>DuraStar 4400<model>
+<year>2019<year> --- <make>International<make> --- <model>HV507<model>
+<year>2019<year> --- <make>International<make> --- <model>HV513<model>
+<year>2019<year> --- <make>International<make> --- <model>HV607<model>
+<year>2019<year> --- <make>International<make> --- <model>HX515<model>
+<year>2019<year> --- <make>International<make> --- <model>HX520<model>
+<year>2019<year> --- <make>International<make> --- <model>HX620<model>
+<year>2019<year> --- <make>International<make> --- <model>Loanstar<model>
+<year>2019<year> --- <make>International<make> --- <model>LT625<model>
+<year>2019<year> --- <make>International<make> --- <model>LT62F<model>
+<year>2019<year> --- <make>International<make> --- <model>MA025<model>
+<year>2019<year> --- <make>International<make> --- <model>MA035<model>
+<year>2019<year> --- <make>International<make> --- <model>MV607<model>
+<year>2019<year> --- <make>International<make> --- <model>Prostar<model>
+<year>2019<year> --- <make>International<make> --- <model>RF027<model>
+<year>2019<year> --- <make>International<make> --- <model>RH613<model>
+<year>2019<year> --- <make>International<make> --- <model>SF525<model>
+<year>2019<year> --- <make>International<make> --- <model>SF637<model>
+<year>2019<year> --- <make>International<make> --- <model>WorkStar 7400<model>
+<year>2019<year> --- <make>International<make> --- <model>WorkStar 7600<model>
+<year>2019<year> --- <make>Isuzu<make> --- <model>NPR<model>
+<year>2019<year> --- <make>Isuzu<make> --- <model>NPR HD<model>
+<year>2019<year> --- <make>Isuzu<make> --- <model>NQR<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>E-Pace<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>F-Pace<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>F-Type<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>I-Pace<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>XE<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>XF-Series<model>
+<year>2019<year> --- <make>Jaguar<make> --- <model>XJ-Series<model>
+<year>2019<year> --- <make>Jeep<make> --- <model>Cherokee<model>
+<year>2019<year> --- <make>Jeep<make> --- <model>Compass<model>
+<year>2019<year> --- <make>Jeep<make> --- <model>Grand Cherokee<model>
+<year>2019<year> --- <make>Jeep<make> --- <model>Renegade<model>
+<year>2019<year> --- <make>Jeep<make> --- <model>Wrangler<model>
+<year>2019<year> --- <make>Kalmar<make> --- <model>Ottawa T2<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>BR125 J<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>EN650 C<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>EN650-D<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>EN650-E<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ER650-G<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ER650 H<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>EX400<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>EX650-J<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF1000-B<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF400 K<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF400 M<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF620MF<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF620RF<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF700 A<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF800-H<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF820-A<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF820-C<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF820-D<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KAF820-E<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KLE300-B<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KLE300-C<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KLX110-D<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KLX250 SJ<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KSF50B<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KX100<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KX252 A<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KX65-A<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>KX85-C<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>MULE PRO-FXT<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>Teryx<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>Versys 650<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>VN1700-B<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>VN1700-K<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>VN900-B<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>VN900-D<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ZG1400C<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ZR900<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ZR900 R<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ZX1000 W<model>
+<year>2019<year> --- <make>Kawasaki<make> --- <model>ZX1400J<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>310<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>337<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>K300<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T300<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T370<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T3 Series<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T400<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T4 Series<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T600<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T680<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T800<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>T880<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Kenworth<make> --- <model>W900<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Cadenza<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Forte<model>
+<year>2019<year> --- <make>Kia<make> --- <model>K900<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Niro<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Niro EV<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Niro Plug In Hybrid<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Optima<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Optima Hybrid<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Rio<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Rio5<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Sedona<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Sorento<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Soul<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Soul EV<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Sportage<model>
+<year>2019<year> --- <make>Kia<make> --- <model>Stinger<model>
+<year>2019<year> --- <make>KTM<make> --- <model>1090 Adventure R<model>
+<year>2019<year> --- <make>KTM<make> --- <model>125 EXC<model>
+<year>2019<year> --- <make>KTM<make> --- <model>1290 Super Adventure<model>
+<year>2019<year> --- <make>KTM<make> --- <model>1290 Super Adventure S<model>
+<year>2019<year> --- <make>KTM<make> --- <model>1290 Super Duke GT<model>
+<year>2019<year> --- <make>KTM<make> --- <model>1290 Super Duke R<model>
+<year>2019<year> --- <make>KTM<make> --- <model>200 XC-W<model>
+<year>2019<year> --- <make>KTM<make> --- <model>250 XC<model>
+<year>2019<year> --- <make>KTM<make> --- <model>250 XC-F<model>
+<year>2019<year> --- <make>KTM<make> --- <model>250 XC-W<model>
+<year>2019<year> --- <make>KTM<make> --- <model>300 XC<model>
+<year>2019<year> --- <make>KTM<make> --- <model>300 XC-W<model>
+<year>2019<year> --- <make>KTM<make> --- <model>350 EXC-F<model>
+<year>2019<year> --- <make>KTM<make> --- <model>350 XCF-W<model>
+<year>2019<year> --- <make>KTM<make> --- <model>450 XC<model>
+<year>2019<year> --- <make>KTM<make> --- <model>450 XC-F<model>
+<year>2019<year> --- <make>KTM<make> --- <model>65 SX<model>
+<year>2019<year> --- <make>KTM<make> --- <model>Closed Course Competition<model>
+<year>2019<year> --- <make>KTM<make> --- <model>Enduro<model>
+<year>2019<year> --- <make>KTM<make> --- <model>Moto Cross<model>
+<year>2019<year> --- <make>KTM<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>KYMCO<make> --- <model>Spade 150<model>
+<year>2019<year> --- <make>KYMCO<make> --- <model>Utility ATV<model>
+<year>2019<year> --- <make>Lamborghini<make> --- <model>Aventador<model>
+<year>2019<year> --- <make>Lamborghini<make> --- <model>Huracan<model>
+<year>2019<year> --- <make>Lamborghini<make> --- <model>Urus<model>
+<year>2019<year> --- <make>Land Rover<make> --- <model>Discovery<model>
+<year>2019<year> --- <make>Land Rover<make> --- <model>Discovery Sport<model>
+<year>2019<year> --- <make>Land Rover<make> --- <model>Range Rover<model>
+<year>2019<year> --- <make>Land Rover<make> --- <model>Range Rover Evoque<model>
+<year>2019<year> --- <make>Land Rover<make> --- <model>Range Rover Sport<model>
+<year>2019<year> --- <make>Land Rover<make> --- <model>Range Rover Velar<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>ES 300h<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>ES 350<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>GS<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>GX 460<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>IS<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>LC 500<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>LC 500h<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>LS 500<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>LS 500h<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>LX 570<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>NX 200t<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>NX 300h<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RC 200t<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RC 300<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RC 350<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RC F<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RX 350<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RX 350L<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RX 450h<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>RX 450hL<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>UX 200<model>
+<year>2019<year> --- <make>Lexus<make> --- <model>UX 250h<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>Nautilus<model>
+<year>2019<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2019<year> --- <make>Mack<make> --- <model>Anthem<model>
+<year>2019<year> --- <make>Mack<make> --- <model>CHU613<model>
+<year>2019<year> --- <make>Mack<make> --- <model>CXU612<model>
+<year>2019<year> --- <make>Mack<make> --- <model>CXU613<model>
+<year>2019<year> --- <make>Mack<make> --- <model>Granite<model>
+<year>2019<year> --- <make>Mack<make> --- <model>GU713<model>
+<year>2019<year> --- <make>Mack<make> --- <model>GU813<model>
+<year>2019<year> --- <make>Mack<make> --- <model>LR<model>
+<year>2019<year> --- <make>Mack<make> --- <model>Pinnacle<model>
+<year>2019<year> --- <make>Mack<make> --- <model>Terrapro<model>
+<year>2019<year> --- <make>Maserati<make> --- <model>Ghibli<model>
+<year>2019<year> --- <make>Maserati<make> --- <model>GranTurismo<model>
+<year>2019<year> --- <make>Maserati<make> --- <model>Levante<model>
+<year>2019<year> --- <make>Maserati<make> --- <model>Quattroporte<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>CX-3<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>CX-5<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>CX-9<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>MAZDA2<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>MAZDA3<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>MAZDA6<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>MX-5 Miata<model>
+<year>2019<year> --- <make>Mazda<make> --- <model>MX-5 Miata RF<model>
+<year>2019<year> --- <make>MCI<make> --- <model>D4500<model>
+<year>2019<year> --- <make>MCI<make> --- <model>Transit Bus<model>
+<year>2019<year> --- <make>McLaren<make> --- <model>540C<model>
+<year>2019<year> --- <make>McLaren<make> --- <model>570GT<model>
+<year>2019<year> --- <make>McLaren<make> --- <model>570s<model>
+<year>2019<year> --- <make>McLaren<make> --- <model>600LT Spider<model>
+<year>2019<year> --- <make>McLaren<make> --- <model>720s<model>
+<year>2019<year> --- <make>McLaren<make> --- <model>Senna<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>A-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>AMG GT<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>B-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>C-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>CLA-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>CLS-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>E-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>E-Class Wagon<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>G-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>GLA-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>GLC-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>GLE Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>GLE-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>GLS-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>Maybach<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>Metris<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>S-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>SLC-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>SL-Class<model>
+<year>2019<year> --- <make>Mercedes-Benz<make> --- <model>Sprinter<model>
+<year>2019<year> --- <make>Mini<make> --- <model>Clubman<model>
+<year>2019<year> --- <make>Mini<make> --- <model>Cooper<model>
+<year>2019<year> --- <make>Mini<make> --- <model>Countryman<model>
+<year>2019<year> --- <make>Mini<make> --- <model>Roadster<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>Eclipse Cross<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>Mirage<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>Mirage G4<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>Outlander<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>Outlander PHEV<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>Outlander Sport<model>
+<year>2019<year> --- <make>Mitsubishi<make> --- <model>RVR<model>
+<year>2019<year> --- <make>Mitsubishi Fuso<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>New Flyer<make> --- <model>Transit Bus<model>
+<year>2019<year> --- <make>New Flyer<make> --- <model>XCELSIOR<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Altima<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Armada<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Frontier<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>GT-R<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Kicks<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Leaf<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Maxima<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Micra<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Murano<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>NV200<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>NV Cargo<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>NV Passenger<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Pathfinder<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Rogue<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Rogue Sport<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Sentra<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Titan<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Titan XD<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Versa<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Versa Note<model>
+<year>2019<year> --- <make>Nissan<make> --- <model>Z<model>
+<year>2019<year> --- <make>Oshkosh<make> --- <model>S-Series<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>220<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>330<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>337<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>348<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>365<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>367<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>375<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>377<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>389<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>520<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>567<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>579<model>
+<year>2019<year> --- <make>Peterbilt<make> --- <model>COE 220<model>
+<year>2019<year> --- <make>Piaggio<make> --- <model>Typhoon 50<model>
+<year>2019<year> --- <make>Pierce<make> --- <model>Arrow XT<model>
+<year>2019<year> --- <make>Pierce<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>General<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>General 1000<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>General 4 1000 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>General Command<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger 570<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger 570-4 EPS Crew<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger 570 Crew<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger 570 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger EV<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger XP 900<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>Ranger XP 900 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR 570<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR 900<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR 900 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR RS1<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR S 900 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP 1000 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP 4 1000 EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP 4 Ride Command<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP 4 Turbo EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP 4 Turbo S<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP Turbo EPS<model>
+<year>2019<year> --- <make>Polaris<make> --- <model>RZR XP Turbo S<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>718 Boxster<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>718 Cayman<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>911<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>Cayenne<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>Cayenne Hybrid<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>Macan<model>
+<year>2019<year> --- <make>Porsche<make> --- <model>Panamera<model>
+<year>2019<year> --- <make>Prevost<make> --- <model>Bus<model>
+<year>2019<year> --- <make>RAM<make> --- <model>1500<model>
+<year>2019<year> --- <make>RAM<make> --- <model>1500 Classic<model>
+<year>2019<year> --- <make>RAM<make> --- <model>1500-K<model>
+<year>2019<year> --- <make>RAM<make> --- <model>2500<model>
+<year>2019<year> --- <make>RAM<make> --- <model>3500<model>
+<year>2019<year> --- <make>RAM<make> --- <model>4000<model>
+<year>2019<year> --- <make>RAM<make> --- <model>4500<model>
+<year>2019<year> --- <make>RAM<make> --- <model>5500<model>
+<year>2019<year> --- <make>RAM<make> --- <model>Promaster<model>
+<year>2019<year> --- <make>RAM<make> --- <model>ProMaster City<model>
+<year>2019<year> --- <make>Rolls-Royce<make> --- <model>Cullinan<model>
+<year>2019<year> --- <make>Rolls-Royce<make> --- <model>Dawn<model>
+<year>2019<year> --- <make>Rolls-Royce<make> --- <model>Ghost Series II<model>
+<year>2019<year> --- <make>Rolls-Royce<make> --- <model>Phantom<model>
+<year>2019<year> --- <make>Rolls-Royce<make> --- <model>Wraith<model>
+<year>2019<year> --- <make>Sanyang<make> --- <model>Fiddle II 125<model>
+<year>2019<year> --- <make>Sanyang<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>smart<make> --- <model>fortwo<model>
+<year>2019<year> --- <make>Spartan<make> --- <model>Metro Star<model>
+<year>2019<year> --- <make>Spartan<make> --- <model>Motorhome<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>Ascent<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>BRZ<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>Crosstrek<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>Forester<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>Impreza<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>Legacy<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>Outback<model>
+<year>2019<year> --- <make>Subaru<make> --- <model>WRX<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>DL100<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>DL650<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>DR200SE<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>DR650SE<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>DR-Z400S<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>DR-Z400SM<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>GSX1300RA<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>GSX-R600L1<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>GSX-R750L1<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>GSX-S1000<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>GSX-S1000F A<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>GSX-S750<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>LT-A400F<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>LT-A500X<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>LT-A750XP<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>LT-F400F<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>RMX450Z<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>RV200<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>SFV650<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>TU250X<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>VL1500<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>VL800<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>VZ1500<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>VZ800<model>
+<year>2019<year> --- <make>Suzuki<make> --- <model>VZR1800<model>
+<year>2019<year> --- <make>Tesla<make> --- <model>Model 3<model>
+<year>2019<year> --- <make>Tesla<make> --- <model>Model S<model>
+<year>2019<year> --- <make>Tesla<make> --- <model>Model X<model>
+<year>2019<year> --- <make>Thomas<make> --- <model>School Bus<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>4Runner<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>86<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Avalon<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Avalon Hybrid<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Camry<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Camry Hybrid<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>C-HR<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Corolla<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Highlander<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Highlander Hybrid<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Land Cruiser<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Mirai<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Prius<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Prius c<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Prius Prime<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>RAV4<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>RAV4 Hybrid<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Sequoia<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Sienna<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Tacoma<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Tundra<model>
+<year>2019<year> --- <make>Toyota<make> --- <model>Yaris<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Bonneville Bobber Black<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Bonneville T100<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Bonneville T120<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Explorer XCA<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Street Triple R<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Street Triple RS<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Street Twin<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Tiger 800 XCA<model>
+<year>2019<year> --- <make>Triumph<make> --- <model>Tiger 800 XRT<model>
+<year>2019<year> --- <make>Van Hool<make> --- <model>Commuter Coach CX<model>
+<year>2019<year> --- <make>Vespa<make> --- <model>Primavera 50<model>
+<year>2019<year> --- <make>Vespa<make> --- <model>Sprint 150<model>
+<year>2019<year> --- <make>Vespa<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Arteon<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Atlas<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Beetle<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>e-Golf<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Golf<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Golf Alltrack<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Golf GTI<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Golf R<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Golf SportWagen<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Jetta<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Passat<model>
+<year>2019<year> --- <make>Volkswagen<make> --- <model>Tiguan<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>S60<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>S90<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>V60<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>V60 Cross Country<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>V90<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>V90 Cross Country<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>VAH<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>VHD<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>VNL<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>VNR<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>XC40<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>XC60<model>
+<year>2019<year> --- <make>Volvo<make> --- <model>XC90<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4700<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4700SA<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4700SB<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4700SF<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4700 SF<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4800<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4900 EX<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4900FA<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4900 FA<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4900SA<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>4900 SA<model>
+<year>2019<year> --- <make>Western Star Trucks<make> --- <model>5700<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>FJR1300AE<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>FZ09<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>FZ09C<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>FZ10<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>MT07<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>MTT09<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>MTT09 GT<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>PW50<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>Unknown<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>WR250<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>XT250<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>XT250C<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>XVS950CU<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YFM450 K<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YFM700<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YFM700R<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YFM700 R/SE<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YXC700ES<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YXE850<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YXF850 ES<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YXM700<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YXM700E<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ125<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ250<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ250F<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ250FX<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ250X<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ450F<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZ85<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZFR1<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZF-R1C<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZFR1M<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZF-R6C<model>
+<year>2019<year> --- <make>Yamaha<make> --- <model>YZFR6L<model>
+<year>2018<year> --- <make>Acura<make> --- <model>ILX<model>
+<year>2018<year> --- <make>Acura<make> --- <model>MDX<model>
+<year>2018<year> --- <make>Acura<make> --- <model>NSX<model>
+<year>2018<year> --- <make>Acura<make> --- <model>RDX<model>
+<year>2018<year> --- <make>Acura<make> --- <model>RLX<model>
+<year>2018<year> --- <make>Acura<make> --- <model>TLX<model>
+<year>2018<year> --- <make>Alfa Romeo<make> --- <model>4C<model>
+<year>2018<year> --- <make>Alfa Romeo<make> --- <model>Giulia<model>
+<year>2018<year> --- <make>Alfa Romeo<make> --- <model>Stelvio<model>
+<year>2018<year> --- <make>Aprilla<make> --- <model>RSV4 RR<model>
+<year>2018<year> --- <make>Aprilla<make> --- <model>Tuono V4 1100 Factory<model>
+<year>2018<year> --- <make>Aprilla<make> --- <model>Tuono V4 1100 RR<model>
+<year>2018<year> --- <make>Arctic Cat<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Aston Martin<make> --- <model>DB11<model>
+<year>2018<year> --- <make>Aston Martin<make> --- <model>Vanquish<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A3<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A3 e-tron<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A4<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A5<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A6<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A7<model>
+<year>2018<year> --- <make>Audi<make> --- <model>A8<model>
+<year>2018<year> --- <make>Audi<make> --- <model>allroad<model>
+<year>2018<year> --- <make>Audi<make> --- <model>Q3<model>
+<year>2018<year> --- <make>Audi<make> --- <model>Q5<model>
+<year>2018<year> --- <make>Audi<make> --- <model>Q7<model>
+<year>2018<year> --- <make>Audi<make> --- <model>R8<model>
+<year>2018<year> --- <make>Audi<make> --- <model>RS3<model>
+<year>2018<year> --- <make>Audi<make> --- <model>RS5<model>
+<year>2018<year> --- <make>Audi<make> --- <model>RS7<model>
+<year>2018<year> --- <make>Audi<make> --- <model>S3<model>
+<year>2018<year> --- <make>Audi<make> --- <model>S4<model>
+<year>2018<year> --- <make>Audi<make> --- <model>S5<model>
+<year>2018<year> --- <make>Audi<make> --- <model>S6<model>
+<year>2018<year> --- <make>Audi<make> --- <model>S7<model>
+<year>2018<year> --- <make>Audi<make> --- <model>S8<model>
+<year>2018<year> --- <make>Audi<make> --- <model>SQ5<model>
+<year>2018<year> --- <make>Audi<make> --- <model>TT<model>
+<year>2018<year> --- <make>Audi<make> --- <model>TT RS<model>
+<year>2018<year> --- <make>Audi<make> --- <model>TTS<model>
+<year>2018<year> --- <make>Audi<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Autocar<make> --- <model>ACX Xpeditor<model>
+<year>2018<year> --- <make>Autocar<make> --- <model>LLC Xpeditor<model>
+<year>2018<year> --- <make>Autocar<make> --- <model>LLC XSPotter Off<model>
+<year>2018<year> --- <make>Bentley<make> --- <model>Bentayga<model>
+<year>2018<year> --- <make>Bentley<make> --- <model>Continental Flying Spur<model>
+<year>2018<year> --- <make>Bentley<make> --- <model>Continental GTC<model>
+<year>2018<year> --- <make>Bentley<make> --- <model>Mulsanne<model>
+<year>2018<year> --- <make>Blue Bird<make> --- <model>All American/All Canadian<model>
+<year>2018<year> --- <make>Blue Bird<make> --- <model>BB Conventional<model>
+<year>2018<year> --- <make>Blue Bird<make> --- <model>School/Transit Bus<model>
+<year>2018<year> --- <make>Blue Bird<make> --- <model>Vision<model>
+<year>2018<year> --- <make>BMW<make> --- <model>2-Series<model>
+<year>2018<year> --- <make>BMW<make> --- <model>3-Series<model>
+<year>2018<year> --- <make>BMW<make> --- <model>3-Series Gran Turismo<model>
+<year>2018<year> --- <make>BMW<make> --- <model>3-Series Sport Wagon<model>
+<year>2018<year> --- <make>BMW<make> --- <model>4-Series<model>
+<year>2018<year> --- <make>BMW<make> --- <model>4-Series Gran Coupe<model>
+<year>2018<year> --- <make>BMW<make> --- <model>5-Series<model>
+<year>2018<year> --- <make>BMW<make> --- <model>6-Series<model>
+<year>2018<year> --- <make>BMW<make> --- <model>6-Series Gran Coupe<model>
+<year>2018<year> --- <make>BMW<make> --- <model>6-Series Gran Turismo<model>
+<year>2018<year> --- <make>BMW<make> --- <model>7-Series<model>
+<year>2018<year> --- <make>BMW<make> --- <model>C650GT<model>
+<year>2018<year> --- <make>BMW<make> --- <model>F700GS<model>
+<year>2018<year> --- <make>BMW<make> --- <model>F800R<model>
+<year>2018<year> --- <make>BMW<make> --- <model>i3<model>
+<year>2018<year> --- <make>BMW<make> --- <model>K1600 B<model>
+<year>2018<year> --- <make>BMW<make> --- <model>K1600GT<model>
+<year>2018<year> --- <make>BMW<make> --- <model>K1600GTL<model>
+<year>2018<year> --- <make>BMW<make> --- <model>M2<model>
+<year>2018<year> --- <make>BMW<make> --- <model>M3<model>
+<year>2018<year> --- <make>BMW<make> --- <model>M4<model>
+<year>2018<year> --- <make>BMW<make> --- <model>M5<model>
+<year>2018<year> --- <make>BMW<make> --- <model>M6<model>
+<year>2018<year> --- <make>BMW<make> --- <model>R1200GS<model>
+<year>2018<year> --- <make>BMW<make> --- <model>R1200R<model>
+<year>2018<year> --- <make>BMW<make> --- <model>R1200RS<model>
+<year>2018<year> --- <make>BMW<make> --- <model>R1200RT<model>
+<year>2018<year> --- <make>BMW<make> --- <model>R nineT<model>
+<year>2018<year> --- <make>BMW<make> --- <model>S1000 R<model>
+<year>2018<year> --- <make>BMW<make> --- <model>S1000RR<model>
+<year>2018<year> --- <make>BMW<make> --- <model>S1000XR<model>
+<year>2018<year> --- <make>BMW<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>BMW<make> --- <model>X1<model>
+<year>2018<year> --- <make>BMW<make> --- <model>X2<model>
+<year>2018<year> --- <make>BMW<make> --- <model>X3<model>
+<year>2018<year> --- <make>BMW<make> --- <model>X4<model>
+<year>2018<year> --- <make>BMW<make> --- <model>X5<model>
+<year>2018<year> --- <make>BMW<make> --- <model>X6<model>
+<year>2018<year> --- <make>Buick<make> --- <model>Cascada<model>
+<year>2018<year> --- <make>Buick<make> --- <model>Enclave<model>
+<year>2018<year> --- <make>Buick<make> --- <model>Encore<model>
+<year>2018<year> --- <make>Buick<make> --- <model>Envision<model>
+<year>2018<year> --- <make>Buick<make> --- <model>LaCrosse<model>
+<year>2018<year> --- <make>Buick<make> --- <model>Regal<model>
+<year>2018<year> --- <make>Buick<make> --- <model>Regal TourX<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>ATS<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>ATS-V<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>CT6<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>CTS<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>CTS-V<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>Escalade<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>XT5<model>
+<year>2018<year> --- <make>Cadillac<make> --- <model>XTS<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Commander 800 DPS<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Commander 800R XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Commander Max 1000R Limited<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Commander Max XT 1000R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Commander XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender HD10<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender HD5<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender HD8<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender Max DPS HD8<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender Max Lonestar HD<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender Max X MR HD10<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender Max XT Cab HD10<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender Max XT HD10<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender Max XT HD8<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender XT Cab HD10<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender XT HD10<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Defender XT HD8<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick 1000R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick 1000R X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick Max 1000R DPS<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick Max 1000R X XC DPS<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick Max X DS Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick Trail 1000-DPS<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max Turbo<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 Max X RS Turbo<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 Turbo<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X 900 HO<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X DS Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X MR Turbo<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X MR Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X RC Turbo<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X RC Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Maverick X3 X RS Turbo R<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Mossy Oak<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 1000R X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 1000R XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 450<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 570<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 570 X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 650 X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 650 XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander 850 X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander L 450<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander Max 450<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander Max 570 XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander Max 650 XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander Max 850 XT<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Outlander Max Limited 100<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Renegade 1000R X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Renegade 570<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Renegade 570R X MR<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Renegade 800R DPS<model>
+<year>2018<year> --- <make>Can-Am<make> --- <model>Renegade 850 X XC<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Aveo<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Bolt EV<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Camaro<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Chassis 3500<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Chassis 4500<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>City Express<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Colorado<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Corvette<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Cruze<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Equinox<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Express<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Impala<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Malibu<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Silverado 1500<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Silverado 2500HD<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Silverado 3500HD<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Sonic<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Spark<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Suburban<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Tahoe<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Traverse<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Trax<model>
+<year>2018<year> --- <make>Chevrolet<make> --- <model>Volt<model>
+<year>2018<year> --- <make>Chevrolet Trucks<make> --- <model>4500HD<model>
+<year>2018<year> --- <make>Chevrolet Trucks<make> --- <model>4500XD<model>
+<year>2018<year> --- <make>Chevrolet Trucks<make> --- <model>5500HD<model>
+<year>2018<year> --- <make>Chevrolet Trucks<make> --- <model>5500XD<model>
+<year>2018<year> --- <make>Chrysler<make> --- <model>300<model>
+<year>2018<year> --- <make>Chrysler<make> --- <model>Pacifica<model>
+<year>2018<year> --- <make>Chrysler<make> --- <model>Pacifica Hybrid<model>
+<year>2018<year> --- <make>Dodge<make> --- <model>Challenger<model>
+<year>2018<year> --- <make>Dodge<make> --- <model>Charger<model>
+<year>2018<year> --- <make>Dodge<make> --- <model>Durango<model>
+<year>2018<year> --- <make>Dodge<make> --- <model>Grand Caravan<model>
+<year>2018<year> --- <make>Dodge<make> --- <model>Journey<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Diavel<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Hypermotard 939<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Monster 1200<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Monster 821<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Multistrada 1200<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Multistrada 1260<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Multistrada 950<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Panigale 959<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Panigale V4<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>Scrambler 1100<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>SuperSport<model>
+<year>2018<year> --- <make>Ducati<make> --- <model>X Diavel<model>
+<year>2018<year> --- <make>Emergency One<make> --- <model>Fire Truck<model>
+<year>2018<year> --- <make>Ferrari<make> --- <model>488<model>
+<year>2018<year> --- <make>Ferrari<make> --- <model>812 Superfast<model>
+<year>2018<year> --- <make>Ferrari<make> --- <model>California<model>
+<year>2018<year> --- <make>Ferrari<make> --- <model>GTC4Lusso<model>
+<year>2018<year> --- <make>Ferrari<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Fiat<make> --- <model>500<model>
+<year>2018<year> --- <make>Fiat<make> --- <model>500e<model>
+<year>2018<year> --- <make>Fiat<make> --- <model>500L<model>
+<year>2018<year> --- <make>Fiat<make> --- <model>500x<model>
+<year>2018<year> --- <make>Fiat<make> --- <model>Spider 124<model>
+<year>2018<year> --- <make>Ford<make> --- <model>C-Max Hybrid<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Econoline<model>
+<year>2018<year> --- <make>Ford<make> --- <model>EcoSport<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Edge<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Escape<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Expedition<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Explorer<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-150<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-250 SD<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-350 SD<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-450 SD<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-550<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-650<model>
+<year>2018<year> --- <make>Ford<make> --- <model>F-750<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fiesta<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Flex<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Focus<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fusion<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fusion Energi<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Fusion Hybrid<model>
+<year>2018<year> --- <make>Ford<make> --- <model>GT<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Mustang<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Shelby GT350<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Stripped Chassis<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Stripped Chassis Motorhome<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Taurus<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Transit<model>
+<year>2018<year> --- <make>Ford<make> --- <model>Transit Connect<model>
+<year>2018<year> --- <make>Freigh3ALHCYCStliner<make> --- <model>M2 106<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>108SD<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>114SD<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>B2 Bus<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>B2 Bus Chassis<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Cascadia<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Cascadia 113<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Cascadia 116<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Cascadia 125<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Cascadia 126<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Cascadia 132<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Columbia 120<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Coronado<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Coronado 122<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Coronado 132<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M2<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M2 106<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M2 106 Heavy Duty<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M2 106 Medium Duty<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M2 112<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M2 Medium Duty 106<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M-Line Motorhome<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>M Line Walk-in Van<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>S2 106<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>S2G<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>SD<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Sprinter<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Freightliner<make> --- <model>X-Line Motorhome<model>
+<year>2018<year> --- <make>GEM<make> --- <model>E2<model>
+<year>2018<year> --- <make>GEM<make> --- <model>E4<model>
+<year>2018<year> --- <make>GEM<make> --- <model>E4 S<model>
+<year>2018<year> --- <make>Genesis<make> --- <model>G80<model>
+<year>2018<year> --- <make>Genesis<make> --- <model>G90<model>
+<year>2018<year> --- <make>Gillig<make> --- <model>Low Floor<model>
+<year>2018<year> --- <make>Gillig<make> --- <model>Transit Bus<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Acadia<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Canyon<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Savana<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Sierra 1500<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Sierra 2500HD<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Sierra 3500HD<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Terrain<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Yukon<model>
+<year>2018<year> --- <make>GMC<make> --- <model>Yukon XL<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLFBS Fat Boy 114<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHC<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHCS<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHP Police<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHR<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHRXS<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHTCU<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHTCUTG<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHTK<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHTK ANNIV Ultra Limited<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHTK Shrine<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHX<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHXS<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHXSE<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLHXSE CVO Street Glide<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLRT<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLSB Sport Glide<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLSL<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLTRU<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLTRX<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FLTRXSE CVO Road Glide<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>Forty-eight<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FXBB Street Bob<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FXBRS ANNIV Breakout<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FXFB Fat Bob<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>FXFBS Fat Boy 114<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>Iron883<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XG500<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XG750<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XG750A Street Rod<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XL1200C<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XL1200 CX<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XL1200X<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XL1200 XS<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XL883L<model>
+<year>2018<year> --- <make>Harley-Davidson<make> --- <model>XL883N<model>
+<year>2018<year> --- <make>Hino<make> --- <model>155<model>
+<year>2018<year> --- <make>Hino<make> --- <model>195<model>
+<year>2018<year> --- <make>Hino<make> --- <model>268<model>
+<year>2018<year> --- <make>Hino<make> --- <model>268A<model>
+<year>2018<year> --- <make>Hino<make> --- <model>308<model>
+<year>2018<year> --- <make>Hino<make> --- <model>338<model>
+<year>2018<year> --- <make>Hino<make> --- <model>710<model>
+<year>2018<year> --- <make>Hino<make> --- <model>740<model>
+<year>2018<year> --- <make>Hino<make> --- <model>XJC700<model>
+<year>2018<year> --- <make>Hino<make> --- <model>XJC720<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Accord<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Accord Hybrid<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CB1000<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CB300F<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CB500F<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CB500FA<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CB500X<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CB650 F<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CBR300R<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CBR500R<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CBR500RA<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CBR600RR<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CBR650F<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CBR650FA<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Civic<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Clarity<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CMX300<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CMX300 A<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CMX500<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CMX500 A<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CRF1000<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CRF150R<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CRF150RB<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CRF250 L/RL<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CR-V<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CTX700D<model>
+<year>2018<year> --- <make>Honda<make> --- <model>CTX700ND<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Fit<model>
+<year>2018<year> --- <make>Honda<make> --- <model>GL1800-D<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Grom<model>
+<year>2018<year> --- <make>Honda<make> --- <model>HR-V<model>
+<year>2018<year> --- <make>Honda<make> --- <model>NC750 X<model>
+<year>2018<year> --- <make>Honda<make> --- <model>NC750 XD<model>
+<year>2018<year> --- <make>Honda<make> --- <model>NCW50<model>
+<year>2018<year> --- <make>Honda<make> --- <model>NPS50<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Odyssey<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Pilot<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Ridgeline<model>
+<year>2018<year> --- <make>Honda<make> --- <model>SXS1000M3<model>
+<year>2018<year> --- <make>Honda<make> --- <model>SXS1000M5<model>
+<year>2018<year> --- <make>Honda<make> --- <model>SXS500M<model>
+<year>2018<year> --- <make>Honda<make> --- <model>SXS700M2<model>
+<year>2018<year> --- <make>Honda<make> --- <model>SXS700M4<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX250<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX250EX<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX250TE<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX420FA<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX420FE<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX420FM<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX420TM<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX500FA<model>
+<year>2018<year> --- <make>Honda<make> --- <model>TRX500FM<model>
+<year>2018<year> --- <make>Honda<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Honda<make> --- <model>VT750C2B<model>
+<year>2018<year> --- <make>Honda<make> --- <model>XR650L<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>Enduro 701<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FC 250<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FC 350<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FC 450<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FE250<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FE350<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FE501<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>Four-stroke<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>FX 350<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>Super Moto 701<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>Svartpilen 401<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TC 125<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TC 250<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TC 50<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TC 85<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TE 125<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TE 250<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>TX 300<model>
+<year>2018<year> --- <make>Husqvarna<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Accent<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Elantra<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Elantra GT<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Ioniq Electric<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Ioniq Hybrid<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Kona<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Santa Fe<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Sonata<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Sonata Hybrid<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Sonata Plug-In<model>
+<year>2018<year> --- <make>Hyundai<make> --- <model>Tucson<model>
+<year>2018<year> --- <make>Infiniti<make> --- <model>Q50<model>
+<year>2018<year> --- <make>Infiniti<make> --- <model>Q60<model>
+<year>2018<year> --- <make>Infiniti<make> --- <model>Q70<model>
+<year>2018<year> --- <make>Infiniti<make> --- <model>QX30<model>
+<year>2018<year> --- <make>Infiniti<make> --- <model>QX60<model>
+<year>2018<year> --- <make>Infiniti<make> --- <model>QX80<model>
+<year>2018<year> --- <make>International<make> --- <model>1300<model>
+<year>2018<year> --- <make>International<make> --- <model>3000<model>
+<year>2018<year> --- <make>International<make> --- <model>4300<model>
+<year>2018<year> --- <make>International<make> --- <model>4400<model>
+<year>2018<year> --- <make>International<make> --- <model>7300<model>
+<year>2018<year> --- <make>International<make> --- <model>7400<model>
+<year>2018<year> --- <make>International<make> --- <model>7500<model>
+<year>2018<year> --- <make>International<make> --- <model>7600<model>
+<year>2018<year> --- <make>International<make> --- <model>8600<model>
+<year>2018<year> --- <make>International<make> --- <model>9900i<model>
+<year>2018<year> --- <make>International<make> --- <model>DuraStar 4300<model>
+<year>2018<year> --- <make>International<make> --- <model>DuraStar 4400<model>
+<year>2018<year> --- <make>International<make> --- <model>HX515<model>
+<year>2018<year> --- <make>International<make> --- <model>HX520<model>
+<year>2018<year> --- <make>International<make> --- <model>HX615<model>
+<year>2018<year> --- <make>International<make> --- <model>HX620<model>
+<year>2018<year> --- <make>International<make> --- <model>LT625<model>
+<year>2018<year> --- <make>International<make> --- <model>LT62A<model>
+<year>2018<year> --- <make>International<make> --- <model>LT62F<model>
+<year>2018<year> --- <make>International<make> --- <model>MA025<model>
+<year>2018<year> --- <make>International<make> --- <model>MA035<model>
+<year>2018<year> --- <make>International<make> --- <model>Prostar<model>
+<year>2018<year> --- <make>International<make> --- <model>Prostar LF627<model>
+<year>2018<year> --- <make>International<make> --- <model>RH613<model>
+<year>2018<year> --- <make>International<make> --- <model>SF525<model>
+<year>2018<year> --- <make>International<make> --- <model>WorkStar 7400<model>
+<year>2018<year> --- <make>International<make> --- <model>WorkStar 7500<model>
+<year>2018<year> --- <make>International<make> --- <model>WorkStar 7600<model>
+<year>2018<year> --- <make>Isuzu<make> --- <model>NPR<model>
+<year>2018<year> --- <make>Isuzu<make> --- <model>NPR HD<model>
+<year>2018<year> --- <make>Isuzu<make> --- <model>NQR<model>
+<year>2018<year> --- <make>Jaguar<make> --- <model>E-Pace<model>
+<year>2018<year> --- <make>Jaguar<make> --- <model>F-Pace<model>
+<year>2018<year> --- <make>Jaguar<make> --- <model>F-Type<model>
+<year>2018<year> --- <make>Jaguar<make> --- <model>XE<model>
+<year>2018<year> --- <make>Jaguar<make> --- <model>XF-Series<model>
+<year>2018<year> --- <make>Jaguar<make> --- <model>XJ-Series<model>
+<year>2018<year> --- <make>Jeep<make> --- <model>Cherokee<model>
+<year>2018<year> --- <make>Jeep<make> --- <model>Compass<model>
+<year>2018<year> --- <make>Jeep<make> --- <model>Grand Cherokee<model>
+<year>2018<year> --- <make>Jeep<make> --- <model>Renegade<model>
+<year>2018<year> --- <make>Jeep<make> --- <model>Wrangler<model>
+<year>2018<year> --- <make>Jeep<make> --- <model>Wrangler JK<model>
+<year>2018<year> --- <make>Kalmar<make> --- <model>Ottawa T2<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>Brute Force 750<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>EN650-E<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ER650-G<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF400 H<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF400-J<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF400 K<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF400 M<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF400 N<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF620MF<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF620RF<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF620-T<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KAF820-D<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KL650-E<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KLE300-B<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KLE300-C<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KLX140-AF<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KLX140-BF<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KLX250 SJ<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KVF300<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KX100<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KX65-A<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>KX85-C<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>LX110-C<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>LX110-D<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>LZ1000B<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>MULE PRO-FXT<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>Teryx<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>Versys 650<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>VN1700-B<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>VN1700-K<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>VN900-B<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>VN900-C<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>VN900-D<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZR900<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1000R<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1000-S<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1000 W<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1000 Z<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1002 A<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1002 B<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX1400J<model>
+<year>2018<year> --- <make>Kawasaki<make> --- <model>ZX636-F<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>310<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>337<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>K300<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T300<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T370<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T3 Series<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T400<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T4 Series<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T600<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T680<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T800<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>T880<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Kenworth<make> --- <model>W900<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Cadenza<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Forte<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Forte 5-Door<model>
+<year>2018<year> --- <make>Kia<make> --- <model>K900<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Niro<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Niro Plug In Hybrid<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Optima<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Optima Hybrid<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Rio<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Rio5<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Sedona<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Sorento<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Soul<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Soul EV<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Sportage<model>
+<year>2018<year> --- <make>Kia<make> --- <model>Stinger<model>
+<year>2018<year> --- <make>KTM<make> --- <model>1090 Adventure R<model>
+<year>2018<year> --- <make>KTM<make> --- <model>125 EXC<model>
+<year>2018<year> --- <make>KTM<make> --- <model>1290 Super Adventure<model>
+<year>2018<year> --- <make>KTM<make> --- <model>1290 Super Adventure S<model>
+<year>2018<year> --- <make>KTM<make> --- <model>1290 Super Duke GT<model>
+<year>2018<year> --- <make>KTM<make> --- <model>1290 Super Duke R<model>
+<year>2018<year> --- <make>KTM<make> --- <model>200 XC-W<model>
+<year>2018<year> --- <make>KTM<make> --- <model>250 XC<model>
+<year>2018<year> --- <make>KTM<make> --- <model>250 XC-F<model>
+<year>2018<year> --- <make>KTM<make> --- <model>250 XC-W<model>
+<year>2018<year> --- <make>KTM<make> --- <model>300 XC<model>
+<year>2018<year> --- <make>KTM<make> --- <model>300 XC-W<model>
+<year>2018<year> --- <make>KTM<make> --- <model>350 EXC-F<model>
+<year>2018<year> --- <make>KTM<make> --- <model>350 XC-F<model>
+<year>2018<year> --- <make>KTM<make> --- <model>350 XCF-W<model>
+<year>2018<year> --- <make>KTM<make> --- <model>450 XC<model>
+<year>2018<year> --- <make>KTM<make> --- <model>450 XC-F<model>
+<year>2018<year> --- <make>KTM<make> --- <model>65 SX<model>
+<year>2018<year> --- <make>KTM<make> --- <model>Closed Course Competition<model>
+<year>2018<year> --- <make>KTM<make> --- <model>Duke 690<model>
+<year>2018<year> --- <make>KTM<make> --- <model>Enduro<model>
+<year>2018<year> --- <make>KTM<make> --- <model>Enduro 690 R<model>
+<year>2018<year> --- <make>KTM<make> --- <model>Moto Cross<model>
+<year>2018<year> --- <make>KTM<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>KYMCO<make> --- <model>Spade 150<model>
+<year>2018<year> --- <make>KYMCO<make> --- <model>Utility ATV<model>
+<year>2018<year> --- <make>Lamborghini<make> --- <model>Aventador<model>
+<year>2018<year> --- <make>Lamborghini<make> --- <model>Huracan<model>
+<year>2018<year> --- <make>Land Rover<make> --- <model>Discovery<model>
+<year>2018<year> --- <make>Land Rover<make> --- <model>Discovery Sport<model>
+<year>2018<year> --- <make>Land Rover<make> --- <model>Range Rover<model>
+<year>2018<year> --- <make>Land Rover<make> --- <model>Range Rover Evoque<model>
+<year>2018<year> --- <make>Land Rover<make> --- <model>Range Rover Sport<model>
+<year>2018<year> --- <make>Land Rover<make> --- <model>Range Rover Velar<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>CT 200h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>ES 300h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>ES 350<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>GS<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>GS 450h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>GX 460<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>IS<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>LC 500<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>LC 500h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>LS 500<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>LS 500h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>LX 570<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>NX 200t<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>NX 300h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RC 200t<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RC 300<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RC 350<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RC F<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RX 350<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RX 350L<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RX 450h<model>
+<year>2018<year> --- <make>Lexus<make> --- <model>RX 450hL<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>Continental<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKC<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKT<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKX<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKZ<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>MKZ Hybrid<model>
+<year>2018<year> --- <make>Lincoln<make> --- <model>Navigator<model>
+<year>2018<year> --- <make>Lotus<make> --- <model>Evora 400<model>
+<year>2018<year> --- <make>Mack<make> --- <model>600 CHU<model>
+<year>2018<year> --- <make>Mack<make> --- <model>Anthem<model>
+<year>2018<year> --- <make>Mack<make> --- <model>CHU613<model>
+<year>2018<year> --- <make>Mack<make> --- <model>CXU600<model>
+<year>2018<year> --- <make>Mack<make> --- <model>CXU613<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU400<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU433<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU533<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU700<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU712<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU713<model>
+<year>2018<year> --- <make>Mack<make> --- <model>GU813<model>
+<year>2018<year> --- <make>Mack<make> --- <model>LR600<model>
+<year>2018<year> --- <make>Mack<make> --- <model>MRU600<model>
+<year>2018<year> --- <make>Mack<make> --- <model>MRU613<model>
+<year>2018<year> --- <make>Mack<make> --- <model>TD714<model>
+<year>2018<year> --- <make>Maserati<make> --- <model>Ghibli<model>
+<year>2018<year> --- <make>Maserati<make> --- <model>GranTurismo<model>
+<year>2018<year> --- <make>Maserati<make> --- <model>Levante<model>
+<year>2018<year> --- <make>Maserati<make> --- <model>Quattroporte<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>CX-3<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>CX-5<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>CX-9<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>MAZDA3<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>MAZDA6<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>MX-5 Miata<model>
+<year>2018<year> --- <make>Mazda<make> --- <model>MX-5 Miata RF<model>
+<year>2018<year> --- <make>MCI<make> --- <model>D4500<model>
+<year>2018<year> --- <make>MCI<make> --- <model>Transit Bus<model>
+<year>2018<year> --- <make>McLaren<make> --- <model>540C<model>
+<year>2018<year> --- <make>McLaren<make> --- <model>570GT<model>
+<year>2018<year> --- <make>McLaren<make> --- <model>570s<model>
+<year>2018<year> --- <make>McLaren<make> --- <model>720s<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>AMG GT<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>B-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>C-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>C-Class Hybrid<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>CLA-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>CLS-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>E-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>E-Class Wagon<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>G-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>GLA-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>GLC-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>GL-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>GLE Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>GLE-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>GLS-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>Maybach<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>Metris<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>S-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>SLC-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>SL-Class<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>SLK<model>
+<year>2018<year> --- <make>Mercedes-Benz<make> --- <model>Sprinter<model>
+<year>2018<year> --- <make>Mini<make> --- <model>Clubman<model>
+<year>2018<year> --- <make>Mini<make> --- <model>Cooper<model>
+<year>2018<year> --- <make>Mini<make> --- <model>Countryman<model>
+<year>2018<year> --- <make>Mini<make> --- <model>Roadster<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>Eclipse Cross<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>Mirage<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>Mirage G4<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>Outlander<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>Outlander PHEV<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>Outlander Sport<model>
+<year>2018<year> --- <make>Mitsubishi<make> --- <model>RVR<model>
+<year>2018<year> --- <make>Mitsubishi Fuso<make> --- <model>FE<model>
+<year>2018<year> --- <make>Mitsubishi Fuso<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Altima<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Armada<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Frontier<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>GT-R<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Kicks<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Leaf<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Maxima<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Micra<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Murano<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>NV200<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>NV Cargo<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>NV Passenger<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Pathfinder<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Rogue<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Rogue Sport<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Sentra<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Titan<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Titan XD<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Versa<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Versa Note<model>
+<year>2018<year> --- <make>Nissan<make> --- <model>Z<model>
+<year>2018<year> --- <make>Oshkosh<make> --- <model>S-Series<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>220<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>320<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>325<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>330<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>337<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>348<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>365<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>367<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>375<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>377<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>389<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>520<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>567<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>579<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>587<model>
+<year>2018<year> --- <make>Peterbilt<make> --- <model>COE 220<model>
+<year>2018<year> --- <make>Pierce<make> --- <model>Arrow XT<model>
+<year>2018<year> --- <make>Pierce<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>General<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>General 1000<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>General 4 1000 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>General Command<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger 500<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger 570<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger 570-4 EPS Crew<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger 570 Crew<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger 570 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger EV<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger XP 900<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>Ranger XP 900 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR 4 900 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR 570<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR 900<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR 900 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR RS1<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR S 900 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP 1000 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP 4 1000 EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP 4 Ride Command<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP 4 Turbo EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP 4 Turbo EPS Dynamix<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP Turbo Dynamix<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP Turbo EPS<model>
+<year>2018<year> --- <make>Polaris<make> --- <model>RZR XP Turbo S<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>911<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>Boxster<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>Cayenne<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>Cayenne Hybrid<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>Cayman<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>Macan<model>
+<year>2018<year> --- <make>Porsche<make> --- <model>Panamera<model>
+<year>2018<year> --- <make>Prevost<make> --- <model>Bus<model>
+<year>2018<year> --- <make>RAM<make> --- <model>1500<model>
+<year>2018<year> --- <make>RAM<make> --- <model>2500<model>
+<year>2018<year> --- <make>RAM<make> --- <model>3500<model>
+<year>2018<year> --- <make>RAM<make> --- <model>4000<model>
+<year>2018<year> --- <make>RAM<make> --- <model>4500<model>
+<year>2018<year> --- <make>RAM<make> --- <model>5500<model>
+<year>2018<year> --- <make>RAM<make> --- <model>Promaster<model>
+<year>2018<year> --- <make>RAM<make> --- <model>ProMaster City<model>
+<year>2018<year> --- <make>Rolls-Royce<make> --- <model>Dawn<model>
+<year>2018<year> --- <make>Rolls-Royce<make> --- <model>Ghost Series II<model>
+<year>2018<year> --- <make>Rolls-Royce<make> --- <model>Phantom<model>
+<year>2018<year> --- <make>Rolls-Royce<make> --- <model>Wraith<model>
+<year>2018<year> --- <make>Sanyang<make> --- <model>Fiddle II 125<model>
+<year>2018<year> --- <make>Sanyang<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>smart<make> --- <model>fortwo<model>
+<year>2018<year> --- <make>Spartan<make> --- <model>Metro Star<model>
+<year>2018<year> --- <make>Spartan<make> --- <model>Motorhome<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>BRZ<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>Crosstrek<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>Forester<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>Impreza<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>Legacy<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>Outback<model>
+<year>2018<year> --- <make>Subaru<make> --- <model>WRX<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>AN650<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>DL100<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>DL650<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>DR650SE<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>DR-Z400S<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>DR-Z400SM<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX1300RA<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-R1000<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-R1000 R<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-R600L1<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-R750L1<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-S1000<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-S1000F A<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>GSX-S750<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>LT-A400F<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>LT-A500<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>LT-A750<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>LT-F400F<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>RMX450Z<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>RM-Z450<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>RMZ-450<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>RV200<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>SFV650<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>TU250X<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>VL1500<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>VL800<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>VZ1500<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>VZ800<model>
+<year>2018<year> --- <make>Suzuki<make> --- <model>VZR1800<model>
+<year>2018<year> --- <make>Tesla<make> --- <model>Model 3<model>
+<year>2018<year> --- <make>Tesla<make> --- <model>Model S<model>
+<year>2018<year> --- <make>Tesla<make> --- <model>Model X<model>
+<year>2018<year> --- <make>Thomas<make> --- <model>School Bus<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>4Runner<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>86<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Avalon<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Avalon Hybrid<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Camry<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Camry Hybrid<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>C-HR<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Corolla<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Corolla iM<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Highlander<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Highlander Hybrid<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Land Cruiser<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Mirai<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Prius<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Prius c<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Prius Prime<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Prius V<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>RAV4<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>RAV4 Hybrid<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Sequoia<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Sienna<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Tacoma<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Tundra<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Yaris<model>
+<year>2018<year> --- <make>Toyota<make> --- <model>Yaris iA<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Bonneville Bobber<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Bonneville Bobber Black<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Bonneville Speedmaster<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Bonneville T100<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Bonneville T120<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Explorer XRT<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Rocket III ABS<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Street Scrambler<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Street Triple R<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Street Triple RS<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Street Triple S<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Street Twin<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Thruxton 1200 R<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Tiger 800 XCA<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Tiger 800 XCX<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Tiger 800 XRT<model>
+<year>2018<year> --- <make>Triumph<make> --- <model>Tiger 800 XRX<model>
+<year>2018<year> --- <make>Van Hool<make> --- <model>Commuter Coach CX<model>
+<year>2018<year> --- <make>Vespa<make> --- <model>Primavera 50<model>
+<year>2018<year> --- <make>Vespa<make> --- <model>Sprint 150<model>
+<year>2018<year> --- <make>Vespa<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Atlas<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Beetle<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>e-Golf<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Golf<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Golf GTI<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Golf R<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Golf SportWagen<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Jetta<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Passat<model>
+<year>2018<year> --- <make>Volkswagen<make> --- <model>Tiguan<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>S60<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>S60 Cross Country<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>S90<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>V60<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>V60 Cross Country<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>V90<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>V90 Cross Country<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>VAH<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>VHD<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>VNL<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>VNM<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>VNR<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>XC60<model>
+<year>2018<year> --- <make>Volvo<make> --- <model>XC90<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4700<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4700SB<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4700SF<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4700 SF<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4800<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4900 EX<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4900FA<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4900 FA<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4900SA<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>4900 SA<model>
+<year>2018<year> --- <make>Western Star Trucks<make> --- <model>5700<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>FJR1300A<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>FJR1300AE<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>FZ09<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>FZ09C<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>FZ10<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>FZ10 C<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>MT07<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>PW50<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>SR400<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>TW200<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>Unknown<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>VMX17<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>WR250<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>WR450F<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XSR700<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XSR900<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XT1200ZE<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XT250<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XT250C<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XV1900 FD<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XV250<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>XVS950CU<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YFM450 FWB<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YFM700FWAD<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YFM700FWB<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YFM700FWBD<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YFM700R<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YFM700 R/SE<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YXC700ES<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YXF850 ES<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YXM700E<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ125<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ250<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ250F<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ250FX<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ250X<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ450F<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ450X<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ65<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZ85<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZFR1<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZF-R1C<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZFR1M<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZF-R6C<model>
+<year>2018<year> --- <make>Yamaha<make> --- <model>YZFR6L<model>

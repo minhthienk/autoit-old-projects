@@ -1,0 +1,846 @@
+1998	Ford	A9513	-	 14.0L L6 DIESEL		1FTYY92Y
+1998	Ford	A9513	-	 11.1L L6 DIESEL		1FTYY92B
+1998	Ford	A9513	-	 11.1L L6 DIESEL		1FTXY92B
+1998	Ford	A9513	-	 11.1L L6 DIESEL		1FDYY92B
+1998	Ford	A9513	-	 10.3L L6 DIESEL		1FTYY92K
+1998	Ford	A9513	-	 11.9L L6 DIESEL		1FTXY92M
+1998	Ford	A9513	-	 10.8L L6 DIESEL		1FTXY92P
+1998	Ford	A9513	-	 10.8L L6 DIESEL		1FTYY92P
+1998	Ford	A9513	-	 10.8L L6 DIESEL		1FDYY92P
+1998	Ford	A9513	-	 11.9L L6 DIESEL		1FTYY92M
+1998	Ford	AT9513	-	 11.9L L6 DIESEL		1FTYY96M
+1998	Ford	AT9513	-	 14.6L L6 DIESEL		1FTYY96W
+1998	Ford	AT9513	-	 12.7L L6 DIESEL		1FTYY96D
+1998	Ford	AT9513	-	 10.3L L6 DIESEL		1FTYY96K
+1998	Ford	AT9513	-	 11.1L L6 DIESEL		1FTYY96B
+1998	Ford	AT9513	-	 11.9L L6 DIESEL		1FDYY96M
+1998	Ford	AT9513	-	 14.0L L6 DIESEL		1FTYY96Y
+1998	Ford	AT9513	-	 10.8L L6 DIESEL		1FDYY96P
+1998	Ford	AT9513	-	 14.0L L6 DIESEL		1FDYY96Y
+1998	Ford	AT9513	-	 14.6L L6 DIESEL		1FDYY96W
+1998	Ford	B800	-	 5.9L L6 DIESEL		1FDXB80C
+1998	Ford	B800	-	 5.9L L6 DIESEL		1FDNB80C
+1998	Ford	B800	-	 5.9L L6 DIESEL		1FDWB80C
+1998	Ford	B800	-	 5.9L L6 DIESEL		1FDPB80C
+1998	Ford	Club Wagon	XL HD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBNE31L
+1998	Ford	Club Wagon	XL Super	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBSS31S
+1998	Ford	Club Wagon	XL Super	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31L
+1998	Ford	Club Wagon	XL HD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNE31S
+1998	Ford	Club Wagon	XL	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11L
+1998	Ford	Club Wagon	XL	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FMRE112
+1998	Ford	Club Wagon	XL	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE116
+1998	Ford	Club Wagon	XL HD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBNE31F
+1998	Ford	Club Wagon	XL HD	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBNE31S
+1998	Ford	Club Wagon	XL Super	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+1998	Ford	Club Wagon	XLT HD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBNE31Z
+1998	Ford	Club Wagon	XL HD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNE31L
+1998	Ford	Econoline	E350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FBSS31Z
+1998	Ford	Club Wagon	XL Super	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMSS31L
+1998	Ford	Club Wagon	XL HD	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNE31F
+1998	Ford	Club Wagon	XL HD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNE31Z
+1998	Ford	Contour	SE	 2.5L V6 DOHC 24V		1FAFP66L
+1998	Ford	Contour	LX	 2.0L L4 DOHC 16V		1FALP653
+1998	Ford	Contour	SVT	 2.5L V6 DOHC 24V	5-Speed Manual Overdrive	1FAFP68G
+1998	Ford	Contour	SVT	 2.5L V6 DOHC 24V	5-Speed Manual Overdrive	1FALP68G
+1998	Ford	Contour	SE	 2.0L L4 DOHC 16V		1FAFP663
+1998	Ford	Contour	LX	 2.0L L4 DOHC 16V		1FAFP65Z
+1998	Ford	Contour	SE	 2.5L V6 DOHC 24V		1FALP67L
+1998	Ford	Contour	SE	 2.0L L4 DOHC 16V		1FAFP66Z
+1998	Ford	Contour	LX	 2.5L V6 DOHC 24V		1FALP65L
+1998	Ford	Contour	LX	 2.5L V6 DOHC 24V		1FAFP65L
+1998	Ford	Contour	LX	 2.0L L4 DOHC 16V		3FALP653
+1998	Ford	Contour	LX	 2.0L L4 DOHC 16V		1FAFP653
+1998	Ford	Contour	SE	 2.5L V6 DOHC 24V		1FALP66L
+1998	Ford	Contour	SE	 2.0L L4 DOHC 16V		3FAFP663
+1998	Ford	Contour	LX	 2.5L V6 DOHC 24V		3FAFP65L
+1998	Ford	Contour	SE	 2.5L V6 DOHC 24V		3FAFP66L
+1998	Ford	Contour	LX	 2.0L L4 DOHC 16V		3FAFP653
+1998	Ford	Contour	LX	 2.0L L4 DOHC 16V		3FABP653
+1998	Ford	Contour	LX	 2.5L V6 DOHC 24V		3FABP65L
+1998	Ford	Contour	SE	 2.5L V6 DOHC 24V		3FALP66L
+1998	Ford	Contour	SE	 2.5L V6 DOHC 24V		3FALP67L
+1998	Ford	Contour	LX	 2.5L V6 DOHC 24V		3FALP65L
+1998	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP71W
+1998	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP73W
+1998	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP74W
+1998	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic	2FAFP72W
+1998	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic	2FAFP749
+1998	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic	2FAFP729
+1998	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V CNG	4-Speed Automatic	2FAFP719
+1998	Ford	Econoline	E350	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDWE37S
+1998	Ford	Econoline	E350	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDWE37L
+1998	Ford	Econoline	E350	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSE37F
+1998	Ford	Econoline	E150	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTRE142
+1998	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDXE40S
+1998	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPE242
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPE24L
+1998	Ford	Econoline	E350 Super	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSS34L
+1998	Ford	Econoline	E250 Super	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPS24L
+1998	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE146
+1998	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE146
+1998	Ford	Econoline	E350	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDWE30F
+1998	Ford	Econoline	E250 Super	 4.2L V6 SOHC 12V		1FDNE272
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNE24L
+1998	Ford	Econoline	E350	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSE34F
+1998	Ford	Econoline	E-350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic	1FDSE34S
+1998	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14L
+1998	Ford	Econoline	E350	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDWE30L
+1998	Ford	Econoline	E350	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSE34L
+1998	Ford	Econoline	E350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic	1FDSS34S
+1998	Ford	Econoline	E350	 5.4L V8 SOHC 16V		1FDSE30L
+1998	Ford	Econoline	E250 Super	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNS24L
+1998	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDXE40F
+1998	Ford	Econoline	E350	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDWE30S
+1998	Ford	Econoline	E350 Super	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSS34F
+1998	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDXE47F
+1998	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTNE242
+1998	Ford	Econoline	E350	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSE34S
+1998	Ford	Econoline	E350	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic	1FDWE37F
+1998	Ford	Econoline	E350	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSE37L
+1998	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDXE47S
+1998	Ford	Econoline	E350 Super	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSS34S
+1998	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14L
+1998	Ford	Econoline	E250 Super	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDNS24L
+1998	Ford	Econoline	E250 Super	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDPS24L
+1998	Ford	Econoline	E350 Super Duty	  5.4L V8 SOHC 16V	4-Speed Automatic	1FCJE39L
+1998	Ford	Econoline	E250 Super	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTNS242
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDPE24L
+1998	Ford	Econoline	E350 Super	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSS34F
+1998	Ford	Econoline	E250 Super Duty	 4.2L V6 SOHC 12V		1FCHE292
+1998	Ford	Econoline	E150	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FDRE142
+1998	Ford	Econoline	E350	 6.8L V10 SOHC 20V		1FDSE30S
+1998	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+1998	Ford	Econoline	E350	 7.3L V8 OHV 16V TURBO DIESEL		1FDSE30F
+1998	Ford	Econoline	E250 Super	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPS242
+1998	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDSS34L
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDNE24L
+1998	Ford	Econoline	E-350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic	1FDSE34F
+1998	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic	1FTSE34M
+1998	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE47F
+1998	Ford	Econoline	E350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic	1FBSS31Z
+1998	Ford	Econoline	E350	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSE34Z
+1998	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDWE47S
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V CNG	4-Speed Automatic	1FTNE24M
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTVE24M
+1998	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE40F
+1998	Ford	Econoline	E-350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDSE34L
+1998	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic	1FTNE24Z
+1998	Ford	Econoline	E350 Super	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTSS34M
+1998	Ford	Escort	ZX2 Cool	 2.0L L4 DOHC 16V		3FAKP113
+1998	Ford	Escort	SE	 2.0L L4 SOHC 8V		1FAFP13P
+1998	Ford	Escort	ZX2 Cool	 2.0L L4 DOHC 16V		3FALP113
+1998	Ford	Escort	LX	 2.0L L4 SOHC 8V		1FAFP10P
+1998	Ford	Escort	ZX2 Cool	 2.0L L4 DOHC 16V		3FAFP113
+1998	Ford	Escort	SE	 2.0L L4 SOHC 8V		1FALP13P
+1998	Ford	Escort	LX	 2.0L L4 SOHC 8V		1FALP10P
+1998	Ford	Escort	SE	 2.0L L4 SOHC 8V		1FABP13P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		3FAFP15P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		1FAFP15P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		3FALP15P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		3FAFP15P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		1FAFP15P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		3FALP15P
+1998	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		1FALP15P
+1998	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU18L
+1998	Ford	Expedition	Eddie Bauer 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU18W
+1998	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU17L
+1998	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU176
+1998	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMFU18L
+1998	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU176
+1998	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU17L
+1998	Ford	Expedition	Eddie Bauer 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMEU18W
+1998	Ford	Explorer	Eddie Bauer 4-Door 2WD	 4.0L V6 SOHC 12V		1FMZU32X
+1998	Ford	Explorer	Eddie Bauer 4-Door 4WD	 4.0L V6 SOHC 12V	5-Speed Automatic Overdrive	1FMZU34X
+1998	Ford	Explorer	Eddie Bauer 4-Door 2WD	 4.0L V6 SOHC 16V		1FMZU32E
+1998	Ford	 Explorer	Eddie Bauer 4-Door AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU35P
+1998	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 16V		1FMYU24E
+1998	Ford	Explorer	XL 4-Door 2WD	 4.9L V8 OHV 16V		1FMZU32P
+1998	Ford	Explorer	Sport 2-Door 2WD	 4.0L V6 SOHC 16V		1FMYU22E
+1998	Ford	Explorer	Eddie Bauer 4-Door 4WD	 4.0L V6 SOHC 16V		1FMZU34E
+1998	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 16V		1FMZU24E
+1998	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 12V		1FMYU24X
+1998	Ford	Explorer	Sport 2-Door 2WD	 4.0L V6 SOHC 12V		1FMYU22X
+1998	Ford	Explorer	XL 4-Door 4WD	 4.0L V6 SOHC 12V		1FMYU34X
+1998	Ford	Explorer	Eddie Bauer 4-Door AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU35P
+1998	Ford	Explorer	Sport 2-Door 4WD	 4.0L V6 SOHC 12V		1FMZU24X
+1998	Ford	Explorer	XL 4-Door 4WD	 4.0L V6 SOHC 12V		1FMDU34X
+1998	Ford	Explorer	Limited 4-Door 4WD	 4.0L V6 SOHC 16V		1FMDU34E
+1998	Ford	Explorer	XL 4-Door 2WD	 4.0L V6 SOHC 16V		1FMDU32E
+ 1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTZX18W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTZX176
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTZX17W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		2FTZX172
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRF17Z
+ 1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		1FTZF182
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTZX172
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		1FTZF172
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V		1FTRX08L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTZF176
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V		1FTZX076
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTZX186
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRX18L
+1998	Ford	F-150	 Lariat SuperCab Flareside 2WD	 4.2L V6 OHV 12V		1FTZX072
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTZF18W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		2FTZF172
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRF17W
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTDX18W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTZX176
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		3FTDF176
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		2FTZF08W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		1FTDF172
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		1FTZF076
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTZF17W
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V		2FTZX076
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRX18L
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTDX176
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRF176
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRF18L
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		1FTZX08W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRX17L
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		2FTZF076
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTZF186
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		2FTZF182
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTDF17W
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		2FTZX08W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTEX17L
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V		1FTZF082
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.2L V6 OHV 12V		2FTZX072
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		1FTZF072
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V		1FTDX076
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTYF176
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTZX18W
+1998	 Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V		2FTRX08L
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V		1FTRX07L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRF17L
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V		1FTZX07W
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		1FTDX08W
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTZX186
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTZF186
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		2FTZF072
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		1FTZF07W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTYF17W
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		1FTZF086
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTZF18W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRX17L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRF18Z
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTZX17W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTDX176
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		1FTZF08W
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		2FTZX086
+1998	Ford	F-150	XL SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTDX172
+1998	Ford	F-150	XL SuperCab Flareside 4WD	 5.4L V8 SOHC 16V		1FTEX08L
+1998	Ford	F-150	XL SuperCab Short Bed 4WD	 5.4L V8 SOHC 16V		1FTEX18L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTDF186
+1998	Ford	F-150	XL Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		1FTDF072
+1998	Ford	F-150	XL SuperCab Flareside 2WD	 5.4L V8 SOHC 16V		1FTEX07L
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		2FTZF07W
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.2L V6 OHV 12V		1FTDX072
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 5.4L V8 16V SOHC		1FTEF08L
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V		2FTZX07W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTZF176
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTDX18W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTEF18L
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V		2FTZF082
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		1FTZX086
+1998	Ford	F-150	XL Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTDF176
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V		2FTRX07L
+1998	Ford	F-150	 Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		2FTZF086
+1998	 Ford	F-150	Lariat Reg. Cab Flareside 4WD	 5.4L V8 SOHC 16V		1FTRF08L
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 5.4L V8 SOHC 16V		2FTRF08L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		2FTDF172
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V		2FTRF07L
+1998	Ford	F-150	XL Reg. Cab Short Bed 2WD	 4.2L V6 OHV 12V		3FTDF172
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTDX186
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		2FTDF072
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		2FTDX172
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTZF17W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTDF17W
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		1FTDX086
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRF18L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRF176
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTEX18L
+1998	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V		1FTRF07L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRF17W
+1998	Ford	F-150	XL SuperCab Flareside 4WD	 5.4L V8 SOHC 16V		2FTEX08L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTDF18W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		1FTDF182
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTZX17L
+1998	Ford	F-150	XL SuperCab Short Bed 2WD	 4.2L V6 OHV 12V		1FTEX172
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTEF17W
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V		2FTDX076
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		1FTDF086
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRF17L
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTDF18W
+1998	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		2FTDF182
+1998	Ford	F-150	XLT SuperCab Short Bed 4WD	 5.4L V8 SOHC 16V		1FTZX18L
+1998	Ford	F-150	XL Reg. Cab Short Bed 2WD	 4.6L V8 SOHC 16V		2FTDF176
+1998	Ford	F-150	XL Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTEF17L
+1998	Ford	F-150	XLT Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		1FTEF172
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		2FTDX08W
+1998	Ford	F-150	 XL Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V		1FTDF07W
+1998	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.2L V6 OHV 12V		2FTDX072
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		2FTDF08W
+1998	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V	 	1FTDF08W
+1998	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTRX18W
+1998	Ford	F-150	XL Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V		1FTEF07L
+1998	Ford	F-150	XL SuperCab Short Bed 4WD	 4.6L V8 SOHC 16V		1FTEX18W
+1998	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTRX172
+1998	Ford	F-150	 XLT Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V		2FTDF082
+1998	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V		2FTDX086
+1998	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V		2FTPX28L
+1998	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V		1FTPX28L
+1998	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V		1FTRX276
+1998	Ford	F-250	Lariat Reg Cab 4WD	 5.4L V8 SOHC 16V		1FTPF28L
+1998	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		1FTRX27L
+1998	Ford	F-250	Lariat Reg Cab 2WD	 4.6L V8 SOHC 16V		1FTRF276
+1998	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		2FTPX27L
+1998	Ford	F-250	Lariat Reg Cab 4WD	 5.4L V8 SOHC 16V		1FTPF28Z
+1998	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		1FTPX28W
+1998	Ford	F-250	Lariat Reg Cab 4WD	 4.6L V8 SOHC 16V		1FTPF28W
+1998	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		2FTPX28W
+1998	Ford	F-250	Lariat Reg Cab 2WD	 5.4L V8 SOHC 16V		1FTRF27L
+1998	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		2FTRX27L
+1998	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V		1FTFX28L
+1998	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		1FTPX27L
+1998	Ford	F-250	Lariat Reg Cab 2WD	 4.6L V8 SOHC 16V		2FTRF276
+1998	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V		2FTRX276
+1998	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		1FTRX27Z
+1998	Ford	F-250	Lariat Reg Cab 2WD	 4.6L V8 SOHC 16V		1FTPF276
+1998	Ford	F-250	Lariat Reg Cab 2WD	 5.4L V8 SOHC 16V		1FTPF27L
+1998	Ford	F-250	Lariat Reg Cab 4WD	 5.4L V8 SOHC 16V		2FTPF28L
+1998	Ford	F-250	Lariat Reg Cab 4WD	 4.6L V8 SOHC 16V		1FTPF286
+1998	Ford	F-250	Lariat Reg Cab 2WD	 4.6L V8 SOHC 16V		2FTPF276
+1998	Ford	F-250	Lariat Reg Cab 2WD	 5.4L V8 SOHC 16V		1FTPF27Z
+1998	Ford	F-250	Lariat Reg Cab 2WD	 5.4L V8 SOHC 16V		2FTRF27L
+1998	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		1FTEX27L
+1998	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V		1FTPX276
+1998	Ford	F-250	XLT Reg Cab 4WD	 4.6L V8 SOHC 16V		2FTPF286
+1998	Ford	F-250	XL Reg Cab 2WD	 5.4L V8 SOHC 16V		1FTRF27Z
+1998	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V		2FTPX276
+1998	Ford	F-250	XL Reg Cab 2WD	 5.4L V8 SOHC 16V CNG		1FTPF27M
+1998	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V		1FTPX28Z
+1998	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		1FTPX286
+1998	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		1FTFX28W
+1998	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		2FTFX286
+1998	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		2FTPX286
+1998	Ford	F-250	Lariat Reg Cab 4WD	 4.6L V8 SOHC 16V		2FTPF28W
+1998	Ford	F-250	Lariat Reg Cab 2WD	 5.4L V8 SOHC 16V		2FTPF27L
+1998	Ford	F-250	Lariat Reg Cab 4WD	 4.6L V8 SOHC 16V		2FTFF28W
+1998	Ford	F-250	XL SuperCab 2WD	 4.6L V8 SOHC 16V		1FTEX276
+1998	Ford	F-250	XL SuperCab 2WD	 5.4L V8 SOHC 16V		1FTPX27Z
+1998	Ford	F-250	XLT Reg Cab 4WD	 4.6L V8 SOHC 16V		1FTFF28W
+1998	Ford	F-250	XL Reg Cab 2WD	 4.6L V8 SOHC 16V		1FTEF276
+1998	Ford	F-250	XLT SuperCab 4WD	 4.6L V8 SOHC 16V		2FTFX28W
+1998	Ford	F700	-	 7.0L V8 LPG		1FDXF708
+1998	Ford	F700	-	 7.0L V8		1FDNF70J
+1998	Ford	F700	-	 7.0L V8 OHV 16V		1FDNF72J
+1998	Ford	F700	-	 7.0L V8		1FDXF70J
+1998	Ford	F700	-	 7.0L V8		1FDPF70J
+1998	Ford	F700	-	 7.0L V8		1FDNF77J
+1998	Ford	F700	-	 7.0L V8 OHV 16V		1FDYF70J
+1998	Ford	F700	-	 7.0L V8 LPG		1FDWF708
+1998	Ford	F700	-	 7.0L V8 OHV 16V LPG		1FDNF708
+1998	Ford	F700	-	 7.0L V8 GAS		1FDWF70J
+1998	Ford	F700	-	 7.0L V8 LPG		1FDWF728
+1998	Ford	F700	-	 7.0L V8 OHV 16V		1FDRF70J
+1998	Ford	F700	-	 7.0L V8 OHV 16V		1FDMF70J
+1998	Ford	F700	-	 7.0L V8 LPG		1FDPF708
+1998	Ford	F800	-	 8.3L L6 DIESEL		1FDXF80E
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDXF80C
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDNF80C
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDWF80C
+1998	Ford	F800	-	 8.3L L6 DIESEL		1FDYF80E
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDPF80C
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDYF80C
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDNF82C
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDRF80C
+1998	Ford	F800	-	 8.3L L6 DIESEL		1FDWF80E
+1998	Ford	F800	-	 5.9L L6 DIESEL		1FDMF80C
+1998	Ford	FT900F	-	 8.3L L6 DIESEL		1FDYL90E
+1998	Ford	L8501	-	 7.2L L6 DIESEL		1FDXN80F
+1998	Ford	L8501	-	 7.2L L6 DIESEL		1FDYN80F
+1998	Ford	L8501	-	 8.3L L6 DIESEL		1FDYN80E
+1998	Ford	L8501	-	 7.2L L6 DIESEL		1FDWN80F
+1998	Ford	L8501	-	 8.3L L6 DIESEL		1FDXN80E
+1998	Ford	L8501	-	 5.9L L6 DIESEL		1FDXN80C
+1998	Ford	L8501	-	 8.3L L6 DIESEL		1FDWN80E
+1998	Ford	L8501	-	 5.9L L6 DIESEL		1FDWN80C
+1998	Ford	L8501	-	 8.3L L6 DIESEL		1FTXN80E
+1998	Ford	L8501	-	 7.3L V8 TURBO DIESEL		1FTXN80F
+1998	Ford	LT9511	-	 10.3L L6 DIESEL		1FDZZ96K
+1998	Ford	LT9511	-	 14.0L L6 DIESEL		1FDZZ96Y
+1998	Ford	LT9511	-	 14.6L L6 DIESEL		1FDZZ96W
+1998	Ford	LT9511	-	 11.9L L6 DIESEL		1FDZZ96M
+1998	Ford	LT9511	-	 10.5L L6 DIESEL		1FDYZ96T
+1998	Ford	LT9511	-	 10.5L L6 DIESEL		1FDZZ96T
+1998	Ford	LT9511	-	 14.6L L6 DIESEL		1FDZZ96X
+1998	Ford	LT9511	-	 10.8L L6 DIESEL		1FDZZ96P
+1998	Ford	LT9511	-	 10.3L L6 DIESEL		1FDYZ96K
+1998	Ford	LT9511	-	 11.1L L6 DIESEL		1FDZZ96B
+1998	Ford	LT9511	-	 14.6L L6 DIESEL		1FDYZ96W
+1998	Ford	Mustang	GT Convertible	 4.6L V8 SOHC 16V		1FAFP45X
+1998	Ford	Mustang	Coupe	 3.8L V6 OHV 12V		1FAFP404
+1998	Ford	Mustang	Cobra	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP47V
+1998	Ford	Mustang	GT	 4.6L V8 SOHC 16V		1FAFP42X
+1998	Ford	Mustang	Convertible	 3.8L V6 OHV 12V		1FAFP444
+1998	Ford	Mustang	Cobra Convertible	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP46V
+1998	Ford	Ranger	Splash SuperCab 2WD	 2.5L L4 SOHC 8V		1FTYR14C
+1998	Ford	Ranger	Splash SuperCab 2WD	 3.0L V6 OHV 12V		1FTYR14U
+1998	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 2.5L L4 SOHC 8V		1FTYR10C
+1998	Ford	Ranger	Splash SuperCab 2WD	 4.0L V6 OHV 12V		1FTYR14X
+1998	Ford	Ranger	Splash SuperCab 4WD	 4.0L V6 OHV 12V		1FTZR15X
+1998	Ford	Ranger	Splash SuperCab 4WD	 3.0L V6 OHV 12V		1FTZR15U
+1998	Ford	Ranger	Splash Reg. Cab 2WD	 3.0L V6 OHV 12V		1FTYR10U
+1998	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 4.0L V6 OHV 12V		1FTYR10X
+1998	Ford	Ranger	Splash Reg. Cab 4WD	 3.0L V6 OHV 12V		1FTYR11U
+1998	Ford	Ranger	Splash Reg. Cab 4WD	 3.0L V6 OHV 12V		1FTZR11U
+1998	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 2.5L L4 SOHC 8V		1FTCR10C
+1998	Ford	Ranger	Splash SuperCab 4WD	 3.0L V6 OHV 12V		1FTCR15U
+1998	Ford	Ranger	XL Reg. Cab Short Bed 2WD	 ELECTRIC MOTOR		1FTZR107
+1998	 Ford	Ranger	Splash Reg. Cab 4WD	 4.0L V6 OHV 12V		1FTZR11X
+1998	Ford	Ranger	Splash Reg. Cab 4WD	 4.0L V6 OHV 12V		1FTYR11X
+1998	Ford	Ranger	Splash SuperCab 4WD	 4.0L V6 OHV 12V		1FTCR15X
+1998	Ford	Ranger	XL SuperCab 2WD	 2.5L L4 SOHC 8V		1FTCR14C
+1998	Ford	Ranger	Splash SuperCab 4WD	 4.0L V6 OHV 12V		1FTYR15X
+1998	Ford	Ranger	Splash SuperCab 4WD	 3.0L V6 OHV 12V		1FTYR15U
+1998	Ford	Ranger	XL SuperCab 2WD	 3.0L V6 OHV 12V		1FTCR14U
+1998	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 3.0L V6 OHV 12V		1FTCR10U
+1998	Ford	Ranger	XLT Reg. Cab Long Bed 2WD	 4.0L V6 OHV 12V		1FTCR10X
+1998	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP52U
+1998	Ford	Taurus	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP53S
+1998	Ford	Taurus	LX	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP52S
+1998	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic	1FAFP524
+1998	Ford	Taurus	SHO	 3.4L V8 DOHC 32V	4-Speed Automatic Overdrive	1FAFP54N
+1998	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP57U
+1998	Ford	Taurus	LX	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP522
+1998	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP58S
+1998	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP521
+1998	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP57S
+1998	Ford	Taurus	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic	1FAFP532
+1998	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP57U
+1998	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP58S
+1998	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP57S
+1998	Ford	Windstar	Cargo Van	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FTDA54U
+1998	Ford	Windstar	Base	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMDA514
+1998	Ford	Windstar	Base	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMZA514
+1998	Ford	Windstar	Base	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FMZA51U
+1998	Ford	Windstar	Base	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FMDA51U
+1998	Ford	Windstar	Cargo Van	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FTZA54U
+1998	Ford	Windstar	Cargo Van	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FTDA544
+1998	Ford	Windstar	Cargo Van	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FTZA544
+1998	Ford	Windstar	Base	 3.0L V6 OHV 12V	4-Speed Automatic	2FDMA51U
+1999	Ford	Contour	SE	 2.5L V6 DOHC 24V		3FAFP66L
+1999	Ford	Contour	SE	 2.0L L4 DOHC 16V		1FAFP663
+1999	Ford	Contour	SE	 2.5L V6 DOHC 24V		1FAFP66L
+1999	Ford	Contour	LX	 2.0L L4 DOHC 16V		1FAFP653
+1999	Ford	Contour	LX	 2.5L V6 DOHC 24V		1FAFP65L
+1999	Ford	Contour	LX	 2.0L L4 DOHC 16V		1FAFP65Z
+1999	Ford	Contour	SE	 2.0L L4 DOHC 16V		3FAFP663
+1999	Ford	Contour	SVT	 2.5L V6 DOHC 24V	5-Speed Manual Overdrive	1FAFP68G
+1999	Ford	Contour	LX	 2.0L L4 DOHC 16V		3FAFP653
+1999	Ford	Contour	SE	 2.0L L4 DOHC 16V		1FAFP66Z
+1999	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP74W
+1999	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP73W
+1999	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP71W
+1999	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FAFP72W
+1999	Ford	Crown Victoria	Base	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP739
+1999	Ford	Crown Victoria	Police Interceptor	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP719
+1999	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP749
+1999	Ford	Crown Victoria	LX	 4.6L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	2FAFP729
+1999	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNE24L
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V		1FCKE39L
+1999	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V		1FDWE30S
+1999	Ford	Econoline	E150	 4.0L V6 SOHC 16V	4-Speed Automatic Overdrive	1FDRE142
+1999	Ford	Econoline	E-350 Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBSS31S
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDWE37L
+1999	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDXE40F
+1999	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSS34L
+1999	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSE34S
+1999	Ford	Econoline	E350	 5.4L V8 SOHC 16V		1FDSE30L
+1999	Ford	Econoline	E250	 4.0L V6 SOHC 16V	4-Speed Automatic Overdrive	1FTPE242
+1999	Ford	Econoline	E150	 4.0L V6 SOHC 16V	4-Speed Automatic Overdrive	1FTRE142
+1999	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14W
+1999	Ford	Econoline	E250	 4.0L V6 SOHC 16V	4-Speed Automatic Overdrive	1FTNE242
+1999	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14L
+1999	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDXE40S
+1999	Ford	Econoline	E150	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDRE14W
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSE34L
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSE37L
+1999	Ford	Econoline	E150	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRE14L
+1999	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDNS24L
+1999	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDXE47F
+1999	Ford	Econoline	RV Super Duty	 5.4L V8 SOHC 16V		1FDWE30L
+1999	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDWE37F
+1999	Ford	Econoline	E350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FTSS34S
+1999	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSE34F
+1999	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic	1FDWE37S
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic	1FCJE39L
+1999	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31L
+1999	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNS24L
+1999	Ford	Econoline	E-350 Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+1999	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31Z
+1999	Ford	Econoline	E350 Super Duty Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FTSS34F
+1999	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPE24L
+1999	Ford	Econoline	E250	 4.2L V6 SOHC 12V	4-Speed Automatic	1FDNE272
+1999	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSE37F
+1999	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTSS34M
+1999	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDPS24L
+1999	Ford	Econoline	E350 Super Duty Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSS34F
+1999	Ford	Econoline	E250 Extended	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FTPS242
+1999	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPS24L
+1999	Ford	Econoline	E450	 6.8L V10 SOHC 20V		1FDXE47S
+1999	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDPE24L
+1999	Ford	Econoline	E350	 6.8L V10 SOHC 20V		1FDSE30S
+1999	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+1999	Ford	Econoline	E250 Extended	 5.4L V8 SOHC 16V FFV	4-Speed Automatic	1FTNS24Z
+1999	Ford	Econoline	E250 Extended	 4.0L V6 SOHC 16V	4-Speed Automatic Overdrive	1FTNS242
+1999	Ford	Econoline	E350	 7.3L V8 OHV 16V TURBO DIESEL		1FDSE30F
+1999	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE40F
+1999	Ford	Econoline	E350 Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDSE34S
+1999	Ford	Econoline	E-450	 6.8L V10 SOHC		1FCLE49S
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic	1FTSE34M
+1999	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic	1FDNE24L
+1999	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSS34L
+1999	Ford	Econoline	E450	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE47F
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTSE34Z
+1999	Ford	Econoline	E250 Extended	 4.2L V6 SOHC 12V	4-Speed Automatic	1FDNS242
+1999	Ford	Econoline	E350 Super Duty Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FDSS34S
+1999	Ford	Econoline	E250	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTNE24Z
+1999	Ford	Econoline	E250	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FTVE24M
+1999	Ford	Econoline	E350 Super Duty Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic	1FTSS34Z
+1999	Ford	Econoline	E350 Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FDSE34F
+1999	Ford	Econoline	E250 Super Duty	 4.2L V6 SOHC 12V		1FCHE292
+1999	Ford	Econoline	E350 Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FDSE34L
+1999	Ford	Econoline Wagon	E-150 XL	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11L
+1999	Ford	Econoline Wagon	E-150 XL	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRE11W
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBNE31F
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBNE31L
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBNE31S
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FMNE31F
+1999	Ford	Econoline Wagon	E-150 XL	 4.2L V6 SOHC 12V	4-Speed Automatic Overdrive	1FMRE112
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FMNE31S
+1999	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31L
+1999	Ford	Econoline	E-350 Extended	 6.8L V10 SOHC 20V	4-Speed Automatic Overdrive	1FBSS31S
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMNE31L
+1999	Ford	Econoline	E-350 Extended	 7.3L V8 OHV 16V TURBO DIESEL	4-Speed Automatic Overdrive	1FBSS31F
+1999	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FBSS31M
+1999	Ford	Econoline Wagon	E-350 XL Super Duty	 5.4L V8 SOHC 16V CNG	4-Speed Automatic Overdrive	1FMNE31M
+1999	Ford	Club Wagon	XLT Super	 5.4L V8 SOHC 16V	4-Speed Automatic	1FMSS31L
+1999	Ford	Econoline	E-350 Extended	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FBSS31Z
+1999	Ford	Escort	LX	 2.0L L4 SOHC 8V		1FAFP10P
+1999	Ford	Escort	SE	 2.0L L4 SOHC 8V		1FAFP13P
+1999	Ford	Escort	ZX2 Cool	 2.0L L4 DOHC 16V		3FAKP113
+1999	Ford	Escort	SE	 2.0L L4 SOHC 8V		1FABP13P
+1999	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		3FAFP15P
+1999	Ford	Escort Wagon	SE	 2.0L L4 SOHC 8V		3FAFP15P
+1999	Ford	Expedition	Eddie Bauer 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU17L
+1999	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU18L
+1999	Ford	Expedition	Eddie Bauer 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU186
+1999	Ford	Expedition	Eddie Bauer 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU176
+1999	Ford	Expedition	Eddie Bauer 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMPU186
+1999	Ford	Expedition	Eddie Bauer 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FMRU18L
+1999	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 16V		1FMZU34E
+1999	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 12V		1FMDU34X
+1999	Ford	Explorer	Sport 2WD	 4.0L V6 SOHC 12V		1FMYU22X
+1999	Ford	Explorer	Sport 2WD	 4.0L V6 SOHC 16V		1FMCU22E
+1999	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 12V		1FMZU34X
+1999	Ford	Explorer	Eddie Bauer 2WD	  4.0L V6 SOHC 12V		1FMZU32X
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 12V		1FMYU24X
+1999	Ford	Explorer	Eddie Bauer 2WD	 4.9L V8 OHV 16V		1FMDU32P
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 16V		1FMZU24E
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 16V		1FMYU24E
+1999	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 16V		1FMZU32E
+1999	Ford	Explorer	Sport 2WD	 4.0L V6 SOHC 16V		1FMYU22E
+1999	Ford	Explorer	Eddie Bauer 4WD	 4.0L V6 SOHC 16V	5-Speed Automatic Overdrive	1FMDU34E
+1999	Ford	Explorer	Eddie Bauer AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMZU35P
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 16V		1FMDU24E
+1999	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 16V		1FMDU32E
+1999	Ford	Explorer	Eddie Bauer AWD	 4.9L V8 OHV 16V	4-Speed Automatic Overdrive	1FMDU35P
+1999	Ford	Explorer	Eddie Bauer 2WD	 4.9L V8 OHV 16V		1FMZU32P
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 16V		1FMCU24E
+1999	Ford	Explorer	Eddie Bauer 2WD	 4.0L V6 SOHC 12V		1FMDU32X
+1999	Ford	Explorer	Sport 2WD	 4.0L V6 SOHC 12V		1FMCU22X
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 12V		1FMCU24X
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 12V		1FMDU24X
+1999	Ford	Explorer	Sport 4WD	 4.0L V6 SOHC 12V		1FMZU24X
+1999	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRX17W
+1999	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX07W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		1FTZF172
+1999	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX18L
+1999	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX18W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		2FTZF172
+1999	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		1FTZX172
+1999	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRX17L
+1999	Ford	F-150	Lariat SuperCab Long Bed 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX18L
+1999	Ford	F-150	XL SuperCab Flareside 2WD	 4.2L V6 OHV 12V		1FTZX072
+1999	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRF07W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		1FTRF17W
+1999	Ford	F-150	XL Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		1FTZF072
+1999	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRX17W
+1999	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V	4-Speed Automatic Overdrive	2FTZF082
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		1FTZF182
+1999	Ford	F-150	XL Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRF17Z
+1999	Ford	F-150	Lariat SuperCab Long Bed 2WD	 4.2L V6 OHV 12V		2FTZX172
+1999	Ford	F-150	SVT Lightning	 5.4L V8 SOHC 16V SUPERCHARGER	4-Speed Automatic Overdrive	2FTZF073
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		1FTRF17L
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		1FTRF18W
+1999	Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX08L
+1999	Ford	F-150	Lariat SuperCab Long Bed 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX18W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.2L V6 OHV 12V		3FTDF172
+1999	Ford	F-150	Lariat SuperCab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX07W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		2FTRF17W
+1999	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX07L
+1999	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRF08W
+1999	Ford	F-150	Lariat SuperCab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX08L
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.2L V6 OHV 12V		2FTZF182
+1999	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRF07L
+1999	Ford	F-150	XL SuperCab Flareside 2WD	 4.2L V6 OHV 12V		2FTZX072
+1999	Ford	F-150	Lariat SuperCab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRX17L
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRF18L
+1999	Ford	F-150	WS SuperCab Short Bed 2WD	 4.2L V6 OHV 12V		1FTRX172
+1999	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX08W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 4.6L V8 SOHC 16V		2FTRF18W
+1999	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRF08W
+1999	Ford	F-150	Lariat SuperCab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX07L
+1999	Ford	F-150	Lariat SuperCab Flareside 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX08W
+1999	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V	4-Speed Automatic Overdrive	1FTZF082
+1999	Ford	F-150	XL Reg. Cab Flareside 2WD	 4.2L V6 OHV 12V		2FTZF072
+1999	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRF07L
+1999	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRF08L
+1999	Ford	F-150	Lariat Reg. Cab Flareside 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRF07W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		1FTRF18Z
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 4WD	 5.4L V8 SOHC 16V		2FTRF18L
+1999	Ford	F-150	Lariat Reg. Cab Flareside 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRF08L
+1999	Ford	F-150	WS Reg. Cab Short Bed 2WD	 4.6L V8 SOHC 16V		1FTZF17W
+1999	Ford	F-150	XL Reg. Cab Flareside 4WD	 4.6L V8 SOHC 16V		1FTZF08W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 4.6L V8 SOHC 16V		3FTDF17W
+1999	Ford	F-150	Lariat Reg. Cab Long Bed 2WD	 5.4L V8 SOHC 16V		2FTRF17L
+1999	Ford	F-150	XLT Reg. Cab Flareside 4WD	 4.2L V6 OHV 12V		1FTRF082
+1999	Ford	F-250	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPF28L
+1999	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPX28L
+1999	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX27W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRF27W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTPF27L
+1999	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V		1FTPX28L
+1999	Ford	F-250	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FTPF28L
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTRF27L
+1999	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTRX27L
+1999	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V		1FTPX28W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V CNG		1FTPF27M
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 4.6L V8 SOHC 16V		1FTPF27W
+1999	Ford	F-250	Lariat Reg. Cab 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPF28W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRF27L
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTRF27Z
+1999	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		1FTRX27Z
+1999	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V		1FTPX27Z
+1999	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPX27W
+1999	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX27L
+1999	Ford	F-250	Lariat SuperCab 4WD	 5.4L V8 SOHC 16V		1FTPX28Z
+1999	Ford	F-250	XL SuperCab 2WD	 5.4L V8 SOHC 16V		1FTPX27L
+1999	Ford	F-250	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FTPF28Z
+1999	Ford	F-250	Lariat SuperCab 2WD	 5.4L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPX27L
+1999	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	1FTPX27W
+1999	Ford	F-250	Lariat Reg. Cab 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPF28W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		2FTPF27L
+1999	Ford	F-250	Lariat SuperCab 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRX27W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 4.6L V8 SOHC 16V		2FTPF27W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTRF27W
+1999	Ford	F-250	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTPF27Z
+1999	Ford	F-250	Lariat SuperCab 4WD	 4.6L V8 SOHC 16V	4-Speed Automatic Overdrive	2FTPX28W
+1999	Ford	F-250 SD	Lariat 2WD	 5.4L V8 SOHC 16V		1FTNF20L
+1999	Ford	F-250 SD	Lariat 4WD	 5.4L V8 SOHC 16V		1FTNF21L
+1999	Ford	F-250 SD	Lariat Crew Cab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNW21F
+1999	Ford	F-250 SD	Lariat SuperCab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNX21F
+1999	Ford	F-250 SD	Lariat SuperCab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNX20F
+1999	Ford	F-250 SD	Lariat SuperCab LWB 4WD	 6.8L V10 SOHC 20V		1FTNX21S
+1999	Ford	F-250 SD	Lariat SuperCab LWB 2WD	 6.8L V10 SOHC 20V		1FTNX20S
+1999	Ford	F-250 SD	Lariat Crew Cab LWB 4WD	 6.8L V10 SOHC 20V		1FTNW21S
+1999	Ford	F-250 SD	Lariat SuperCab LWB 2WD	 5.4L V8 SOHC 16V		1FTNX20L
+1999	Ford	F-250 SD	Lariat SuperCab LWB 4WD	 5.4L V8 SOHC 16V		1FTNX21L
+1999	Ford	F-250 SD	 Lariat 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNF21F
+1999	Ford	F-250 SD	Lariat Crew Cab LWB 2WD	 5.4L V8 SOHC 16V		1FTNW20L
+1999	Ford	F-250 SD	Lariat Crew Cab LWB 2WD	 6.8L V10 SOHC 20V		1FTNW20S
+1999	Ford	F-250 SD	Lariat 2WD	 5.4L V8 SOHC 16V		1FDNF20L
+1999	Ford	F-250 SD	Lariat 2WD	 6.8L V10 SOHC 20V		1FTNF20S
+1999	Ford	F-250 SD	Lariat Crew Cab LWB 4WD	 5.4L V8 SOHC 16V		1FTNW21L
+1999	Ford	F-250 SD	Lariat Crew Cab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNW20F
+1999	Ford	F-250 SD	Lariat 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNF21F
+1999	Ford	F-250 SD	Lariat 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTNF20F
+1999	Ford	F-250 SD	Lariat 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNF20F
+1999	Ford	F-250 SD	Lariat 4WD	 6.8L V10 SOHC 20V		1FTNF21S
+1999	Ford	F-250 SD	Lariat SuperCab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNX20F
+1999	Ford	F-250 SD	Lariat SuperCab LWB 2WD	 5.4L V8 SOHC 16V		1FDNX20L
+1999	Ford	F-250 SD	Lariat SuperCab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNX21F
+1999	Ford	F-250 SD	Lariat 2WD	 6.8L V10 SOHC 20V		1FDNF20S
+1999	Ford	F-250 SD	XLT 4WD	 5.4L V8 SOHC 16V		1FDNF21L
+1999	Ford	F-250 SD	Lariat 4WD	 6.8L V10 SOHC 20V		1FDNF21S
+1999	Ford	F-250 SD	Lariat SuperCab LWB 4WD	 6.8L V10 SOHC 20V		1FDNX21S
+1999	Ford	F-250 SD	Lariat SuperCab LWB 2WD	 6.8L V10 SOHC 20V		1FDNX20S
+1999	Ford	F-250 SD	Lariat SuperCab LWB 4WD	 5.4L V8 SOHC 16V		1FDNX21L
+1999	Ford	F-250 SD	XL Crew Cab SWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNW20F
+1999	Ford	F-250 SD	XL Crew Cab SWB 2WD	 6.8L V10 SOHC 20V		1FDNW20S
+1999	Ford	F-250 SD	Lariat Crew Cab SWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDNW21F
+1999	Ford	F-250 SD	XL Crew Cab SWB 4WD	 5.4L V8 SOHC 16V		1FDNW21L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSF31F
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FDWX36S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSW31F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSW30F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTWW33F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 4WD	 6.8L V10 SOHC 20V		1FTSW31S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTWW32F
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWF37F
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDWF36S
+1999	Ford	F-350 SD	Lariat SuperCab DRW 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTWX33F
+1999	Ford	F-350 SD	Lariat SuperCab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSX30F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 4WD	 6.8L V10 SOHC 20V		1FTWW33S
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FTSF30L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDWF37S
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		1FDWF36L
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDWF36F
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWX32F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 2WD	 6.8L V10 SOHC 20V		1FTSW30S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW32F
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWF36F
+1999	Ford	F-350 SD	Lariat SuperCab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSX31F
+1999	Ford	F-350 SD	Lariat SuperCab LWB 2WD	 6.8L V10 SOHC 20V		1FTSX30S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 2WD	 6.8L V10 SOHC 20V		1FTWW32S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW36F
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FTWX32S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 4WD	 5.4L V8 SOHC 16V		1FTSW31L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FTSF31L
+1999	Ford	F-350 SD	Lariat SuperCab LWB 2WD	 5.4L V8 SOHC 16V		1FTSX30L
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 2WD	 6.8L V10 SOHC 20V		1FDWW36S
+1999	Ford	F-350 SD	Lariat SuperCab DRW 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX37F
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD	 6.8L V10 SOHC 20V		1FDSF34S
+1999	Ford	F-350 SD	Lariat SuperCab LWB 4WD	 5.4L V8 SOHC 16V		1FTSX31L
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX36F
+1999	Ford	F-350 SD	Lariat SuperCab LWB 4WD	 6.8L V10 SOHC 20V		1FTSX31S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 2WD	 5.4L V8 SOHC 16V		1FTSW30L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD	 5.4L V8 SOHC 16V		1FDSF35L
+1999	Ford	F-350 SD	Lariat SuperCab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX34F
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWF32F
+1999	Ford	F-350 SD	 Lariat SuperCab DRW 4WD	 6.8L V10 SOHC 20V		1FTWX33S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSW34F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSW35F
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		1FTSF31S
+1999	Ford	F-350 SD	XL Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF34F
+1999	Ford	F-350 SD	XL Reg. Cab 2WD	 7.3L V8 OHV 16V TURBO DIESEL		1FTSF30F
+1999	Ford	F-350 SD	 Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FTWF32S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 4WD	 6.8L V10 SOHC 20V		1FDWW37S
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSF35F
+1999	Ford	F-350 SD	Lariat SuperCab LWB 2WD	 5.4L V8 SOHC 16V		1FDSX34L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FTWF33F
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 5.4L V8 SOHC 16V		1FTWX32L
+1999	Ford	F-350 SD	Lariat SuperCab DRW 4WD	 6.8L V10 SOHC 20V		1FDWX37S
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		3FDWF36S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 2WD	 5.4L V8 SOHC 16V		1FDSW34L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 5.4L V8 SOHC 16V		1FDWF37L
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		1FDWF32L
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 2WD	 6.8L V10 SOHC 20V		1FDWW32S
+1999	Ford	F-350 SD	XL Reg. Cab 2WD	 5.4L V8 SOHC 16V		1FDSF34L
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDWF33S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB DRW 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW37F
+1999	Ford	F-350 SD	XL SuperCab 2WD DRW	 5.4L V8 SOHC 16V		1FDWX32L
+1999	Ford	F-350 SD	XL Reg. Cab 2WD	 6.8L V10 SOHC 20V		1FTSF30S
+1999	Ford	F-350 SD	XL SuperCab LWB 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDSX35F
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		3FDKF36L
+1999	Ford	F-350 SD	Lariat SuperCab LWB 2WD	 6.8L V10 SOHC 20V		1FDSX34S
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX32F
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 2WD	 6.8L V10 SOHC 20V		1FDSW34S
+1999	Ford	F-350 SD	Lariat SuperCab 2WD DRW	 6.8L V10 SOHC 20V		1FDWX32S
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD	 6.8L V10 SOHC 20V		1FDSF35S
+1999	Ford	F-350 SD	XL Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		3FEKF36L
+1999	Ford	F-350 SD	Lariat SuperCab LWB 4WD	 5.4L V8 SOHC 16V		1FDSX35L
+1999	Ford	F-350 SD	Lariat SuperCab LWB 4WD	 6.8L V10 SOHC 20V		1FDSX35S
+1999	Ford	F-350 SD	XL SuperCab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDWX33F
+1999	Ford	F-350 SD	XL Reg. Cab 4WD DRW	 5.4L V8 SOHC 16V		1FDWF33L
+1999	Ford	F-350 SD	Lariat SuperCab DRW 4WD	 5.4L V8 SOHC 16V		1FTWX33L
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 5.4L V8 SOHC 16V		1FTWF32L
+1999	Ford	F-350 SD	XL Crew Cab SWB DRW 4WD	 7.3L V8 OHV 16V TURBO DIESEL		1FDWW33F
+1999	Ford	F-350 SD	XLT Crew Cab LWB DRW 4WD	 6.8L V10 SOHC 20V		1FDWW33S
+1999	Ford	F-350 SD	XL Crew Cab SWB 4WD	 6.8L V10 SOHC 20V		1FDSW35S
+1999	Ford	F-350 SD	Lariat Crew Cab LWB 4WD	 5.4L V8 SOHC 16V		1FDSW35L
+1999	Ford	F-350 SD	XLT Reg. Cab 4WD DRW	 6.8L V10 SOHC 20V		1FTWF33S
+1999	Ford	F-350 SD	Lariat Reg. Cab 4WD DRW	 5.4L V8 SOHC 16V		1FTWF33L
+1999	Ford	F-350 SD	Lariat Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		3FEWF36S
+1999	Ford	F-350 SD	XLT Reg. Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDWF32S
+1999	Ford	F-350 SD	XL Crew Cab SWB 2WD DRW	 5.4L V8 SOHC 16V		1FDWW36L
+1999	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXF46F
+1999	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDXF46S
+1999	Ford	F-450 SD	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		3FDXF46F
+1999	Ford	F-450 SD	Regular Cab DRW 4WD	 7.3L V8 TURBO DIESEL		1FDXF47F
+1999	Ford	F-450 SD	Regular Cab 2WD DRW	 6.8L V10 SOHC		3FDXF46S
+1999	Ford	F-450 SD	Regular Cab DRW 4WD	 6.8L V10 SOHC 20V		1FDXF47S
+1999	Ford	F-450 SD	Crew Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDXW46S
+1999	Ford	F-450 SD	Crew Cab 2WD DRW	 7.3L V8 TURBO DIESEL		1FDXW46F
+1999	Ford	F-450 SD	Crew Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDXW47F
+1999	Ford	F-450 SD	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDXW47S
+1999	Ford	F-550	Regular Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAF56F
+1999	Ford	F-550	Regular Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDAF57S
+1999	Ford	F-550	Crew Cab 2WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAW56F
+1999	Ford	F-550	Regular Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAF57F
+1999	Ford	F-550	Crew Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDAW56S
+1999	Ford	F-550	Crew Cab 4WD DRW	 7.3L V8 OHV 16V TURBO DIESEL		1FDAW57F
+1999	Ford	F-550	Crew Cab 4WD DRW	 6.8L V10 SOHC 20V		1FDAW57S
+1999	Ford	F-550	Regular Cab 2WD DRW	 6.8L V10 SOHC 20V		1FDAF56S
+1999	Ford	F800	-	 5.9L L6 DIESEL		3FENF80C
+1999	Ford	F800	-	 5.9L L6 DIESEL		3FEXF801
+1999	Ford	F800	-	 5.9L L6 DIESEL		3FENF801
+1999	Ford	F800	-	 5.9L L6 DIESEL		3FEWF801
+1999	Ford	F800	-	 6.8L V10 SOHC 20V		3FENF80Z
+1999	Ford	F800	-	 5.9L L6 DIESEL		3FEWF80C
+1999	Ford	F800	-	 5.9L L6 DIESEL		3FEPF801
+1999	Ford	Mustang	Coupe	 3.8L V6 OHV 12V		1FAFP404
+1999	Ford	Mustang	Convertible	 3.8L V6 OHV 12V		1FAFP444
+1999	Ford	Mustang	GT Coupe	 4.6L V8 SOHC 16V		1FAFP42X
+1999	Ford	Mustang	GT Convertible	 4.6L V8 SOHC 16V		1FAFP45X
+1999	Ford	Mustang	Cobra Convertible	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP46V
+1999	Ford	Mustang	Cobra Coupe	 4.6L V8 DOHC 32V	5-Speed Manual Overdrive	1FAFP47V
+1999	Ford	Ranger	XL SuperCab 2WD	 3.0L V6 OHV 12V FFV		1FTYR14V
+1999	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 2.5L L4 SOHC 8V		1FTYR10C
+1999	Ford	Ranger	XL SuperCab 4WD	 4.0L V6 OHV 12V		1FTZR15X
+1999	Ford	Ranger	XL Reg. Cab Long Bed 4WD	 3.0L V6 OHV 12V FFV		1FTYR11V
+1999	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 4.0L V6 OHV 12V		1FTYR10X
+1999	Ford	Ranger	XL SuperCab 4WD	 3.0L V6 OHV 12V FFV		1FTZR15V
+1999	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 3.0L V6 OHV 12V		1FTYR10U
+1999	Ford	Ranger	XL Reg. Cab Long Bed 2WD	 3.0L V6 OHV 12V FFV		1FTYR10V
+1999	Ford	Ranger	XL SuperCab 2WD	 4.0L V6 OHV 12V		1FTYR14X
+1999	Ford	Ranger	XL SuperCab 2WD	 2.5L L4 SOHC 8V		1FTYR14C
+1999	Ford	Ranger	XL SuperCab 2WD	 3.0L V6 OHV 12V		1FTYR14U
+1999	Ford	Ranger	XL Reg. Cab Long Bed 4WD	 3.0L V6 OHV 12V FFV		1FTZR11V
+1999	Ford	Ranger	XL Reg. Cab Long Bed 4WD	 4.0L V6 OHV 12V		1FTYR11X
+1999	Ford	Ranger	XL Reg. Cab Long Bed 4WD	 4.0L V6 OHV 12V		1FTZR11X
+1999	Ford	Ranger	Regular Cab 2WD	 ELECTRIC MOTOR		1FTZR081
+1999	Ford	Ranger	XL SuperCab 4WD	 3.0L V6 OHV 12V		1FTZR15U
+1999	Ford	Ranger	XL SuperCab 4WD	 4.0L V6 OHV 12V		1FTYR15X
+1999	Ford	Ranger	XLT Reg. Cab Long Bed 4WD	 3.0L V6 OHV 12V		1FTYR11U
+1999	Ford	Ranger	XL Reg. Cab Short Bed 4WD	 3.0L V6 OHV 12V		1FTZR11U
+1999	Ford	RV Super Duty	-	 7.3L V8 OHV 16V TURBO DIESEL		1FDWE30F
+1999	Ford	Stripped Chassis Motorhome	-	 6.8L V10 SOHC 20V		3FCMF53S
+1999	Ford	Stripped Chassis Motorhome	-	 6.8L V10 SOHC 20V		3FCLF53S
+1999	Ford	Stripped Chassis Motorhome	-	 6.8L V10 SOHC 20V		3FCNF53S
+1999	Ford	Taurus	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP53U
+1999	Ford	Taurus	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP53S
+1999	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP52U
+1999	Ford	Taurus	SE	 3.8L V6 OHV 12V	4-Speed Automatic	1FAFP534
+1999	Ford	Taurus	SE	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP532
+1999	Ford	Taurus	LX	 3.0L V6 OHV 12V FFV	4-Speed Automatic Overdrive	1FAFP522
+1999	Ford	Taurus	LX	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP52S
+1999	Ford	Taurus	SHO	 3.4L V8 DOHC 32V	4-Speed Automatic Overdrive	1FAFP54N
+1999	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP58U
+1999	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP58S
+1999	Ford	Taurus	LX	 3.0L V6 OHV 12V	4-Speed Automatic	1FAFP524
+1999	Ford	Taurus Wagon	SE	 3.0L V6 DOHC 24V	4-Speed Automatic Overdrive	1FAFP58S
+1999	Ford	Taurus Wagon	SE	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	1FAFP58U
+1999	Ford	Windstar	SEL	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMZA534
+1999	Ford	Windstar	SE	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMZA524
+1999	Ford	Windstar	LX	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMZA514
+1999	Ford	Windstar	LX	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMDA514
+1999	Ford	Windstar	SEL	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMDA534
+1999	Ford	Windstar	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FMZA51U
+1999	Ford	Windstar	SE	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FMDA524
+1999	Ford	Windstar	Cargo Van	 3.8L V6 OHV 12V	4-Speed Automatic Overdrive	2FTZA544
+1999	Ford	Windstar	SE	 3.0L V6 OHV 12V	4-Speed Automatic	2FMDA52U
+1999	Ford	Windstar	LX	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FMDA51U
+1999	Ford	Windstar	SE	 3.0L V6 OHV 12V	4-Speed Automatic	2FMZA52U
+1999	Ford	Windstar	Cargo Van	 3.0L V6 OHV 12V	4-Speed Automatic Overdrive	2FTZA54U

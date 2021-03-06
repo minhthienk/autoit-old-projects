@@ -1,0 +1,49 @@
+
+
+=====================================================================================
+COM Error!
+          err.description is : 	The operation timed out
+          err.windescription : 	Exception occurred.
+          err.number is      : 	80020009
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	-1
+          err.source is      : 	WinHttp.WinHttpRequest
+          err.helpfile is	 : 	
+          err.helpcontext is : 	0
+          link when error    : 	https://www.decodethis.com/archives/1999/Mercury/Grand Marquis?page=142
+
+=====================================================================================
+COM Error!
+          err.description is : 	The data necessary to complete this operation is not yet available.
+          err.windescription : 	Exception occurred.
+          err.number is      : 	80020009
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	-1
+          err.source is      : 	WinHttp.WinHttpRequest
+          err.helpfile is	 : 	
+          err.helpcontext is : 	0
+          link when error    : 	https://www.decodethis.com/archives/1999/Mercury/Grand Marquis?page=142
+
+=====================================================================================
+COM Error!
+          err.description is : 	The operation timed out
+          err.windescription : 	Exception occurred.
+          err.number is      : 	80020009
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	-1
+          err.source is      : 	WinHttp.WinHttpRequest
+          err.helpfile is	 : 	
+          err.helpcontext is : 	0
+          link when error    : 	https://www.decodethis.com/vin/1MEFM6535XK600918
+
+=====================================================================================
+COM Error!
+          err.description is : 	The data necessary to complete this operation is not yet available.
+          err.windescription : 	Exception occurred.
+          err.number is      : 	80020009
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	-1
+          err.source is      : 	WinHttp.WinHttpRequest
+          err.helpfile is	 : 	
+          err.helpcontext is : 	0
+          link when error    : 	https://www.decodethis.com/vin/1MEFM6535XK600918

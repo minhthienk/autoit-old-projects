@@ -1,0 +1,136 @@
+2020	Lincoln	Aviator	Base Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Aviator	Black Label Grand Touring Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 ELECTRIC/GAS DOHC Turbocharged
+2020	Lincoln	Aviator	Black Label Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Aviator	Grand Touring Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 ELECTRIC/GAS DOHC Turbocharged
+2020	Lincoln	Aviator	Reserve Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Base Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2020	Lincoln	Continental	Black Label Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Black Label Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Coach Door Edition Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Livery Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2020	Lincoln	Continental	Reserve Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Select Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Continental	Select Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2020	Lincoln	Corsair	Base	--
+2020	Lincoln	Corsair	Reserve	--
+2020	Lincoln	MKZ	Base Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Lincoln	MKZ	Reserve Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Lincoln	MKZ	Reserve Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Lincoln	MKZ	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Base Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Black Label Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Black Label Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Reserve Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Reserve Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Select Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Lincoln	Nautilus	Select Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	Base Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	Black Label Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	L Black Label Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	L Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	L Select Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Lincoln	Navigator	Select Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	80th Anniversary Coach Door Edition Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Base Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Base Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Lincoln	Continental	Black Label Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Black Label Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Livery Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Lincoln	Continental	Reserve Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Select Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Continental	Select Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Lincoln	MKC	Base Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKC	Black Label Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKC	Black Label Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKC	Reserve Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKC	Reserve Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKC	Select Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKT	Base Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	MKT	Livery Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Lincoln	MKT	Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Base Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Lincoln	MKZ	Reserve Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Lincoln	MKZ	Reserve I Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Lincoln	MKZ	Reserve I Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Reserve II Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Lincoln	MKZ	Reserve II Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Reserve II Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Reserve Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	MKZ	Select Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Lincoln	MKZ	Select Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Base Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Black Label Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Black Label Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Reserve Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Reserve Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Select Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Lincoln	Nautilus	Select Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	Base Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	Black Label Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	L Black Label Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	L Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	L Select Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Lincoln	Navigator	Select Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Base Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Black Label Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Black Label Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Livery Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	Continental	Premiere Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	Continental	Reserve Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Select Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Continental	Select Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	MKC	Black Label Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKC	Black Label Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKC	Premiere Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKC	Reserve Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKC	Reserve Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKC	Select Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKC	Select Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKT	Elite Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKT	Premiere Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	MKT	Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKX	Black Label Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKX	Black Label Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	MKX	Premiere Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKX	Premiere Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	MKX	Reserve Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKX	Reserve Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	MKX	Select Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKX	Select Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2018	Lincoln	MKZ	Black Label Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2018	Lincoln	MKZ	Black Label Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKZ	Black Label Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKZ	Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2018	Lincoln	MKZ	Premiere Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2018	Lincoln	MKZ	Premiere Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKZ	Reserve Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2018	Lincoln	MKZ	Reserve Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKZ	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	MKZ	Select Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2018	Lincoln	MKZ	Select Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2018	Lincoln	MKZ	Select Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	Black Label Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	L Black Label Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	L Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	L Select Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	Premiere Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	Reserve Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2018	Lincoln	Navigator	Select Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2017	Lincoln	Continental	Black Label Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2017	Lincoln	Continental	Black Label Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2017	Lincoln	Continental	Livery Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017	Lincoln	Continental	Premiere Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017	Lincoln	Continental	Reserve Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2017	Lincoln	Continental	Reserve Sedan 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2017	Lincoln	Continental	Select Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2017	Lincoln	Continental	Select Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2017	Lincoln	MKC	Black Label Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2017	Lincoln	MKC	Black Label Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2017	Lincoln	MKC	Premiere Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged

@@ -1,0 +1,44 @@
+﻿Nút Begin và Exit hoạt động bình thường
+Còn phát sinh lỗi
+--> IE.au3 T3.0-2 Warning from function _IECreate,  (Foreground Window Unlock Failed!)
+
+Đã sửa lỗi mở hidden file bằng navigate
+
+Chưa test trên máy win 7
+
+
+Bỏ tùy chọn ẩn hiện web để làm app mẫu
+
+Hiện lại tùy chọn
+Chỉnh sửa notification
+Lỗi win 7 phai su dung IE 10
+
+
+Sua loi steal focus cua IE
+sua UI de hien nhieu noti
+
+
+v1.00.09
+Rollback từ version v1.00.07 vì version v1.00.18 bị lỗi download multi
+Them code check link exist trong log file
+Reserach code chạy full database
+
+v1.00.10
+Lam function xo DTC
+Fix loi khong insert procedure cho nhung Procedure da tung duoc tao ra
+
+v1.00.11
+Bỏ các đoạn code xổ DTC vào function
+Code function lấy Part và system strings
+Code function tạo mảng chứ search strings
+
+v1.00.12
+Lấy được system trings, part strings, search strings và lưu vào file config
+
+
+v1.00.13
+Change UI
+Create 2 tabs
+Opem config file
+Get DTC from config file
+generate DTC

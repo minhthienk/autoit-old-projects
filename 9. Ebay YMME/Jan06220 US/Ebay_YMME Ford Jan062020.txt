@@ -1,0 +1,585 @@
+2020	Ford	E-350 Super Duty	Base	--
+2020	Ford	EcoSport	S Sport Utility 4-Door	1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2020	Ford	EcoSport	S Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	EcoSport	SE Sport Utility 4-Door	1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2020	Ford	EcoSport	SE Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	EcoSport	SES Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	EcoSport	Titanium Sport Utility 4-Door	1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2020	Ford	EcoSport	Titanium Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Edge	SE Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Edge	SEL Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Edge	ST Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Edge	Titanium Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Escape	S	--
+2020	Ford	Escape	SE	--
+2020	Ford	Escape	SE Plug-In Hybrid	--
+2020	Ford	Escape	SE Sport Hybrid	--
+2020	Ford	Escape	SEL	--
+2020	Ford	Escape	SEL Plug-In Hybrid	--
+2020	Ford	Escape	Titanium	--
+2020	Ford	Escape	Titanium Hybrid	--
+2020	Ford	Escape	Titanium Plug-In Hybrid	--
+2020	Ford	Expedition	Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	Max Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	Max Platinum Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	Max SSV Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	Max XL Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	Max XLT Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	Platinum Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	SSV Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	XL Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Expedition	XLT Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Explorer	Base Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Explorer	Base Sport Utility 4-Door	3.3L 3343CC 204Cu. In. V6 GAS DOHC Naturally Aspirated
+2020	Ford	Explorer	Limited Hybrid Sport Utility 4-Door	3.3L 3343CC 204Cu. In. V6 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Explorer	Limited Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Explorer	Platinum Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Explorer	ST Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Explorer	XLT Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	F-150	King Ranch	--
+2020	Ford	F-150	Lariat	--
+2020	Ford	F-150	Limited	--
+2020	Ford	F-150	Platinum	--
+2020	Ford	F-150	Police Responder	--
+2020	Ford	F-150	Raptor	--
+2020	Ford	F-150	SSV	--
+2020	Ford	F-150	XL	--
+2020	Ford	F-150	XLT	--
+2020	Ford	F-250 Super Duty	King Ranch	--
+2020	Ford	F-250 Super Duty	Lariat	--
+2020	Ford	F-250 Super Duty	Limited	--
+2020	Ford	F-250 Super Duty	Platinum	--
+2020	Ford	F-250 Super Duty	XL	--
+2020	Ford	F-250 Super Duty	XLT	--
+2020	Ford	F-350 Super Duty	King Ranch	--
+2020	Ford	F-350 Super Duty	Lariat	--
+2020	Ford	F-350 Super Duty	Limited	--
+2020	Ford	F-350 Super Duty	Platinum	--
+2020	Ford	F-350 Super Duty	XL	--
+2020	Ford	F-350 Super Duty	XLT	--
+2020	Ford	Fusion	Energi SEL Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	Energi Titanium Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	S Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 FLEX DOHC Naturally Aspirated
+2020	Ford	Fusion	S Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	SE Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	SE Sedan 4-Door	1.5L 1499CC 91Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Fusion	SE Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Fusion	SE Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 FLEX DOHC Naturally Aspirated
+2020	Ford	Fusion	SE Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	SEL Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	SEL Sedan 4-Door	1.5L 1499CC 91Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Fusion	Titanium Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Fusion	Titanium Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	GT	Base Coupe 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Mustang	Bullitt Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	EcoBoost Convertible 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Mustang	EcoBoost Coupe 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Mustang	EcoBoost Premium Convertible 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Mustang	EcoBoost Premium Coupe 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Mustang	GT Convertible 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	GT Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	GT Premium Convertible 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	GT Premium Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	Shelby GT350 Coupe 2-Door	5.2L 5163CC 315Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	Shelby GT350R Coupe 2-Door	5.2L 5163CC 315Cu. In. V8 GAS DOHC Naturally Aspirated
+2020	Ford	Mustang	Shelby GT500	--
+2020	Ford	Police Interceptor Utility	Base Sport Utility 4-Door	3.0L 2956CC 181Cu. In. V6 GAS DOHC Turbocharged
+2020	Ford	Police Interceptor Utility	Base Sport Utility 4-Door	3.3L 3343CC 204Cu. In. V6 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Police Interceptor Utility	Base Sport Utility 4-Door	3.3L 3343CC 204Cu. In. V6 GAS DOHC Naturally Aspirated
+2020	Ford	Police Responder Hybrid	Base Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Ranger	Lariat Crew Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Ranger	Lariat Extended Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Ranger	XL Cab & Chassis 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Ranger	XL Crew Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Ranger	XL Extended Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Ranger	XLT Crew Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	Ranger	XLT Extended Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2020	Ford	SSV Plug-In Hybrid	Base Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	Titanium Mini Passenger Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2020	Ford	Transit Connect	Titanium Mini Passenger Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Cargo Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2020	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Passenger Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2020	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2020	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2020	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2020	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2020	Ford	Transit-150	Base	--
+2020	Ford	Transit-150	XL	--
+2020	Ford	Transit-150	XLT	--
+2020	Ford	Transit-250	Base	--
+2020	Ford	Transit-250	PTV	--
+2020	Ford	Transit-350	Base	--
+2020	Ford	Transit-350	XL	--
+2020	Ford	Transit-350	XLT	--
+2020	Ford	Transit-350 HD	Base	--
+2020	Ford	Transit-350 HD	XL	--
+2020	Ford	Transit-350 HD	XLT	--
+2019	Ford	E-350 Super Duty	Base Cutaway Van 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Cutaway Van 2-Door	6.8L 415Cu. In. V10 CNG SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Cutaway Van 2-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Cutaway Van 2-Door	6.8L 415Cu. In. V10 LPG SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Stripped Chassis	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Stripped Chassis	6.8L 415Cu. In. V10 CNG SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Stripped Chassis	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	E-350 Super Duty	Base Stripped Chassis	6.8L 415Cu. In. V10 LPG SOHC Naturally Aspirated
+2019	Ford	E-450 Super Duty	Base Cutaway	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	E-450 Super Duty	Base Cutaway	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	E-450 Super Duty	Base Stripped Chassis - Incomplete	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	E-450 Super Duty	Base Stripped Chassis - Incomplete	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	EcoSport	Impulse Sport Utility 4-Door	1.5L 1497CC 91Cu. In. l3 GAS DOHC Naturally Aspirated
+2019	Ford	EcoSport	S Sport Utility 4-Door	1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2019	Ford	EcoSport	S Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	EcoSport	SE Sport Utility 4-Door	1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2019	Ford	EcoSport	SE Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	EcoSport	SES Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	EcoSport	Titanium Sport Utility 4-Door	1.0L 999CC 61Cu. In. l3 GAS DOHC Turbocharged
+2019	Ford	EcoSport	Titanium Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	EcoSport	Trend Sport Utility 4-Door	1.5L 1497CC 91Cu. In. l3 GAS DOHC Naturally Aspirated
+2019	Ford	EcoSport	Trend Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Edge	SE Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Edge	SEL Plus Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Edge	SEL Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Edge	ST Sport Utility 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Edge	Titanium Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	S Plus Sport Utility 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Escape	S Sport Utility 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Escape	SE Sport Utility 4-Door	1.5L 1499CC 91Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	SE Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	SEL Sport Utility 4-Door	1.5L 1499CC 91Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	SEL Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	Titanium Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	Trend Advance Sport Utility 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Escape	Trend Advance Sport Utility 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Expedition	Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	Max Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	Max Platinum Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	Max SSV Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	Max XL Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	Max XLT Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	Platinum Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	SSV Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	XL Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Expedition	XLT Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Explorer	Base Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Explorer	Base Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Explorer	Limited Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Explorer	Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Explorer	Platinum Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Explorer	Sport Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Explorer	XLT Sport Utility 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Explorer	XLT Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	F-150	King Ranch Crew Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	King Ranch Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	King Ranch Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	Lariat Crew Cab Pickup 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Lariat Crew Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	Lariat Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Lariat Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	Lariat Extended Cab Pickup 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Lariat Extended Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	Lariat Extended Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Lariat Extended Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	Limited Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Platinum Crew Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	Platinum Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Platinum Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	Police Responder Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Raptor Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	Raptor Extended Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	SSV Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	SSV Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	SSV Extended Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	SSV Extended Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	3.3L 3343CC 204Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	3.3L 3343CC 204Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	F-150	XL Extended Cab Pickup 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XL Extended Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	XL Extended Cab Pickup 4-Door	3.3L 3343CC 204Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Extended Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XL Extended Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	3.3L 3343CC 204Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	3.3L 3343CC 204Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XL Standard Cab Pickup 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	F-150	XLT Crew Cab Pickup 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XLT Crew Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	XLT Crew Cab Pickup 4-Door	3.3L 3343CC 204Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XLT Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XLT Crew Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XLT Extended Cab Pickup 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XLT Extended Cab Pickup 4-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	XLT Extended Cab Pickup 4-Door	3.3L 3343CC 204Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XLT Extended Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XLT Extended Cab Pickup 4-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XLT Standard Cab Pickup 2-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XLT Standard Cab Pickup 2-Door	3.0L 2993CC 183Cu. In. V6 DIESEL DOHC Turbocharged
+2019	Ford	F-150	XLT Standard Cab Pickup 2-Door	3.3L 3343CC 204Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	F-150	XLT Standard Cab Pickup 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	F-150	XLT Standard Cab Pickup 2-Door	5.0L 4951CC 302Cu. In. V8 FLEX DOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	King Ranch Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	King Ranch Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	Lariat Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	Lariat Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	Lariat Extended Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	Lariat Extended Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	Limited Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	Platinum Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	Platinum Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	XL Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	XL Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	XL Extended Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	XL Extended Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	XL Standard Cab Pickup 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	XL Standard Cab Pickup 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	XLT Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	XLT Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	XLT Extended Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	XLT Extended Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-250 Super Duty	XLT Standard Cab Pickup 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-250 Super Duty	XLT Standard Cab Pickup 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	King Ranch Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	King Ranch Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	Lariat Cab & Chassis 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	Lariat Cab & Chassis 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	Lariat Cab & Chassis 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	Lariat Cab & Chassis 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	Lariat Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	Lariat Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	Lariat Extended Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	Lariat Extended Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	Limited Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	Platinum Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	Platinum Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XL Cab & Chassis 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XL Cab & Chassis 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XL Cab & Chassis 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XL Cab & Chassis 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XL Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XL Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XL Extended Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XL Extended Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XL Plus Cab & Chassis 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XL Standard Cab Pickup 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XL Standard Cab Pickup 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XLT Cab & Chassis 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XLT Cab & Chassis 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XLT Cab & Chassis 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XLT Cab & Chassis 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XLT Crew Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XLT Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XLT Extended Cab Pickup 4-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XLT Extended Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-350 Super Duty	XLT Standard Cab Pickup 2-Door	6.2L 6210CC 379Cu. In. V8 FLEX SOHC Naturally Aspirated
+2019	Ford	F-350 Super Duty	XLT Standard Cab Pickup 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	Base Cab & Chassis - Conventional 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	Base Cab & Chassis - Conventional 2-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-450 Super Duty	Base Cab & Chassis - Crew Cab	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	Base Cab & Chassis - Crew Cab	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-450 Super Duty	Base Cab & Chassis - Extended Cab	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	Base Cab & Chassis - Extended Cab	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-450 Super Duty	Base Crew Cab Pickup 4-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	Base Crew Cab Pickup 4-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-450 Super Duty	Base Standard Cab Pickup 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	Base Standard Cab Pickup 2-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-450 Super Duty	XL Cab & Chassis - Conventional 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-450 Super Duty	XL Cab & Chassis - Conventional 2-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-550 Super Duty	Base Cab & Chassis - Conventional 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-550 Super Duty	Base Cab & Chassis - Conventional 2-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-550 Super Duty	Base Cab & Chassis - Crew Cab	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-550 Super Duty	Base Cab & Chassis - Crew Cab	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-550 Super Duty	Base Cab & Chassis - Extended Cab	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-550 Super Duty	Base Cab & Chassis - Extended Cab	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F-550 Super Duty	XL Cab & Chassis - Conventional 2-Door	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F-550 Super Duty	XL Cab & Chassis - Conventional 2-Door	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F53	Base Motor Home - Stripped Chassis	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F59	Base Stripped Chassis - Incomplete	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F650	Base Straight Truck - Crew Cab	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F650	Base Straight Truck - Crew Cab	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F650	Base Straight Truck - Long Conventional	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F650	Base Straight Truck - Long Conventional	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F750	Base Straight Truck - Crew Cab	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F750	Base Straight Truck - Crew Cab	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F750	Base Straight Truck - Long Conventional	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F750	Base Straight Truck - Long Conventional	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	F750	Base Tractor Truck - Short Conventional	6.7L 6651CC 406Cu. In. V8 DIESEL OHV Turbocharged
+2019	Ford	F750	Base Tractor Truck - Short Conventional	6.8L 415Cu. In. V10 GAS SOHC Naturally Aspirated
+2019	Ford	Fiesta	S Hatchback 4-Door	1.6L 1596CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fiesta	S Sedan 4-Door	1.6L 1596CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fiesta	SE Hatchback 4-Door	1.6L 1596CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fiesta	SE Sedan 4-Door	1.6L 1596CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fiesta	ST Hatchback 4-Door	1.6L 1596CC 97Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Fiesta	ST Line Hatchback 4-Door	1.6L 1596CC 97Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Figo	Energy Hatchback 4-Door	1.5L 1497CC 91Cu. In. l3 GAS DOHC Naturally Aspirated
+2019	Ford	Figo	Energy Sedan 4-Door	1.5L 1497CC 91Cu. In. l3 GAS DOHC Naturally Aspirated
+2019	Ford	Figo	Impulse Sedan 4-Door	1.5L 1497CC 91Cu. In. l3 GAS DOHC Naturally Aspirated
+2019	Ford	Figo	Titanium Sedan 4-Door	1.5L 1497CC 91Cu. In. l3 GAS DOHC Naturally Aspirated
+2019	Ford	Flex	Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Flex	Limited Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Flex	SE Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Flex	SEL Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	Energi SEL Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	Energi Titanium Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	S Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 FLEX DOHC Naturally Aspirated
+2019	Ford	Fusion	S Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	SE Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	SE LUX Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	SE Sedan 4-Door	1.5L 1499CC 91Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Fusion	SE Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Fusion	SE Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 FLEX DOHC Naturally Aspirated
+2019	Ford	Fusion	SE Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	SEL Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	SEL Sedan 4-Door	1.5L 1499CC 91Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Fusion	SEL Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Fusion	SEL Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 FLEX DOHC Naturally Aspirated
+2019	Ford	Fusion	SEL Sedan 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	Sport Sedan 4-Door	2.7L 164Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Fusion	Titanium Hybrid Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Fusion	Titanium Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	GT	Base Coupe 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Lobo	King Ranch Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Lobo	Lariat Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Lobo	Platinum Crew Cab Pickup 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Lobo	XLT Standard Cab Pickup 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	Bullitt Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	EcoBoost Convertible 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Mustang	EcoBoost Coupe 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Mustang	EcoBoost Premium Convertible 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Mustang	EcoBoost Premium Coupe 2-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Mustang	GT Convertible 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	GT Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	GT Premium Convertible 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	GT Premium Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	GT V8 Convertible 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	GT V8 Coupe 2-Door	5.0L 4951CC 302Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	Shelby GT350 Coupe 2-Door	5.2L 5163CC 315Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Mustang	Shelby GT350R Coupe 2-Door	5.2L 5163CC 315Cu. In. V8 GAS DOHC Naturally Aspirated
+2019	Ford	Police Interceptor Sedan	Base Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Police Interceptor Sedan	Base Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Police Interceptor Sedan	Base Sedan 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Police Interceptor Utility	Base Sport Utility 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Police Interceptor Utility	Base Sport Utility 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Police Responder Hybrid	Base Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Ranger	Lariat Crew Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Ranger	Lariat Extended Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Ranger	XL Cab & Chassis 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Ranger	XL Crew Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Ranger	XL Crew Cab Pickup 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Ranger	XL Extended Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Ranger	XLT Crew Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	Ranger	XLT Crew Cab Pickup 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Ranger	XLT Crew Cab Pickup 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Ranger	XLT Extended Cab Pickup 4-Door	2.3L 2300CC 140Cu. In. l4 GAS DOHC Turbocharged
+2019	Ford	SSV Plug-In Hybrid	Base Sedan 4-Door	2.0L 1999CC 122Cu. In. l4 ELECTRIC/GAS DOHC Naturally Aspirated
+2019	Ford	Taurus	Limited Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Taurus	Limited Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Taurus	SE Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Taurus	SE Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Taurus	SEL Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Taurus	SEL Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Taurus	SHO Sedan 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit	Base Cab & Chassis 2-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit	Cargo Extended Cargo Van 2-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit	Cargo Extended Cargo Van 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit	Cargo Standard Cargo Van 2-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit	Cargo Standard Cargo Van 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit	Pasajeros Extended Passenger Van 4-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit	Pasajeros Extended Passenger Van 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	Titanium Mini Passenger Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Connect	Titanium Mini Passenger Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Cargo Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Passenger Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XL Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Cargo Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	1.5L 1499CC 91Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.0L 1999CC 122Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 CNG DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 GAS DOHC Naturally Aspirated
+2019	Ford	Transit Connect	XLT Mini Passenger Van 4-Door	2.5L 2488CC 152Cu. In. l4 LPG DOHC Naturally Aspirated
+2019	Ford	Transit Custom	Cargo Extended Cargo Van 4-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Custom	Cargo Standard Cargo Van 4-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit Custom	Pasajeros Extended Passenger Van 4-Door	2.2L 2198CC 134Cu. In. l4 DIESEL DOHC Turbocharged
+2019	Ford	Transit-150	Base Standard Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-150	Base Standard Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-150	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-150	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-150	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-150	Base Standard Cargo Van 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-150	Base Standard Cargo Van 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-150	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-150	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-150	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-150	XL Standard Passenger Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-150	XL Standard Passenger Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-150	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-150	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-150	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-150	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-150	XLT Standard Passenger Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-150	XLT Standard Passenger Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-150	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-150	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-150	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-150	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cab & Chassis 2-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	Base Cab & Chassis 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cutaway Van 2-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	Base Cutaway Van 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	Base Extended Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	Base Extended Cargo Van 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	Base Standard Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	Base Standard Cargo Van 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Extended Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	PTV Extended Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	PTV Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Standard Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-250	PTV Standard Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-250	PTV Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-250	PTV Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cab & Chassis 2-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	Base Cab & Chassis 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cutaway Van 2-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	Base Cutaway Van 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	Base Extended Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	Base Extended Cargo Van 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	Base Standard Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	Base Standard Cargo Van 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	Base Standard Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	XL Standard Passenger Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	XL Standard Passenger Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	XL Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350	XLT Standard Passenger Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350	XLT Standard Passenger Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350	XLT Standard Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cab & Chassis 2-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Cab & Chassis 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cab & Chassis 2-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cutaway Van 2-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Cutaway Van 2-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Cutaway Van 2-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 4-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 4-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 GAS DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	Base Extended Cargo Van 4-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	XL Extended Passenger Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350 HD	XL Extended Passenger Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350 HD	XL Extended Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	XL Extended Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	XL Extended Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	XLT Extended Passenger Van 3-Door	3.2L 195Cu. In. l5 DIESEL DOHC Turbocharged
+2019	Ford	Transit-350 HD	XLT Extended Passenger Van 3-Door	3.5L 3496CC 213Cu. In. V6 GAS DOHC Turbocharged
+2019	Ford	Transit-350 HD	XLT Extended Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 CNG DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	XLT Extended Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 FLEX DOHC Naturally Aspirated
+2019	Ford	Transit-350 HD	XLT Extended Passenger Van 3-Door	3.7L 3726CC 227Cu. In. V6 LPG DOHC Naturally Aspirated

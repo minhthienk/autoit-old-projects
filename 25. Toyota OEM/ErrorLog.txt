@@ -1,0 +1,13 @@
+
+
+=====================================================================================
+COM Error!
+          err.description is : 	
+          err.windescription : 	Exception occurred.
+          err.number is      : 	80020009
+          err.lastdllerror is: 	0
+          err.scriptline is  : 	-1
+          err.source is      : 	
+          err.helpfile is  : 	
+          err.helpcontext is : 	0
+          link when error    : 	

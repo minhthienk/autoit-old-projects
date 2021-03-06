@@ -1,0 +1,187 @@
+This config file is to save System Strings, Part Strings and Search Strings
+for the tool to get all DTC links of the vehicle
+Model Year Link: http://repair.alldata.com/alldata/navigation/treedisplay.action?vehicleId=51088&componentId=0&iTypeId=0&nonStandardId=0&fromJs=false&openUrl=
+
+<<<-- SYSTEM STRINGS -->>>
+Cruise Control System
+SFI System
+Smart Key System (for Start Function)
+U760E Automatic Transaxle
+
+<<<-- PART STRINGS -->>>
+Part 1
+Part 2
+Part 3
+Part 4
+Part 5
+
+<<<-- SEARCH STRINGS -->>>
+[0][0]P2A00 >> SFI System
+[1][0]P0010 >> SFI System
+[2][0]P0011 >> SFI System
+[3][0]P011B >> SFI System
+[4][0]P0012 >> SFI System
+[5][0]P0013 >> SFI System
+[6][0]P0014 >> SFI System
+[7][0]P014C >> SFI System
+[8][0]P014D >> SFI System
+[9][0]P0015 >> SFI System
+[10][0]P015A >> SFI System
+[11][0]P015B >> SFI System
+[12][0]P0016 >> SFI System
+[13][0]P0017 >> SFI System
+[14][0]P0031 >> SFI System
+[15][0]P0032 >> SFI System
+[16][0]P0037 >> SFI System
+[17][0]P0038 >> SFI System
+[18][0]P043E >> SFI System
+[19][0]P043F >> SFI System
+[20][0]P050A >> SFI System
+[21][0]P050B >> SFI System
+[22][0]P060A >> SFI System
+[23][0]P060B >> SFI System
+[24][0]P060D >> SFI System
+[25][0]P060E >> SFI System
+[26][0]P062F >> SFI System
+[27][0]P0101 >> SFI System
+[28][0]P101D >> SFI System
+[29][0]P0102 >> SFI System
+[30][0]P102D >> SFI System
+[31][0]P0103 >> SFI System
+[32][0]P0111 >> SFI System
+[33][0]P0112 >> SFI System
+[34][0]P0113 >> SFI System
+[35][0]P0115 >> SFI System
+[36][0]P0116 >> SFI System
+[37][0]P0117 >> SFI System
+[38][0]P0118 >> SFI System
+[39][0]P0120 >> SFI System
+[40][0]P0121 >> SFI System
+[41][0]P0122 >> SFI System
+[42][0]P0123 >> SFI System
+[43][0]P0125 >> SFI System
+[44][0]P0128 >> SFI System
+[45][0]P0136 >> SFI System
+[46][0]P0137 >> SFI System
+[47][0]P0138 >> SFI System
+[48][0]P0139 >> SFI System
+[49][0]P0141 >> SFI System
+[50][0]P0171 >> SFI System
+[51][0]P0172 >> SFI System
+[52][0]P219A >> SFI System
+[53][0]P0220 >> SFI System
+[54][0]P0222 >> SFI System
+[55][0]P0223
+[56][0]P0300 >> SFI System
+[57][0]P0301
+[58][0]P0302 >> SFI System
+[59][0]P0303 >> SFI System
+[60][0]P0304 >> SFI System
+[61][0]P0327 >> SFI System
+[62][0]P0328 >> SFI System
+[63][0]P0335 >> SFI System
+[64][0]P0335 >> Smart Key System (for Start Function)
+[65][0]P0339 >> SFI System
+[66][0]P0340 >> SFI System
+[67][0]P0342 >> SFI System
+[68][0]P0343 >> SFI System
+[69][0]P0351 >> SFI System
+[70][0]P0352 >> SFI System
+[71][0]P0353 >> SFI System
+[72][0]P0354 >> SFI System
+[73][0]P0365 >> SFI System
+[74][0]P0367 >> SFI System
+[75][0]P0368 >> SFI System
+[76][0]P0420 >> SFI System
+[77][0]P0441 >> SFI System
+[78][0]P0451 >> SFI System
+[79][0]P0452 >> SFI System
+[80][0]P0453 >> SFI System
+[81][0]P0455 >> SFI System
+[82][0]P0456 >> SFI System
+[83][0]P0500 >> Cruise Control System
+[84][0]P0500 >> SFI System
+[85][0]P0503 >> Cruise Control System
+[86][0]P0504 >> SFI System
+[87][0]P0505 >> SFI System
+[88][0]P0560 >> SFI System
+[89][0]P0571 >> Cruise Control System
+[90][0]P0575 >> Cruise Control System
+[91][0]P0604 >> SFI System
+[92][0]P0606 >> SFI System
+[93][0]P0607 >> SFI System
+[94][0]P0617 >> SFI System
+[95][0]P0630 >> SFI System
+[96][0]P0657 >> SFI System
+[97][0]P0705 >> U760E Automatic Transaxle
+[98][0]P0711 >> U760E Automatic Transaxle
+[99][0]P0712 >> U760E Automatic Transaxle
+[100][0]P0713 >> U760E Automatic Transaxle
+[101][0]P0715 >> U760E Automatic Transaxle
+[102][0]P0717 >> U760E Automatic Transaxle
+[103][0]P0724 >> SFI System
+[104][0]P0741 >> U760E Automatic Transaxle
+[105][0]P0746 >> U760E Automatic Transaxle
+[106][0]P0748 >> U760E Automatic Transaxle
+[107][0]P0776 >> U760E Automatic Transaxle
+[108][0]P0778 >> U760E Automatic Transaxle
+[109][0]P0791 >> U760E Automatic Transaxle
+[110][0]P0793 >> U760E Automatic Transaxle
+[111][0]P0796 >> U760E Automatic Transaxle
+[112][0]P0798 >> U760E Automatic Transaxle
+[113][0]P1603 >> SFI System >> Part 1
+[113][1]P1603 >> SFI System >> Part 2
+[113][2]P1603 >> SFI System >> Part 3
+[114][0]P1604 >> SFI System >> Part 1
+[114][1]P1604 >> SFI System >> Part 2
+[114][2]P1604 >> SFI System >> Part 3
+[114][3]P1604 >> SFI System >> Part 4
+[114][4]P1604 >> SFI System >> Part 5
+[115][0]P1605 >> SFI System >> Part 1
+[115][1]P1605 >> SFI System >> Part 2
+[115][2]P1605 >> SFI System >> Part 3
+[116][0]P1607 >> SFI System
+[117][0]P2004 >> SFI System
+[118][0]P2006 >> SFI System
+[119][0]P2009 >> SFI System
+[120][0]P2010 >> SFI System
+[121][0]P2014 >> SFI System
+[122][0]P2016 >> SFI System
+[123][0]P2017 >> SFI System
+[124][0]P2102 >> SFI System
+[125][0]P2103 >> SFI System
+[126][0]P2109 >> SFI System
+[127][0]P2111 >> SFI System
+[128][0]P2112 >> SFI System
+[129][0]P2118 >> SFI System
+[130][0]P2119 >> SFI System
+[131][0]P2120 >> SFI System
+[132][0]P2121 >> SFI System
+[133][0]P2122 >> SFI System
+[134][0]P2123 >> SFI System
+[135][0]P2125 >> SFI System
+[136][0]P2127 >> SFI System
+[137][0]P2128 >> SFI System
+[138][0]P2135 >> SFI System
+[139][0]P2138 >> SFI System
+[140][0]P2195 >> SFI System
+[141][0]P2196 >> SFI System
+[142][0]P2237 >> SFI System
+[143][0]P2238 >> SFI System
+[144][0]P2239 >> SFI System
+[145][0]P2252 >> SFI System
+[146][0]P2253 >> SFI System
+[147][0]P2401 >> SFI System
+[148][0]P2402 >> SFI System
+[149][0]P2419 >> SFI System
+[150][0]P2420 >> SFI System
+[151][0]P2610 >> SFI System
+[152][0]P2714 >> U760E Automatic Transaxle
+[153][0]P2716 >> U760E Automatic Transaxle
+[154][0]P2757 >> U760E Automatic Transaxle
+[155][0]P2759 >> U760E Automatic Transaxle
+[156][0]P2769 >> U760E Automatic Transaxle
+[157][0]P2770 >> U760E Automatic Transaxle
+[158][0]P2808 >> U760E Automatic Transaxle
+[159][0]P2810 >> U760E Automatic Transaxle
+Last Saved: New
